@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXT-X-MEDIA:TYPE=CLOSED-CAPTIONS,GROUP-ID="captions",NAME="English",DEFAULT=NO,LANGUAGE="en",INSTREAM-ID="CC1"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=921600,CLOSED-CAPTIONS="captions"
-https://redek-dp.github.io/streaming/dsvn/list/devseventv.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=921600,CLOSED-CAPTIONS="captions"
+https://1redek-dp.github.io/streaming/dsvn/list/devseventv.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=2,BANDWIDTH=9214600,CLOSED-CAPTIONS="captions"
 https://redek-dp.github.io/streaming/dnetwork/playlist.m3u8
