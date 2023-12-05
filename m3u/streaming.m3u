@@ -24,6 +24,18 @@ https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AFVFamily.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/dLSKBEn.png" group-title="Comedy",TV AFV Family
 https://futuretoday-afv-family-2-ie.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AFV.BE" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/dLSKBEn.png" group-title="Comedy",TV AFV Family BE
+https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AFV.IE" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/dLSKBEn.png" group-title="Comedy",TV AFV Family IE
+https://futuretoday-afv-family-2-ie.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AFV.US" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/dLSKBEn.png" group-title="Comedy",TV AFV Family US
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AFV.ES" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/dLSKBEn.png" group-title="Comedy",TV AFV Family ES
+https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RedeMinas.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/MtQWAHv.png" group-title="Education",TV Rede Minas
 https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8
 
@@ -48,14 +60,17 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkLiveLatinAmerica.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/LVLMTZ0.png" group-title="Kids",TV Cartoon Network Latin America 6
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Cartoon.AR" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/LVLMTZ0.png" group-title="Kids",TV Cartoon Network AR
+https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cartoon.AR" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/LVLMTZ0.png" group-title="Kids",TV Cartoon Network AR
+https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TastemadeBrazil.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/FPy4zF4.png" group-title="Cooking",TV Tastemade Brasil
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tastemade.es" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/FPy4zF4.png" group-title="Cooking",TV Tastemade Spain
 https://tastemade-es16tm-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tastemade.nz" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/FPy4zF4.png" group-title="Cooking",TV Tastemade New Zealand
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tastemade.se" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/FPy4zF4.png" group-title="Cooking",TV Tastemade Sweden
 https://tmint-aus-samsungswedan.amagi.tv/playlist.m3u8
@@ -74,6 +89,16 @@ https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tastemade.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/FPy4zF4.png" group-title="Cooking",TV Tastemade US
 https://tastemade-xumo.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16xumo/CDN/master.m3u8
+
+#EXTINF:-1 tvg-id="gusto.tv.NZ" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/swUX3hQ.png" group-title="Cooking",TV Gusto NZ
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="gusto.tv.SE" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/swUX3hQ.png" group-title="Cooking",TV Gusto SE
+https://gustotv-gustotv-2-se.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="gusto.tv.UK" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/swUX3hQ.png" group-title="Cooking",TV Gusto UK
+https://gustotv-samsung-gb.samsung.wurl.tv/manifest/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="MyTimeMovieNetworkBrazil.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/aiGQtzI.png" group-title="Movies",TV MyTime Movie Network Brazil
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
