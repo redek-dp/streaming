@@ -51,6 +51,30 @@ https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
 #EXTINF:-1 tvg-id="TastemadeBrazil.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/FPy4zF4.png" group-title="Cooking",TV Tastemade Brasil
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Tastemade.es" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/FPy4zF4.png" group-title="Cooking",TV Tastemade Spain
+https://tastemade-es16tm-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tastemade.nz" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/FPy4zF4.png" group-title="Cooking",TV Tastemade New Zealand
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tastemade.se" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/FPy4zF4.png" group-title="Cooking",TV Tastemade Sweden
+https://tmint-aus-samsungswedan.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tastemade.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/FPy4zF4.png" group-title="Cooking",TV Tastemade United States 1
+https://tastemade-intl-vizioca.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tastemade.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/FPy4zF4.png" group-title="Cooking",TV Tastemade United States 2
+https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tastemade.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/FPy4zF4.png" group-title="Cooking",TV Tastemade United States 3
+https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tastemade.travel" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/FPy4zF4.png" group-title="Cooking",TV Tastemade Travel
+https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tastemade.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/FPy4zF4.png" group-title="Cooking",TV Tastemade US
+https://tastemade-xumo.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16xumo/CDN/master.m3u8
+
 #EXTINF:-1 tvg-id="MyTimeMovieNetworkBrazil.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/aiGQtzI.png" group-title="Movies",TV MyTime Movie Network Brazil
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
