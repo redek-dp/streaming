@@ -955,4 +955,26 @@ https://lnc-kero.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="abc.US" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/m4N8AhN.png" group-title="News",TV ABC US Waco TX
 https://lnc-kxxv.tubi.video/playlist.m3u8
 
+#EXTINF:-1 tvg-id="abc.US" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/m4N8AhN.png" group-title="News",TV ABC US West Palm Beach FL
+https://lnc-wpbf.tubi.video/playlist.m3u8
 
+#EXTINF:-1 tvg-id="abc.US" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/m4N8AhN.png" group-title="News",TV ABC US Tallahassee FL
+https://lnc-wtxl.tubi.video/playlist.m3u8
+
+#EXTINF:-1 tvg-id="abc.US" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/m4N8AhN.png" group-title="News",TV ABC US Tampa Bay FL
+https://lnc-wfts2.tubi.video/playlist.m3u8
+
+#EXTINF:-1 tvg-id="abc.US" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/m4N8AhN.png" group-title="News",TV ABC US Pittsburg PA
+https://lnc-wtae.tubi.video/playlist.m3u8
+
+#EXTINF:-1 tvg-id="abc.US" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/m4N8AhN.png" group-title="News",TV ABC US Fort Smith AR
+https://lnc-khbs.tubi.video/playlist.m3u8
+
+#EXTINF:-1 tvg-id="abc.US" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/m4N8AhN.png" group-title="News",TV ABC US Boston MA
+https://lnc-wcvb.tubi.video/playlist.m3u8
+
+#EXTINF:-1 tvg-id="abc.US" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/m4N8AhN.png" group-title="News",TV ABC US Detroit MI
+https://lnc-wxyz2.tubi.video/playlist.m3u8
+
+#EXTINF:-1 tvg-id="abc.US" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/m4N8AhN.png" group-title="News",TV ABC US News Live
+https://lnc-abc-news.tubi.video/index.m3u8
