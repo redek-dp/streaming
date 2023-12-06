@@ -913,6 +913,9 @@ https://lol-lolnetwork-2-nl.samsung.wurl.tv/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="abc.US" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/m4N8AhN.png" group-title="News",TV ABC US News Live
+https://lnc-abc-news.tubi.video/index.m3u8
+
 #EXTINF:-1 tvg-id="abc.au" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/m4N8AhN.png" group-title="News",TV ABC AU
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
@@ -976,5 +979,3 @@ https://lnc-wcvb.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="abc.US" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/m4N8AhN.png" group-title="News",TV ABC US Detroit MI
 https://lnc-wxyz2.tubi.video/playlist.m3u8
 
-#EXTINF:-1 tvg-id="abc.US" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/m4N8AhN.png" group-title="News",TV ABC US News Live
-https://lnc-abc-news.tubi.video/index.m3u8
