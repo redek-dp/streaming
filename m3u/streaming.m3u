@@ -913,6 +913,46 @@ https://lol-lolnetwork-2-nl.samsung.wurl.tv/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="abc.au" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/m4N8AhN.png" group-title="News",TV ABC AU
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
+#EXTINF:-1 tvg-id="abc.PY" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/m4N8AhN.png" group-title="News",TV ABC PY
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+
+#EXTINF:-1 tvg-id="abc.US" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/m4N8AhN.png" group-title="News",TV ABC US Bakersfield CA
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+
+#EXTINF:-1 tvg-id="abc.US" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/m4N8AhN.png" group-title="News",TV ABC US Miami FL
+https://lnc-kgtv2.tubi.video/playlist.m3u8
+
+#EXTINF:-1 tvg-id="abc.US" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/m4N8AhN.png" group-title="News",TV ABC US Milwaukee WI
+https://lnc-wisn.tubi.video/playlist.m3u8
+
+#EXTINF:-1 tvg-id="abc.US" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/m4N8AhN.png" group-title="News",TV ABC US Las Vegas NV
+https://lnc-ktnv.tubi.video/playlist.m3u8
+
+#EXTINF:-1 tvg-id="abc.US" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/m4N8AhN.png" group-title="News",TV ABC US Las Vegas NV
+https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
+
+#EXTINF:-1 tvg-id="abc.US" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/m4N8AhN.png" group-title="News",TV ABC US Phoenix AZ
+https://lnc-knxv2.tubi.video/playlist.m3u8
+
+#EXTINF:-1 tvg-id="abc.US" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/m4N8AhN.png" group-title="News",TV ABC US Phoenix AZ
+https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
+
+#EXTINF:-1 tvg-id="abc.US" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/m4N8AhN.png" group-title="News",TV ABC US Jackson MS
+https://lnc-wapt.tubi.video/playlist.m3u8
+
+#EXTINF:-1 tvg-id="abc.US" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/m4N8AhN.png" group-title="News",TV ABC US Baltimore MD
+https://lnc-wmar.tubi.video/playlist.m3u8
+
+#EXTINF:-1 tvg-id="abc.US" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/m4N8AhN.png" group-title="News",TV ABC US Savannah GA
+https://lnc-wjcl.tubi.video/playlist.m3u8
+
+#EXTINF:-1 tvg-id="abc.US" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/m4N8AhN.png" group-title="News",TV ABC US Bakersfield CA
+https://lnc-kero.tubi.video/playlist.m3u8
+
+#EXTINF:-1 tvg-id="abc.US" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/m4N8AhN.png" group-title="News",TV ABC US Waco TX
+https://lnc-kxxv.tubi.video/playlist.m3u8
 
 
