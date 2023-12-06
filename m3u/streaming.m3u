@@ -114,14 +114,34 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbonappetit/CDN/playlist.m3u
 #EXTINF:-1 tvg-id="PetClubTV" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/ykPNNwQ.png" group-title="Comedy",TV Pet Club TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="P1" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/yH7n2dF.png" group-title="General",TV The Pet Collective 1
+#EXTINF:-1 tvg-id="P.CA" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/yH7n2dF.png" group-title="General",TV The Pet Collective CA
 https://the-pet-collective-international-ca.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="P2" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/yH7n2dF.png" group-title="General",TV The Pet Collective 2
+#EXTINF:-1 tvg-id="P.ES" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/yH7n2dF.png" group-title="General",TV The Pet Collective ES
+https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="P.IT" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/yH7n2dF.png" group-title="General",TV The Pet Collective IT
+https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="P.IN" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/yH7n2dF.png" group-title="General",TV The Pet Collective IN
+https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="P.NL" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/yH7n2dF.png" group-title="General",TV The Pet Collective NL
 https://the-pet-collective-international-nl.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="P3" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/yH7n2dF.png" group-title="General",TV The Pet Collective 3
+#EXTINF:-1 tvg-id="P.SE" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/yH7n2dF.png" group-title="General",TV The Pet Collective SE
+https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="P.US" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/yH7n2dF.png" group-title="General",TV The Pet Collective US
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="discovery.SA" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/61siK0t.png" group-title="General",TV Discovery SA
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="DiscoveryKidsLiveBrazil.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/C0VEHXU.png" group-title="Kids",TV Discovery Kids Brazil 
 https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist.m3u8
