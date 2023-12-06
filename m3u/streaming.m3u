@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/IkZfa4j.png" group-title="General",TV SBT Interior
+#EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/jC388aq.png" group-title="General",TV SBT Interior
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AFV.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/TOB9vmW.png" group-title="Comedy",TV AFV 
@@ -69,25 +69,25 @@ https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 #EXTINF:-1 tvg-id="TastemadeBrazil.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/FPy4zF4.png" group-title="Cooking",TV Tastemade Brasil
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tastemade.es" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/FPy4zF4.png" group-title="Cooking",TV Tastemade Spain
+#EXTINF:-1 tvg-id="Tastemade.es" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/EopYeL1.png" group-title="Cooking",TV Tastemade Spain
 https://tastemade-es16tm-samsung.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tastemade.se" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/FPy4zF4.png" group-title="Cooking",TV Tastemade Sweden
+#EXTINF:-1 tvg-id="Tastemade.se" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/EopYeL1.png" group-title="Cooking",TV Tastemade Sweden
 https://tmint-aus-samsungswedan.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tastemade.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/FPy4zF4.png" group-title="Cooking",TV Tastemade United States 1
+#EXTINF:-1 tvg-id="Tastemade.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/EopYeL1.png" group-title="Cooking",TV Tastemade United States 1
 https://tastemade-intl-vizioca.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tastemade.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/FPy4zF4.png" group-title="Cooking",TV Tastemade United States 2
+#EXTINF:-1 tvg-id="Tastemade.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/EopYeL1.png" group-title="Cooking",TV Tastemade United States 2
 https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tastemade.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/FPy4zF4.png" group-title="Cooking",TV Tastemade United States 3
+#EXTINF:-1 tvg-id="Tastemade.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/EopYeL1.png" group-title="Cooking",TV Tastemade United States 3
 https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tastemade.travel" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/FPy4zF4.png" group-title="Cooking",TV Tastemade Travel
+#EXTINF:-1 tvg-id="Tastemade.travel" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/EopYeL1.png" group-title="Cooking",TV Tastemade Travel
 https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tastemade.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/FPy4zF4.png" group-title="Cooking",TV Tastemade US
+#EXTINF:-1 tvg-id="Tastemade.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/EopYeL1.png" group-title="Cooking",TV Tastemade US
 https://tastemade-xumo.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16xumo/CDN/master.m3u8
 
 #EXTINF:-1 tvg-id="gusto.tv.NZ" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/swUX3hQ.png" group-title="Cooking",TV Gusto NZ
