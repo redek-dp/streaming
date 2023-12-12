@@ -1,0 +1,490 @@
+[
+    {
+        "id": 1,
+        "tvtitle": "ADN TV+ (1080p) [Geo-Blocked]",
+        "tvmedia": "samsunguk-adn-samsung-fre-qfrlc.amagi.tv/playlist/samsunguk-adn-samsung-fre/playlist.m3u8",
+        "tvid": "ADNTVPlus.fr",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HQZQyWt.png",
+        "tvgroup": "Animation"
+    },
+    {
+        "id": 2,
+        "tvtitle": "Adult Swim Aqua Teen Hunger Force (1080p) [Geo-blocked]",
+        "tvmedia": "adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream_de.m3u8",
+        "tvid": "AdultSwimAquaTeenHungerForce.us",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/cvnniFH.png",
+        "tvgroup": "Animation"
+    },
+    {
+        "id": 3,
+        "tvtitle": "Adult Swim Rick and Morty (1080p) [Geo-blocked]",
+        "tvmedia": "adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8",
+        "tvid": "AdultSwimRickandMorty.us",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/uPV5CT1.png",
+        "tvgroup": "Animation"
+    },
+    {
+        "id": 4,
+        "tvtitle": "Adult Swim Robot Chicken (1080p) [Geo-blocked]",
+        "tvmedia": "adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_de.m3u8",
+        "tvid": "AdultSwimRobotChicken.us",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/E6EJ14j.png",
+        "tvgroup": "Animation"
+    },
+    {
+        "id": 5,
+        "tvtitle": "Adult Swim Samurai Jack (1080p) [Geo-blocked]",
+        "tvmedia": "adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_de.m3u8",
+        "tvid": "AdultSwimSamuraiJack.us",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/UOZ4VTH.png",
+        "tvgroup": "Animation"
+    },
+    {
+        "id": 6,
+        "tvtitle": "Adult Swim The Venture Bros. (1080p) [Geo-blocked]",
+        "tvmedia": "adultswim-vodlive.cdn.turner.com/live/venture-bros/stream_de.m3u8",
+        "tvid": "AdultSwimTheVentureBros.us",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/ZwNmt8Y.png",
+        "tvgroup": "Animation"
+    },
+    {
+        "id": 7,
+        "tvtitle": "Alan Becker TV",
+        "tvmedia": "ythls.armelin.one/channel/UCbKWv2x9t6u8yZoB3KcPtnw.m3u8",
+        "tvid": "AlanBeckerTV.us",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=yt3.googleusercontent.com/ytc/AOPolaSk8jLwTPTZ9tnSWr0coUk1-VJLYQCi2muftdUyHw=s100-c-k-c0x00ffffff-no-rj",
+        "tvgroup": "Animation"
+    },
+    {
+        "id": 8,
+        "tvtitle": "Anime TV (360p) [Not 24/7]",
+        "tvmedia": "stmv1.srvif.com/animetv/animetv/playlist.m3u8",
+        "tvid": "AnimeTV.br",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/CFSSTID.png",
+        "tvgroup": "Animation"
+    },
+    {
+        "id": 9,
+        "tvtitle": "Anime Zone TV (480p)",
+        "tvmedia": "http://animezonetv.net/hls/stream.m3u8",
+        "tvid": "AnimeZoneTV.do",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/fDlkOBx.png",
+        "tvgroup": "Animation"
+    },
+    {
+        "id": 10,
+        "tvtitle": "Cartoon Network",
+        "tvmedia": "http://europe3.livetv.az/russia/cartoon/playlist.m3u8",
+        "tvid": "CartoonNetwork.ru",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",
+        "tvgroup": "Animation;Kids"
+    },
+    {
+        "id": 11,
+        "tvtitle": "Cartoon Network Arabia (1080p)",
+        "tvmedia": "shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8",
+        "tvid": "CartoonNetworkArabic.ae",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/512px-Cartoon_Network_Arabic_logo.png",
+        "tvgroup": "Animation;Kids"
+    },
+    {
+        "id": 12,
+        "tvtitle": "Cartoon Network East TVE Feed (720p) [Geo-Blocked] [Not 24/7]",
+        "tvmedia": "turnerlive.warnermediacdn.com/hls/live/2023167/tooneast/slate/VIDEO_0_3564000.m3u8",
+        "tvid": "CartoonNetworkEast.us",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",
+        "tvgroup": "Animation;Kids"
+    },
+    {
+        "id": 13,
+        "tvtitle": "Cartoon Network FreeLive Brazil 2 (720p)",
+        "tvmedia": "playout.cdn.cartoonnetwork.com.br/playout_05/playlist.m3u8",
+        "tvid": "CartoonNetworkLive2.br",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/512px-Cartoon_Network_HD_logo.svg.png",
+        "tvgroup": "Animation;Kids"
+    },
+    {
+        "id": 14,
+        "tvtitle": "Cartoon Network FreeLive Brazil (720p)",
+        "tvmedia": "playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8",
+        "tvid": "CartoonNetworkLive.br",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/512px-Cartoon_Network_HD_logo.svg.png",
+        "tvgroup": "Animation;Kids"
+    },
+    {
+        "id": 15,
+        "tvtitle": "Cartoon Network FreeLive Latam 2 (720p)",
+        "tvmedia": "playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8",
+        "tvid": "CartoonNetworkLiveLatinAmerica2.br",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/512px-Cartoon_Network_HD_logo.svg.png",
+        "tvgroup": "Animation;Kids"
+    },
+    {
+        "id": 16,
+        "tvtitle": "Cartoon Network FreeLive Latam (720p)",
+        "tvmedia": "playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8",
+        "tvid": "CartoonNetworkLiveLatinAmerica.br",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/512px-Cartoon_Network_HD_logo.svg.png",
+        "tvgroup": "Animation;Kids"
+    },
+    {
+        "id": 17,
+        "tvtitle": "Cartoon Network México (720p)",
+        "tvmedia": "playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8",
+        "tvid": "CartoonNetwork.mx",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",
+        "tvgroup": "Animation;Kids"
+    },
+    {
+        "id": 18,
+        "tvtitle": "Cartoonito FreeLive Brazil (720p)",
+        "tvmedia": "playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8",
+        "tvid": "CartoonitoLive.br",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png",
+        "tvgroup": "Animation;Kids"
+    },
+    {
+        "id": 19,
+        "tvtitle": "Cartoonito FreeLive Latam (720p)",
+        "tvmedia": "playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8",
+        "tvid": "CartoonitoLiveLatinAmerica.br",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png",
+        "tvgroup": "Animation;Kids"
+    },
+    {
+        "id": 20,
+        "tvtitle": "Cartoonito México (720p)",
+        "tvmedia": "playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8",
+        "tvid": "Cartoonito.mx",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png",
+        "tvgroup": "Animation;Kids"
+    },
+    {
+        "id": 21,
+        "tvtitle": "CONtv Anime (1080p)",
+        "tvmedia": "contvanime-roku-ingest.cinedigm.com/master.m3u8",
+        "tvid": "CONtvAnime.us",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/49LrRwJ.png",
+        "tvgroup": "Animation"
+    },
+    {
+        "id": 22,
+        "tvtitle": "DreikoTv (720p) [Not 24/7]",
+        "tvmedia": "cloudvideo.servers10.com:8081/8138/index.m3u8",
+        "tvid": "DreikoTV.pa",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/k8U0e0b.png",
+        "tvgroup": "Animation"
+    },
+    {
+        "id": 23,
+        "tvtitle": "EnerGeek (720p) [Not 24/7]",
+        "tvmedia": "wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8",
+        "tvid": "EnerGeek.cl",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=cdn.energeek.cl/logos/Marca-512.png",
+        "tvgroup": "Animation"
+    },
+    {
+        "id": 24,
+        "tvtitle": "eSports Max (480p) [Not 24/7]",
+        "tvmedia": "http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8",
+        "tvid": "eSportsMaxTV.ve",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/OprRgQN.png",
+        "tvgroup": "Animation"
+    },
+    {
+        "id": 25,
+        "tvtitle": "Faithlife TV Christmas Music (720p)",
+        "tvmedia": "vse2-na-us-ne24.secdn.net/logos-channel/live/christmas/playlist.m3u8",
+        "tvid": "ChristmasMusic.us",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/75Sq48R.png",
+        "tvgroup": "Animation;Entertainment;Music;Religious"
+    },
+    {
+        "id": 26,
+        "tvtitle": "FAN",
+        "tvmedia": "http://94.230.240.17:8080/fan/index.m3u8",
+        "tvid": "FAN.ru",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/mDeTbaF.png",
+        "tvgroup": "Animation;Movies"
+    },
+    {
+        "id": 27,
+        "tvtitle": "Fanpop TV (720p) [Not 24/7]",
+        "tvmedia": "wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8",
+        "tvid": "FanpopTV.cl",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=cdn.energeek.cl/logos/Fanpop-512.png",
+        "tvgroup": "Animation"
+    },
+    {
+        "id": 28,
+        "tvtitle": "Geekdot (720p)",
+        "tvmedia": "stream.ichibantv.com:3764/hybrid/play.m3u8",
+        "tvid": "Geekdot.br",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/jML1u4O.png",
+        "tvgroup": "Animation"
+    },
+    {
+        "id": 29,
+        "tvtitle": "Kuriakos Kids (1080p)",
+        "tvmedia": "w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8",
+        "tvid": "KuriakosKids.pt",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/SRX6EPY.png",
+        "tvgroup": "Animation;Kids;Religious"
+    },
+    {
+        "id": 30,
+        "tvtitle": "LatinoKids (480p) [Not 24/7]",
+        "tvmedia": "6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8",
+        "tvid": "LatinoKidsTV.uy",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/VEk5aJ6.png",
+        "tvgroup": "Animation"
+    },
+    {
+        "id": 31,
+        "tvtitle": "Leader Phoenix (480p) [Not 24/7]",
+        "tvmedia": "http://connectiktv.ddns.me:8080/live/63ab4eb0ac1a5/index.m3u8",
+        "tvid": "LeaderPhoenix.cm",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.ibb.co/2ZP3JTV/Screenshot-20230807-140244.jpg",
+        "tvgroup": "Animation"
+    },
+    {
+        "id": 32,
+        "tvtitle": "Locomotion TV (480p) [Not 24/7]",
+        "tvmedia": "http://51.222.85.85:81/hls/loco/index.m3u8",
+        "tvid": "LocomotionTV.do",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/1CftDPB.png",
+        "tvgroup": "Animation"
+    },
+    {
+        "id": 33,
+        "tvtitle": "Lolo TV (576p)",
+        "tvmedia": "void.greenhosting.ru/PingvinsLV_Mpeg4/video.m3u8",
+        "tvid": "LoloTV.lv",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=static.wikia.nocookie.net/logopedia/images/2/2a/LoloTV_logo_2019.png",
+        "tvgroup": "Animation;Kids"
+    },
+    {
+        "id": 34,
+        "tvtitle": "Magic Kids (486p)",
+        "tvmedia": "magicstream.ddns.net/magicstream/stream.m3u8",
+        "tvid": "MagicKids.ar",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/CMImqQY.png",
+        "tvgroup": "Animation"
+    },
+    {
+        "id": 35,
+        "tvtitle": "MCN6 Music Channel (1080p) [Not 24/7]",
+        "tvmedia": "d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8",
+        "tvid": "MCN6MusicChannel.us",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/j6IiysJ.png",
+        "tvgroup": "Animation;Kids;Music"
+    },
+    {
+        "id": 36,
+        "tvtitle": "Pandamax Channel (1080p)",
+        "tvmedia": "stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8",
+        "tvid": "PandamaxChannel.cl",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=pandamax.cl/assets/img/pandalogo2.png",
+        "tvgroup": "Animation"
+    },
+    {
+        "id": 37,
+        "tvtitle": "Persiana Junior (720p)",
+        "tvmedia": "http://51.210.199.18/hls/stream.m3u8",
+        "tvid": "PersianaJunior.fr",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/zeKHZYG.png",
+        "tvgroup": "Animation"
+    },
+    {
+        "id": 38,
+        "tvtitle": "PlanetaTV 90s (720p)",
+        "tvmedia": "mediacpstreamchile.com:1936/8102/8102/playlist.m3u8",
+        "tvid": "PlanetaTV90s.cl",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/rtZTw3F.png",
+        "tvgroup": "Animation;Entertainment;Movies;Series"
+    },
+    {
+        "id": 39,
+        "tvtitle": "Pluto TV Animé Acción (684p)",
+        "tvmedia": "service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=",
+        "tvid": "PlutoTVAnimeAccion.us",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/S31utcQ.png",
+        "tvgroup": "Animation"
+    },
+    {
+        "id": 40,
+        "tvtitle": "Pluto TV Anime All Ages (720p)",
+        "tvmedia": "service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY",
+        "tvid": "PlutoTVAnimeAllAges.us",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/iv8ejiz.png",
+        "tvgroup": "Animation"
+    },
+    {
+        "id": 41,
+        "tvtitle": "Pluto TV Anime All Day (720p)",
+        "tvmedia": "service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812b7d3249444e05d09cc49&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=830&terminate=false&userId=",
+        "tvid": "AnimeAllDay.us",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/bYZtd0G.png",
+        "tvgroup": "Animation"
+    },
+    {
+        "id": 42,
+        "tvtitle": "Pluto TV Naruto (720p)",
+        "tvmedia": "service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+        "tvid": "Naruto.us",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/M8X3Kvc.png",
+        "tvgroup": "Animation"
+    },
+    {
+        "id": 43,
+        "tvtitle": "Pluto TV One Piece (720p) [Not 24/7]",
+        "tvmedia": "service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+        "tvid": "OnePiece.us",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/XsvbAWR.png",
+        "tvgroup": "Animation"
+    },
+    {
+        "id": 44,
+        "tvtitle": "Pluto TV Yu-Gi-Oh (720p)",
+        "tvmedia": "service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+        "tvid": "YuGiOh.us",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/Tl6aW2u.png",
+        "tvgroup": "Animation"
+    },
+    {
+        "id": 45,
+        "tvtitle": "Pokémon Kids TV English (1080p) [Not 24/7]",
+        "tvmedia": "ythls.armelin.one/channel/UCgbfG5HoczHIkpzxLYH-8Ww.m3u8",
+        "tvid": "PokemonKidsTVEnglish.jp",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/0nDftk7.jpg",
+        "tvgroup": "Animation;Kids"
+    },
+    {
+        "id": 46,
+        "tvtitle": "Pokémon Kids TV Japanese (1080p) [Not 24/7]",
+        "tvmedia": "ythls.armelin.one/channel/UCH0JJtRn2syic5xxavMKQ4Q.m3u8",
+        "tvid": "PokemonKidsTVJapanese.jp",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/SwheroL.jpg",
+        "tvgroup": "Animation;Kids"
+    },
+    {
+        "id": 47,
+        "tvtitle": "Pro100TV",
+        "tvmedia": "sirius.greenhosting.ru/Pro100tvRu/video.m3u8",
+        "tvid": "Pro100TV.ru",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/YfQEflM.png",
+        "tvgroup": "Animation;Classic;Entertainment;Family;Movies"
+    },
+    {
+        "id": 48,
+        "tvtitle": "Retro Crush",
+        "tvmedia": "cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-retrocrush-lgus/playlist.m3u8",
+        "tvid": "RetroCrush.us",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/M40b4YI.png",
+        "tvgroup": "Animation;Classic"
+    },
+    {
+        "id": 49,
+        "tvtitle": "Spacetoon (1080p)",
+        "tvmedia": "shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8",
+        "tvid": "SpacetoonArabic.ae",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png",
+        "tvgroup": "Animation;Kids"
+    },
+    {
+        "id": 50,
+        "tvtitle": "Super Kaos TV (360p)",
+        "tvmedia": "stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8",
+        "tvid": "SuperKaosTV.ar",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/uOkAHVq.png",
+        "tvgroup": "Animation;Kids"
+    },
+    {
+        "id": 51,
+        "tvtitle": "Three Angels Broadcasting Network Kids Network (3ABN) (720p)",
+        "tvmedia": "3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8",
+        "tvid": "3ABNKids.us",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/SUPQAok.png",
+        "tvgroup": "Animation;Kids;Religious"
+    },
+    {
+        "id": 52,
+        "tvtitle": "Toonami (1080p) [Geo-blocked]",
+        "tvmedia": "adultswim-vodlive.cdn.turner.com/live/toonami/stream_de.m3u8",
+        "tvid": "Toonami.fr",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/U7qh4yF.png",
+        "tvgroup": "Animation"
+    },
+    {
+        "id": 53,
+        "tvtitle": "Toonami Aftermath East (480p)",
+        "tvmedia": "http://api.toonamiaftermath.com:3000/est/playlist.m3u8",
+        "tvid": "ToonamiAftermathEast.us",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/aSjhZK7.png",
+        "tvgroup": "Animation"
+    },
+    {
+        "id": 54,
+        "tvtitle": "Xtrema Anime (360p)",
+        "tvmedia": "stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8",
+        "tvid": "XtremaAnime.ar",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/yor5owS.png",
+        "tvgroup": "Animation"
+    },
+    {
+        "id": 55,
+        "tvtitle": "Xtrema Cartoons (360p)",
+        "tvmedia": "stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8",
+        "tvid": "XtremaCartoons.ar",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/X2d8y4e.png",
+        "tvgroup": "Animation;Kids"
+    },
+    {
+        "id": 56,
+        "tvtitle": "Xtrema Retro Cartoons (360p)",
+        "tvmedia": "stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8",
+        "tvid": "XtremaRetroCartoons.ar",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/60ylWbQ.png",
+        "tvgroup": "Animation;Classic;Kids"
+    },
+    {
+        "id": 57,
+        "tvtitle": "XXX Cartoons (520p)",
+        "tvmedia": "http://144.76.58.245:2307/cartoon/index.m3u8",
+        "tvid": "XXXCartoons.de",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/kNYY78z.png",
+        "tvgroup": "Animation;XXX"
+    },
+    {
+        "id": 58,
+        "tvtitle": "Мультимания",
+        "tvmedia": "http://moobl.ru/hls/Multimania.m3u8",
+        "tvid": "Multimania.ru",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/abh8ZBA.png",
+        "tvgroup": "Animation;Kids"
+    },
+    {
+        "id": 59,
+        "tvtitle": "Солнце",
+        "tvmedia": "http://moobl.ru/hls/Solnce.m3u8",
+        "tvid": "Solnce.ru",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/rec9akk.png",
+        "tvgroup": "Animation;Kids"
+    },
+    {
+        "id": 60,
+        "tvtitle": "优漫卡通 (576p)",
+        "tvmedia": "http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8",
+        "tvid": "YouManCartoonChannel.cn",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/GZInf2W.png",
+        "tvgroup": "Animation;Kids"
+    },
+    {
+        "id": 61,
+        "tvtitle": "金鹰卡通 (576p)",
+        "tvmedia": "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8",
+        "tvid": "GoldenEagleCartoon.cn",
+        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/xfVHrKQ.png",
+        "tvgroup": "Animation;Kids"
+    }
+]
