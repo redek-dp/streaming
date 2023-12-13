@@ -1,22 +1,22 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/jC388aq.png" group-title="General",TV SBT Interior
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8?#TV SBT Interior
 
 #EXTINF:-1 tvg-id="AFV.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/TOB9vmW.png" group-title="Comedy",TV AFV 
-https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8?#TV AFV
 
 #EXTINF:-1 tvg-id="ALF.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/fWRs1gX.png" group-title="Series",TV ALF
-https://97bd5884f7a348aa93b50e48d031be0e.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/ONO_ALF/playlist.m3u8
+https://97bd5884f7a348aa93b50e48d031be0e.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/ONO_ALF/playlist.m3u8?#TV ALF
 
 #EXTINF:-1 tvg-id="FailArmy.CA" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/2Pe548t.png" group-title="Comedy",TV FailArmy CA
-https://failarmy-international-ca.samsung.wurl.tv/playlist.m3u8
+https://failarmy-international-ca.samsung.wurl.tv/playlist.m3u8?#TV FailArmy CA
 
 #EXTINF:-1 tvg-id="FailArmyItaly.it" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/t3IjyYJ.png" group-title="Comedy",TV Failarmy IT
-https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
+https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8?#TV Failarmy IT
 
 #EXTINF:-1 tvg-id="FailArmy.IN" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/2Pe548t.png" group-title="Comedy",TV FailArmy IN
-https://failarmy-international-in.samsung.wurl.tv/playlist.m3u8
+https://failarmy-international-in.samsung.wurl.tv/playlist.m3u8?#TV FailArmy IN
 
 #EXTINF:-1 tvg-id="FailArmy.NL" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/2Pe548t.png" group-title="Comedy",TV FailArmy NL
 https://failarmy-international-nl.samsung.wurl.tv/playlist.m3u8
