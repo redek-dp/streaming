@@ -209,37 +209,37 @@ https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8?#/TV Brasil Central
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8?#/TV Brasil Oeste
 
 #EXTINF:-1 tvg-id="RedeCaxias.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/zqiOQJ1.png" group-title="General",TV Rede Caxias
-https://stmv1.srvstm.com/luis5346/luis5346/playlist.m3u8
+https://stmv1.srvstm.com/luis5346/luis5346/playlist.m3u8?#/TV Rede Caxias
 
 #EXTINF:-1 tvg-id="RedeMais.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/JSiZG2B.png" group-title="General",TV Rede Mais
-https://5a0c3936c25c8.streamlock.net/8010/8010/playlist.m3u8
+https://5a0c3936c25c8.streamlock.net/8010/8010/playlist.m3u8?#/TV Rede Mais
 
 #EXTINF:-1 tvg-id="RedeNGT.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/ZFN1R4B.png" group-title="Entertainment",TV Rede NGT
-https://isaocorp.cloudecast.com/ngt/index.m3u8
+https://isaocorp.cloudecast.com/ngt/index.m3u8?#/TV Rede NGT
 
-#EXTINF:-1 tvg-id="RedePremiumTV.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/jMHaHAR.png" group-title="Entertainment",TV Rede Premium TV
-https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
+#EXTINF:-1 tvg-id="RedePremiumTV.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/jMHaHAR.png" group-title="Entertainment",TV Rede PremiumTV
+https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8?#/TV Rede PremiumTV
 
 #EXTINF:-1 tvg-id="RedeQDM.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/Lxqb2cU.png" group-title="General",TV Rede QDM
-https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8
+https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8?#/TV Rede QDM
 
 #EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/vvrCWVo.jpg" group-title="Religious",TV Rede Século 21
-https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
+https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8?#/TV Rede Século 21
 
 #EXTINF:-1 tvg-id="RedeSPTV.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/kh3LGAP.png" group-title="General",TV Rede SPTV
-https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
+https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8?#/TV Rede SPTV
 
 #EXTINF:-1 tvg-id="RedeSul.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/eUM67rj.png" group-title="General",TV Rede Sul
-https://video05.logicahost.com.br/tvurbana/tvurbana/playlist.m3u8
+https://video05.logicahost.com.br/tvurbana/tvurbana/playlist.m3u8?#/TV Rede Sul
 
 #EXTINF:-1 tvg-id="TVPampa.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/Cnc1Mqo.png" group-title="General",TV Rede TV! Pampa
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8?#/TV Rede TV! Pampa
 
 #EXTINF:-1 tvg-id="RedeUTV.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/Usw2e9d.png" group-title="General",TV Rede UTV
-https://59f1cbe63db89.streamlock.net:1443/canalvirtual08/_definst_/canalvirtual08/playlist.m3u8
+https://59f1cbe63db89.streamlock.net:1443/canalvirtual08/_definst_/canalvirtual08/playlist.m3u8?#/TV Rede UTV
 
 #EXTINF:-1 tvg-id="RedeVida.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/mP1qfp2.png" group-title="Religious",TV Rede Vida
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?#/TV Rede Vida
 
 #EXTINF:-1 tvg-id="RedeTVTocantins.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/SEe2ki7.png" group-title="General",TV RedeTV! Tocantins
 https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
