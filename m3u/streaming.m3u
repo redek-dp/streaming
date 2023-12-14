@@ -99,7 +99,7 @@ https://tmint-aus-samsungswedan.amagi.tv/playlist.m3u8?#/TV Tastemade Sweden
 https://tastemade-intl-vizioca.amagi.tv/playlist.m3u8?#/TV Tastemade United States 1
 
 #EXTINF:-1 tvg-id="Tastemade.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/EopYeL1.png" group-title="Cooking",TV Tastemade United States 2
-https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8?#/
+https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8?#/TV Tastemade United States 2
 
 #EXTINF:-1 tvg-id="Tastemade.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/EopYeL1.png" group-title="Cooking",TV Tastemade United States 3
 https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8?#/TV Tastemade United States 3
@@ -164,49 +164,49 @@ https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8?#/
 
 
 #EXTINF:-1 tvg-id="DiscoveryKidsLiveBrazil.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/C0VEHXU.png" group-title="Kids",TV Discovery Kids Brazil 
-https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist.m3u8
+https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist.m3u8?#/TV Discovery Kids Brazil
 
 #EXTINF:-1 tvg-id="DiscoveryKidsLiveLatinAmerica.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/C0VEHXU.png" group-title="Kids",TV Discovery Kids Latin America
-https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist.m3u8
+https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist.m3u8?#/TV Discovery Kids Latin America
 
-#EXTINF:-1 tvg-id="AmazonSat.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/zHl3beY.png" group-title="General",Amazon Sat
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1 tvg-id="AmazonSat.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/zHl3beY.png" group-title="General",TV Amazon Sat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?#/TV Amazon Sat
 
 #EXTINF:-1 tvg-id="TNTSportsBrazil.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/88CbPLt.png" group-title="Sports",TV TNT Sports 1 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8?#/TV TNT Sports 1 Brasil
 
 #EXTINF:-1 tvg-id="TNTSports2Brazil.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/E6pLvOV.png" group-title="Sports",TV TNT Sports 2 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8?#/TV TNT Sports 2 Brasil
 
 #EXTINF:-1 tvg-id="TNTSports3Brazil.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/LFSMbpN.png" group-title="Sports",TV TNT Sports 3 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8?#/TV TNT Sports 3 Brasil
 
 #EXTINF:-1 tvg-id="TNTSports4Brazil.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/Am70nWY.png" group-title="Sports",TV TNT Sports 4 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8?#/TV TNT Sports 4 Brasil
 
 #EXTINF:-1 tvg-id="TNTSports5Brazil.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/XA3zxEE.png" group-title="Sports",TV TNT Sports 5 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8?#/TV TNT Sports 5 Brasil
 
 #EXTINF:-1 tvg-id="Combate" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/NcESqkc.png" group-title="General",TV Combate Global
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=960#/TV Combate Global
 
 #EXTINF:-1 tvg-id="AllSports.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/wULpnYR.png" group-title="Sports",TV All Sports
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8?#/TV All Sports
 
 #EXTINF:-1 tvg-id="CanaldoInter.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/TQFWEIS.png" group-title="Sports",TV Canal do Inter
-https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
+https://video01.soultv.com.br/internacional/internacional/playlist.m3u8?#/TV Canal do Inter
 
 #EXTINF:-1 tvg-id="TVitape.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/XeqcwKe.png" group-title="General",TV Itapé
-https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
+https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8?#/TV Itapé
 
 #EXTINF:-1 tvg-id="TVBoqueirao.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/1XrArrG.png" group-title="Entertainment",TV Boqueirão
-https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8
+https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8?#/TV Boqueirão
 
 #EXTINF:-1 tvg-id="TVBrasilCentral.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/VgjVlp3.png" group-title="Entertainment",TV Brasil Central
-https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
+https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8?#/TV Brasil Central
 
 #EXTINF:-1 tvg-id="TVBrasilOeste.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/noqGfuy.png" group-title="General",TV Brasil Oeste
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8?#/TV Brasil Oeste
 
 #EXTINF:-1 tvg-id="RedeCaxias.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/zqiOQJ1.png" group-title="General",TV Rede Caxias
 https://stmv1.srvstm.com/luis5346/luis5346/playlist.m3u8
