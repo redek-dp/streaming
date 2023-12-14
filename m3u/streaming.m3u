@@ -242,88 +242,88 @@ https://59f1cbe63db89.streamlock.net:1443/canalvirtual08/_definst_/canalvirtual0
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?#/TV Rede Vida
 
 #EXTINF:-1 tvg-id="RedeTVTocantins.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/SEe2ki7.png" group-title="General",TV RedeTV! Tocantins
-https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
+https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8?#/TV RedeTV! Tocantins
 
 #EXTINF:-1 tvg-id="COMBrasil.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/GrjGwKM.png" group-title="General",TV COM Brasil
-https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8?#/TV COM Brasil
 
 #EXTINF:-1 tvg-id="ConecTVBrasil.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/XN6jjMR.png" group-title="General",TV ConecTV Brasil
-https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8?#/TV ConecTV Brasil
 
 #EXTINF:-1 tvg-id="1001Noites.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/dWA9y2J.png" group-title="Shop",TV 1001 Noites
-https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8?#/TV 1001 Noites
 
 #EXTINF:-1 tvg-id="AlphaChannel.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/c1QqslA.png" group-title="General",TV Alpha Channel
-https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
+https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8?#/TV Alpha Channel
 
 #EXTINF:-1 tvg-id="AnimeTV.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/CFSSTID.png" group-title="Animation",TV Anime
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8?#/TV Anime
 
 #EXTINF:-1 tvg-id="BoasNovas.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/ZqhizdP.png" group-title="General",TV Boas Novas
-https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8?#/TV Boas Novas
 
 #EXTINF:-1 tvg-id="Canal38.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/co7TCWC.png" group-title="News",TV Canal 38
-https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
+https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8?#/TV Canal 38
 
 #EXTINF:-1 tvg-id="CanaldoCriador.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/k29So6X.png" group-title="Outdoor",TV Canal do Criador
-https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
+https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8?#/TV Canal do Criador
 
 #EXTINF:-1 tvg-id="CanalMetropolitanodeNoticias.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/G0x4xqa.png" group-title="News",TV Canal Metropolitano de Noticias
-https://video01.logicahost.com.br/redebemtv/redebemtv/playlist.m3u8
+https://video01.logicahost.com.br/redebemtv/redebemtv/playlist.m3u8?#/TV Canal Metropolitano de Noticias
 
 #EXTINF:-1 tvg-id="CanalRicos.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/hs2YVJ3.png" group-title="General",TV Canal Ricos
-https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8
+https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8?#/TV Canal Ricos
 
 #EXTINF:-1 tvg-id="CanalRural.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/w9R9IIX.png" group-title="Outdoor",TV Canal Rural
-https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8?#/TV Canal Rural
 
 #EXTINF:-1 tvg-id="CanalSaude.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/ht4tUOc.png" group-title="General",TV Canal Saude
-https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8?#/TV Canal Saude
 
 #EXTINF:-1 tvg-id="Catve2.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/qiVfsfB.png" group-title="General",TV Catve2
-https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
+https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8?#/TV Catve2
 
 #EXTINF:-1 tvg-id="CatveFM.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/w89yw36.png" group-title="General",TV Catve FM
-https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
+https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8?#/TV Catve FM
 
 #EXTINF:-1 tvg-id="CatveMasterTV.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/4m7Iazm.png" group-title="General",TV Catve Master
-https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
+https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8?#/TV Catve Master
 
 #EXTINF:-1 tvg-id="CBTVInternacional.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/7TaaMyJ.png" group-title="General",TV CBTV Internacional
-https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8?#/TV CBTV Internacional
 
 #EXTINF:-1 tvg-id="CentralTV.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/22jXTu4.png" group-title="General",TV Central
-https://tv02.zas.media:1936/centraltv/centraltv/playlist.m3u8
+https://tv02.zas.media:1936/centraltv/centraltv/playlist.m3u8?#/TV Central
 
 #EXTINF:-1 tvg-id="ChromaTV.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/SnaIMgj.png" group-title="Entertainment",TV Chroma
-https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8?#/TV Chroma
 
 #EXTINF:-1 tvg-id="ClassiqueTV.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/rHxcraT.png" group-title="Movies",TV Classique
-https://stmv1.srvif.com/classique/classique/playlist.m3u8
+https://stmv1.srvif.com/classique/classique/playlist.m3u8?#/TV Classique
 
 #EXTINF:-1 tvg-id="ClassiqueTVWestern.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/rHxcraT.png" group-title="Movies",TV Classique Western
-https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8 
+https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8?#/TV Classique Western
 
 #EXTINF:-1 tvg-id="ConexaoTV.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/CJ9SPsZ.png" group-title="General",TV Conexao
-https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8
+https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8?#/TV Conexao
 
 #EXTINF:-1 tvg-id="DemaisTV.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/Md3xibE.png" group-title="General",TV Demais
-https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8?#/TV Demais
 
 #EXTINF:-1 tvg-id="ElyTV.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/1eHNe91.png" group-title="Entertainment",TV ElyTV
-https://stmv1.srvsite.com/ely/ely/playlist.m3u8
+https://stmv1.srvsite.com/ely/ely/playlist.m3u8?#/TV ElyTV
 
 #EXTINF:-1 tvg-id="EUTV.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/8PxpamC.png" group-title="General",TV EUTV
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8?#/TV EUTV
 
 #EXTINF:-1 tvg-id="GospelCartoon.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/0rrEmKm.jpg" group-title="Religious",TV Gospel Cartoon
-https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8?#/TV Gospel Cartoon
 
 #EXTINF:-1 tvg-id="GospelMovieTV.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/cQN3nWt.png" group-title="Religious",TV Gospel Movie
-https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8?#/TV Gospel Movie
 
 #EXTINF:-1 tvg-id="ISTV.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/RUKVrOH.png" group-title="General",TV ISTV
-https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
+https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8?#/TV ISTV
 
 #EXTINF:-1 tvg-id="MKKWebTV.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/A8Yhtid.png" group-title="General",TV MKK Web
 https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
