@@ -12,6 +12,9 @@ https://97bd5884f7a348aa93b50e48d031be0e.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="FailArmy.CA" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/2Pe548t.png" group-title="Comedy",TV FailArmy CA
 https://failarmy-international-ca.samsung.wurl.tv/playlist.m3u8?#/TV FailArmy CA
 
+#EXTINF:-1 tvg-id="Devseven.Tv" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/AmewaLx.png" group-title="Kids",TV DevsevenTv
+https://redek-dp.github.io/streaming/dnetwork/playlist.m3u8?#/TV DevsevenTv
+
 #EXTINF:-1 tvg-id="FailArmyItaly.it" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/t3IjyYJ.png" group-title="Comedy",TV Failarmy IT
 https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8?#/TV Failarmy IT
 
