@@ -81,6 +81,9 @@ https://wonder-samsung-uk.amagi.tv/playlist.m3u8?#/TV Wonder
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UXODVYB.png" group-title="News",TV xlpore
 https://xlpore-samsungus.amagi.tv/playlist.m3u8?#/TV xlpore
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8KQirah.png" tvg-id="Travelxp.in" group-title="Travel",TV Travelxp
+https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8?#/TV Travelxp
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M8wbVYK.png" tvg-id="AccuWeatherNOW.us" group-title="Weather",TV AccuWeather Now
@@ -124,3 +127,25 @@ https://estrella-games-oando.amagi.tv/playlist.m3u8?#/TV Estrella Games
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hboiinD.jpg" tvg-name="RakutenFamilyMoviesUK" group-title="Movies",TV Rakuten Family Movies UK
 https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8?#/TV Rakuten Family Movies UK
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dWA9y2J.png" tvg-id="1001Noites.br" group-title="Shop",TV 1001 Noites
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8?#/TV 1001 Noites
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UyAw4jV.png" tvg-id="TheShoppingChannel.il" group-title="Shop",TV ch 21
+https://shoppingil-rewriter.vidnt.com/index.m3u8?#/TV ch 21
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BrXmh6m.png" tvg-id="Eropulsde.de" group-title="Shop",TV Eropuls.de
+https://api.alpaca.t62a.com/hls/9108/index.m3u8?#/TV Eropuls.de
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mBcwks7.png" tvg-id="JewelryTV.us" group-title="Shop",TV Jewelry Television
+https://cdn3.wowza.com/1/eUdsNEcyMmRvckor/K3pydHZw/hls/live/playlist.m3u8?#/TV Jewelry Television
+
+#EXTINF:-1 tvg-id="NATTV.th" tvg-logo="https://i.imgur.com/a7tNaD5.png" tvg-id="NATTV.th" group-title="Shop",TV NAT
+https://livefta.malimarcdn.com/ftaedge00/nat.sdp/playlist.m3u8?#/TV NAT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fk5rEje.png" tvg-id="TJC.uk" group-title="Shop",TV TJC
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8?#/TV TJC
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5SKSkUQ.png" tvg-id="TVTudoBH.br" group-title="Shop",TV Tudo BH
+https://tv02.zas.media:1936/tvtudo/tvtudo/playlist.m3u8?#/TV Tudo BH
