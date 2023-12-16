@@ -158,6 +158,14 @@ https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8?#/TV T
 #EXTINF:-1 tvg-id="P.US" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/yH7n2dF.png" group-title="General",TV The Pet Collective US
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/playlist.m3u8?#/TV The Pet Collective US
 
+#EXTINF:-1 tvg-id="AccuWeatherNOW.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/M8wbVYK.png" group-title="Weather",TV AccuWeather Now
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?#/TV AccuWeather Now
+
+#EXTINF:-1 tvg-id="WeatherSpy.in" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/KIEKOt1.png" group-title="Weather",TV WeatherSpy IN
+https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8?#/TV WeatherSpy IN
+
+#EXTINF:-1 tvg-id="WeatherSpy.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/yHUUIIz.png" group-title="Weather",TV WeatherSpy US
+https://jukin-weatherspy-1-us.samsung.wurl.tv/playlist.m3u8?#/TV WeatherSpy US
 
 #EXTINF:-1 tvg-id="discovery.SA" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/61siK0t.png" group-title="General",TV Discovery SA
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8?#/TV Discovery SA
