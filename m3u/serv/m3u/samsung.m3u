@@ -129,6 +129,45 @@ https://estrella-games-oando.amagi.tv/playlist.m3u8?#/TV Estrella Games
 https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8?#/TV Rakuten Family Movies UK
 
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XRTfoSp.png" tvg-id="AKCTV.us" group-title="Outdoor",TV AKC
+https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8?#/TV AKC
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/66avgdk.png" tvg-id="AKCTVMeettheBreeds.us" group-title="Outdoor",TV AKC Meet The Breeds
+https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8?#/TV AKC Meet The Breeds
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2nzRS60.png" tvg-id="AKCTVPuppies.us" group-title="Outdoor",TV AKC Puppies
+https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8?#/TV AKC Puppies
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k29So6X.png" tvg-id="CanaldoCriador.br" group-title="Outdoor",TV Canal do Criador
+https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8?#/TV Canal do Criador
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w9R9IIX.png" tvg-id="CanalRural.br" group-title="Outdoor",TV Canal Rural
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8?#/TV Canal Rural
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1x6zYZr.png" tvg-id="HorseCountryTV.uk" group-title="Outdoor",TV Horse and Country Free
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00810-horsecountrytvl-hncfreenz-samsungnz/playlist.m3u8?#/TV Horse and Country Free
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uhEn9SF.png" tvg-id="HuntChannel.us" group-title="Outdoor",TV Hunt Channel
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8?#/TV Hunt Channel
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qrn6tUO.png" tvg-id="ItalianFishingTV.it" group-title="Outdoor",TV Italian FishingTV
+https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8?#/TV Italian FishingTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kh4MWaY.png" tvg-id="OutdoorChannel.us" group-title="Outdoor",TV Outdoor Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8?#/TV Outdoor Channel
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8AEfKB8.png" tvg-id="OutsideTVPlus.us" group-title="Outdoor",TV Outside Plus
+https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxumo/CDN/master.m3u8?#/TV Outside Plus
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Vzwqts.png" tvg-id="PursuitUP.us" group-title="Outdoor",TV Pursuit UP
+https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8?#/TV Pursuit UP
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Vzwqts.png" tvg-id="PursuitUP.us" group-title="Outdoor",TV Pursuit UP
+https://dai.google.com/linear/hls/event/NpkpFaFVRqaQwSkpPdramg/master.m3u8?#/TV Pursuit UP
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dWA9y2J.png" tvg-id="1001Noites.br" group-title="Shop",TV 1001 Noites
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8?#/TV 1001 Noites
 
