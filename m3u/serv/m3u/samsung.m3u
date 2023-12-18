@@ -86,6 +86,57 @@ https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8?#/TV Travelxp
 
 
 
+
+#EXTINF:-1 tvg-id="AsharqDiscovery.sa" tvg-logo="https://i.imgur.com/Czxi7yk.png" group-title="Documentary",TV Asharq Discovery
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8?#/TV Asharq Discovery
+
+#EXTINF:-1 tvg-id="AsharqDocumentary.sa" tvg-logo="https://i.imgur.com/8tqK42D.png" group-title="Documentary",TV Asharq Documentary
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8?#/TV Asharq Documentary
+
+#EXTINF:-1 tvg-id="AXSTVNOW.us" tvg-logo="https://i.imgur.com/lYa793q.png" group-title="Documentary",TV AXS NOW
+https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8?#/TV AXS NOW
+
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="Documentary",TV CGTN Documentary
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8?#/TV CGTN Documentary
+
+#EXTINF:-1 tvg-id="Dateline247.us" tvg-logo="https://i.imgur.com/8mAJuut.png" group-title="Documentary",TV Dateline
+https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8?#/TV Dateline
+
+#EXTINF:-1 tvg-id="Docurama.us" tvg-logo="https://i.imgur.com/2248nxX.png" group-title="Documentary",TV Docurama
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-docurama-cineverse/playlist.m3u8?#/TV Docurama
+
+#EXTINF:-1 tvg-id="ElHistonautaTV.ar" tvg-logo="https://i.imgur.com/H4SFkx6.png" group-title="Documentary",TV El Histonauta
+https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8?#/TV El Histonauta
+
+#EXTINF:-1 tvg-id="LEspritSorcierTV.fr" tvg-logo="https://i.imgur.com/zyh8yub.png" group-title="Documentary;Education",TV L'Esprit Sorcier 
+https://194270.global.ssl.fastly.net/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8?#/TV L'Esprit Sorcier 
+
+#EXTINF:-1 tvg-id="LawCrime.us" tvg-logo="https://i.imgur.com/HY64Nhe.png" group-title="Documentary",TV Law & Crime
+https://lawcrime.s.llnwi.net/h72/lawcrimech2/playlist_scte.m3u8?#/TV Law & Crime
+
+#EXTINF:-1 tvg-id="NationalGeographic.ru" tvg-logo="https://i.imgur.com/idGR0cS.png" group-title="Documentary",TV National Geographic
+https://ucdn.beetv.kz/btv/live/hls/000000034.m3u8?#/TV National Geographic
+
+#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-logo="https://i.imgur.com/fNA00VF.png" group-title="Documentary",TV National Geographic Abu Dhabi
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?#/TV National Geographic Abu Dhabi
+
+#EXTINF:-1 tvg-id="NovaTVAgrotour.br" tvg-logo="https://i.imgur.com/cgN2hfm.png" group-title="Documentary;Science",TV Agrotour
+https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8?#/TV Agrotour
+
+#EXTINF:-1 tvg-id="Reelz.us" tvg-logo="https://i.imgur.com/ie6gDfS.png" group-title="Documentary",TV Reelz
+https://lnc-reelz.tubi.video/playlist.m3u8?#/TV Reelz
+
+#EXTINF:-1 tvg-id="ReelzChannelXUMO.us" tvg-logo="https://i.imgur.com/IqebTlK.png" group-title="Documentary",TV Reelz Channel
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8?#/TV Reelz Channel
+
+#EXTINF:-1 tvg-id="RTDocumentaryEnglish.ru" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="Documentary",TV RT Documentary English
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8?#/TV RT Documentary English
+
+#EXTINF:-1 tvg-id="RTDocumentaryRussian.ru" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="Documentary",TV RT Documentary Russian
+https://hls.rt.com/hls/rtdru.m3u8?#/TV RT Documentary Russian
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M8wbVYK.png" tvg-id="AccuWeatherNOW.us" group-title="Weather",TV AccuWeather Now
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?#/TV AccuWeather Now
 
