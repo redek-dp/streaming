@@ -445,7 +445,7 @@ https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/playlist.m3u8?#/TV COM Santos
 https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?#/TV Comunitaria
 
 #EXTINF:-1 tvg-id="TVCordeiro.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/wNULjux.png" group-title="Entertainment",TV Cordeiro
-https://stmv2.voxtvhd.com.br/tvcordeiro/tvcordeiro/playlist.m3u8?#/,TV Cordeiro
+https://stmv2.voxtvhd.com.br/tvcordeiro/tvcordeiro/playlist.m3u8?#/TV Cordeiro
 
 #EXTINF:-1 tvg-id="TVCuruca.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/JdCKNZ4.png" group-title="Entertainment",TV Curuca
 https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8?#/TV Curuca
