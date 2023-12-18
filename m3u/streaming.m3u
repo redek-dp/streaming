@@ -170,7 +170,68 @@ https://jukin-weatherspy-1-us.samsung.wurl.tv/playlist.m3u8?#/TV WeatherSpy US
 #EXTINF:-1 tvg-id="discovery.SA" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/61siK0t.png" group-title="General",TV Discovery SA
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8?#/TV Discovery SA
 
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/hboiinD.jpg" tvg-name="RakutenTV" group-title="Movies",TV Rakuten Family Movies Spain
+https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8?#/TV Rakuten Family Movies Spain
 
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/hboiinD.jpg" tvg-name="RakutenTV" group-title="Movies",TV Rakuten Family Movies Italy
+https://rakuten-family-6-it.samsung.wurl.tv/playlist.m3u8?#/TV Rakuten Family Movies Italy
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/fV9UC2U.png" tvg-name="RealFamiliesAu" group-title="Family",TV Real Families Australia
+https://lds-realfamilies-samsunguau.amagi.tv/playlist.m3u8?#/TV Real Families Australia
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/hboiinD.jpg" tvg-name="RakutenFamilyMoviesFrance" group-title="Movies",TV Rakuten Family Movies France
+https://rakuten-family-7-fr.samsung.wurl.tv/playlist.m3u8?#/TV Rakuten Family Movies France
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/6vaHKgT.png" tvg-name="TVRakutenFamilyMoviesFinland" group-title="Movies",TV Rakuten Family Movies Finland
+https://rakuten-family-12-fi.samsung.wurl.tv/playlist.m3u8?#/TV Rakuten Family Movies Finland
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/dwMUVhs.png" group-title="General",TV Tastemade DE
+https://tastemade-de-samsung.amagi.tv/playlist.m3u8?#/TV Tastemade DE
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/WEM9B83.png" group-title="SPORT",TV Tennis Channel UK
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8?#/TV Tennis Channel UK
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/9JTMh3F.jpg" group-title="News",TV Timeline UK
+https://timeline-samsung-uk.amagi.tv/playlist.m3u8?#/TV Timeline UK
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/CbZzzAI.png" group-title="General",TV True Stories UK
+https://realstories-samsung-uk.amagi.tv/playlist.m3u8?#/TV True Stories UK
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/VaDrfKr.png" group-title="Family",TV XITE
+https://xite-samsung-de.amagi.tv/playlist.m3u8?#/TV XITE
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/ZqcNRbd.png" group-title="Family",TV Circle
+https://circle-samsung.amagi.tv/playlist.m3u8?#/TV Circle
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/DTXQ3Pc.png" group-title="Movie",TV Moviesphere Free
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8?#/TV Moviesphere Free
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/mTd5yQ0.png" group-title="News",TV TYT
+https://tyt-samsungus.amagi.tv/playlist.m3u8?#/TV TYT
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/r5Ip3P0.png" group-title="Family",TV Horse and Country
+https://hncfree-samsungau.amagi.tv/playlist.m3u8?#/TV Horse and Country
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/KOkWP6i.jpg" group-title="Family",TV Real Stories
+https://lds-realstories-samsungau.amagi.tv/playlist.m3u8?#/TV Real Stories
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/weNdD7r.png" group-title="Family",TV Smithsonian Channel
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8?#/TV Smithsonian Channel
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/aqMhht6.png" group-title="Family",TV Clubbing
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8?#/TV Clubbing
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/FNFFhEq.png" group-title="General",TV Horse and Country
+https://hncfree-samsung-uk.amagi.tv/playlist.m3u8?#/TV Horse and Country
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/450pJvs.png" group-title="News",TV Wonder
+https://wonder-samsung-uk.amagi.tv/playlist.m3u8?#/TV Wonder
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/UXODVYB.png" group-title="News",TV xlpore
+https://xlpore-samsungus.amagi.tv/playlist.m3u8?#/TV xlpore
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/8KQirah.png" tvg-id="Travelxp.in" group-title="Travel",TV Travelxp
+https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8?#/TV Travelxp
 
 
 
