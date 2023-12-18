@@ -881,20 +881,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=425#/TV network Movies 6
 #EXTINF:-1 tvg-id="network.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/xazwnkT.png" group-title="General",TV network General
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=143#/TV network General
 
-#EXTINF:-1 tvg-id="network.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/xazwnkT.png" group-title="General",TV network Game 1
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=144#/TV network Game 1
-
-#EXTINF:-1 tvg-id="network.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/xazwnkT.png" group-title="General",TV network Game 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=159#/TV network Game 2
-
-#EXTINF:-1 tvg-id="network.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/xazwnkT.png" group-title="General",TV network Game 3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=145#/TV network Game 3
-
-#EXTINF:-1 tvg-id="network.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/xazwnkT.png" group-title="General",TV network Game 4
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=160#/TV network Game 4
-
-#EXTINF:-1 tvg-id="network.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/xazwnkT.png" group-title="General",TV network Game 5
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=201#/TV network Game 5
+#EXTINF:-1 tvg-id="network.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/xazwnkT.png" group-title="General",TV network Game
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=144#/TV network Game
 
 #EXTINF:-1 tvg-id="network.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/xazwnkT.png" group-title="General",TV network REALIT
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=147#/TV network REALIT
@@ -913,9 +901,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=264#/TV network PRANK MY P
 
 #EXTINF:-1 tvg-id="network.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/xazwnkT.png" group-title="General",TV network Doc
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=279#/TV network Doc
-
-#EXTINF:-1 tvg-id="network.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/xazwnkT.png" group-title="General",TV network lol-lolnetwork
-https://lol-lolnetwork-2-nl.samsung.wurl.tv/playlist.m3u8#/TV network lol-lolnetwork
 
 
 
