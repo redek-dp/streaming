@@ -693,174 +693,171 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=118#/TV Canela Telenovelas
 
 
 #EXTINF:-1 tvg-id="BigCityTV" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/IUuAaq6.png" group-title="General",TV Big City
-https://bigcitytv.playout.vju.tv/bigcitytv/main.m3u8
+https://bigcitytv.playout.vju.tv/bigcitytv/main.m3u8?#/TV Big City
 
 #EXTINF:-1 tvg-id="AbsoluteRealitybyWETV.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/Gtwk8ic.png" group-title="Entertainment",TV AMC Absolute Reality
-https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
+https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8?#/TV AMC Absolute Reality
 
 #EXTINF:-1 tvg-id="AllWeddingsWEtv.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/OjLCew5.png" group-title="General",TV AMC All Weddings
-https://d85lu9l3axp7b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49b4g6287mnav/playlist.m3u8
+https://d85lu9l3axp7b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49b4g6287mnav/playlist.m3u8?#/TV AMC All Weddings
 
 #EXTINF:-1 tvg-id="AgroTV.pe" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/0rwsICg.png" group-title="General",TV Agro
-https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
+https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8?#/TV Agro
 
 #EXTINF:-1 tvg-id="1AlmereTV.nl" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/XfkbTrU.png" group-title="General",TV 1Almere
-https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8
+https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8?#/TV 1Almere
 
 #EXTINF:-1 tvg-id="2GB.au" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.ibb.co/jwM8DFG/2GB-1.png" group-title="News",TV 2GB Sydney
-https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
+https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8?#/TV 2GB Sydney
 
 #EXTINF:-1 tvg-id="2MInternational.ma" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/MvpntzA.png" group-title="General",TV 2M Monde
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8?#/TV 2M Monde
 
 #EXTINF:-1 tvg-id="AMGTV.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/m5Anun9.png" group-title="Family",TV AMG
-https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8?#/TV AMG
 
 #EXTINF:-1 tvg-id="3AW.au" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/Z4MdB0S.png" group-title="General",TV 3AW Melbourne
-https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8
+https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8?#/TV 3AW Melbourne
 
 #EXTINF:-1 tvg-id="3TamilTV.au" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/R43HJBp.png" group-title="Entertainment",TV 3 Tamil TV
-https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8?#/TV 3 Tamil TV
 
 #EXTINF:-1 tvg-id="4UTV.tr" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/PexhKwp.png" group-title="Entertainment",TV 4U TV
-https://hls.4utv.live/hls/stream.m3u8
+https://hls.4utv.live/hls/stream.m3u8?#/TV 4U TV
 
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/OuogLHx.png" group-title="Business",TV Bloomberg
-https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8
+https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8?#/TV Bloomberg
 
 #EXTINF:-1 tvg-id="BizzarroMovies.it" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/kNGpFHX.png" group-title="Movies",TV Bizzarro Movies
-https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
+https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8?#/TV Bizzarro Movies
 
 #EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/ugPo6ca.png" group-title="Movies",TV Bollywood Classic
-https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
+https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8?#/TV Bollywood Classic
 
 #EXTINF:-1 tvg-id="BollywoodHD.ro" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/scDKOLS.png" group-title="Movies",TV Bollywood HD
-https://shls-live-ak.akamaized.net/out/v1/fb7b452f58f2412a9ae26b22dd30bd6b/index.m3u8
+https://shls-live-ak.akamaized.net/out/v1/fb7b452f58f2412a9ae26b22dd30bd6b/index.m3u8?#/TV Bollywood HD
 
 #EXTINF:-1 tvg-id="Canal7TeleValencia.es" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/ILfXDRs.png" group-title="General",TV 7 TeleValencia
-https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
+https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8?#/TV 7 TeleValencia
 
 #EXTINF:-1 tvg-id="12TVParma.it" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/mBYxWOg.png" group-title="General",TV 12 TV Parma
-https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8?#/TV 12 TV Parma
 
 #EXTINF:-1 tvg-id="Channel12.ru" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/OA9hm6e.png" group-title="General",TV 12 канал
-https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
+https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8?#/TV 12 канал
 
 #EXTINF:-1 tvg-id="XHSDDTDT.mx" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/EY0DlT0.png" group-title="General",TV Sabinas
-https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
+https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8?#/TV Sabinas
 
 #EXTINF:-1 tvg-id="20MinutesTV.fr" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/6cfDK68.png" group-title="General",TV 20 Minutes
-https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
-
-#EXTINF:-1 tvg-id="KERODT1.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/CMANZWk.png" group-title="General",TV 23 ABC Bakersfield CA
-https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8?#/TV 20 Minutes
 
 #EXTINF:-1 tvg-id="Cheddar.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/r6J2HbL.png" group-title="General",TV Cheddar
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=102
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=102#/TV Cheddar
 
 #EXTINF:-1 tvg-id="Cheddar.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/r6J2HbL.png" group-title="General",TV Cheddar
-https://lnc-cheddar.tubi.video/index.m3u8
+https://lnc-cheddar.tubi.video/index.m3u8?#/TV Cheddar
 
 #EXTINF:-1 tvg-id="Cheddar.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/r6J2HbL.png" group-title="General",TV Cheddar
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcheddar/CDN/playlist.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcheddar/CDN/playlist.m3u8?#/TV Cheddar
 
 #EXTINF:-1 tvg-id="Crime360.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/IjtaG1m.png" group-title="Documentary",TV Crime 360
-https://c9747bb6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19DcmltZTM2MF9ITFM/playlist.m3u8
+https://c9747bb6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19DcmltZTM2MF9ITFM/playlist.m3u8?#/TV Crime 360
 
 #EXTINF:-1 tvg-id="Crime.and.Evidence" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/hDWZhC4.png" group-title="Documentary",TV Crime and Evidence
-https://afxporigin.telemedia.co.za/afxp/abr_crimeandevidence/playlist.m3u8
+https://afxporigin.telemedia.co.za/afxp/abr_crimeandevidence/playlist.m3u8?#/TV Crime and Evidence
 
 #EXTINF:-1 tvg-id="CrimeHunters" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/2iMqzKK.png" group-title="Documentary",TV Crime Hunters
-https://amg01201-cinedigmenterta-crimehunters-cineverse-cnqvb.amagi.tv/playlist/amg01201-cinedigmenterta-crimehunters-cineverse/playlist.m3u8
+https://amg01201-cinedigmenterta-crimehunters-cineverse-cnqvb.amagi.tv/playlist/amg01201-cinedigmenterta-crimehunters-cineverse/playlist.m3u8?#/TV Crime Hunters
 
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/8t9mdg9.png" group-title="News",TV Euronews
-https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
+https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8?#/TV Euronews
 
 
 
 #EXTINF:-1 tvg-id="TVFOX" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/9uSvpL2.png" group-title="General",TV Fox HD
-https://stream01.vnet.am/Fox/mono.m3u8
+https://stream01.vnet.am/Fox/mono.m3u8?#/TV Fox HD
 
 #EXTINF:-1 tvg-id="TVFOX" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/9uSvpL2.png" group-title="General",TV Fox HD
-https://ucdn.beetv.kz/btv/live/hls/000004472.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000004472.m3u8?#/TV Fox HD
 
 #EXTINF:-1 tvg-id="WJBKDT1.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/9uSvpL2.png" group-title="News",TV FOX 2 Detroit
-https://lnc-wjbk.tubi.video/index.m3u8
+https://lnc-wjbk.tubi.video/index.m3u8?#/TV FOX 2 Detroit
 
 #EXTINF:-1 tvg-id="KTVUDT1.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/9uSvpL2.png" group-title="General",TV FOX 2 San Francisco
-https://lnc-ktvu.tubi.video/index.m3u8
+https://lnc-ktvu.tubi.video/index.m3u8?#/TV FOX 2 San Francisco
 
 #EXTINF:-1 tvg-id="KDFWDT1.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/9uSvpL2.png" group-title="General",TV FOX 4 Dallas Fort Worth
-https://lnc-kdfw.tubi.video/index.m3u8
+https://lnc-kdfw.tubi.video/index.m3u8?#/TV FOX 4 Dallas Fort Worth
 
 #EXTINF:-1 tvg-id="WNYWDT1.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/9uSvpL2.png" group-title="General",TV FOX 5 New York NY
-https://lnc-wnyw.tubi.video/index.m3u8
+https://lnc-wnyw.tubi.video/index.m3u8?#/TV FOX 5 New York NY
 
 #EXTINF:-1 tvg-id="WTTGDT1.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/9uSvpL2.png" group-title="General",TV FOX 5 Washington DC
-https://lnc-wttg.tubi.video/index.m3u8
+https://lnc-wttg.tubi.video/index.m3u8?#/TV FOX 5 Washington DC
 
 #EXTINF:-1 tvg-id="WITIDT1.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/9uSvpL2.png" group-title="General",TV FOX 6 Milwaukee WI
-https://lnc-witi.tubi.video/index.m3u8
+https://lnc-witi.tubi.video/index.m3u8?#/TV FOX 6 Milwaukee WI
 
 #EXTINF:-1 tvg-id="KTBCDT1.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/9uSvpL2.png" group-title="General",TV FOX 7 Austin TX
-https://lnc-ktbc.tubi.video/index.m3u8
+https://lnc-ktbc.tubi.video/index.m3u8?#/TV FOX 7 Austin TX
 
 #EXTINF:-1 tvg-id="KMSPDT1.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/9uSvpL2.png" group-title="News",TV FOX 9 ST Paul Minneapolis MN
-https://lnc-kmsp.tubi.video/index.m3u8
+https://lnc-kmsp.tubi.video/index.m3u8?#/TV FOX 9 ST Paul Minneapolis MN
 
 #EXTINF:-1 tvg-id="KSAZDT1.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/9uSvpL2.png" group-title="General",TV FOX 10 Phoenix AZ
-https://lnc-ksaz.tubi.video/index.m3u8
+https://lnc-ksaz.tubi.video/index.m3u8?#/TV FOX 10 Phoenix AZ
 
 #EXTINF:-1 tvg-id="KTTVDT1.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/9uSvpL2.png" group-title="General",TV FOX 11 Los Angeles CA
-https://lnc-kttv.tubi.video/index.m3u8
+https://lnc-kttv.tubi.video/index.m3u8?#/TV FOX 11 Los Angeles CA
 
 #EXTINF:-1 tvg-id="WTVTDT1.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/9uSvpL2.png" group-title="General",TV FOX 13 Tampa Bay FL
-https://lnc-wtvt.tubi.video/index.m3u8
+https://lnc-wtvt.tubi.video/index.m3u8?#/TV FOX 13 Tampa Bay FL
 
 #EXTINF:-1 tvg-id="KXVADT1.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/9uSvpL2.png" group-title="General",TV Fox 15 West Texas Abilene TX
-https://livevideo01.myfoxzone.com/hls/live/2017381/elvs/live.m3u8
+https://livevideo01.myfoxzone.com/hls/live/2017381/elvs/live.m3u8?#/TV Fox 15 West Texas Abilene TX
 
 #EXTINF:-1 tvg-id="KRIVDT1.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/9uSvpL2.png" group-title="News",TV FOX 26 Houston TX
-https://lnc-kriv.tubi.video/index.m3u8
+https://lnc-kriv.tubi.video/index.m3u8?#/TV FOX 26 Houston TX
 
 #EXTINF:-1 tvg-id="WTGSDT1.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/9uSvpL2.png" group-title="General",TV Fox 28 News Savannah GA
-https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
+https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8?#/TV Fox 28 News Savannah GA
 
 #EXTINF:-1 tvg-id="WTXFDT1.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/9uSvpL2.png" group-title="General",TV FOX 29 Philadelphia PA
-https://lnc-wtxf.tubi.video/index.m3u8
+https://lnc-wtxf.tubi.video/index.m3u8?#/TV FOX 29 Philadelphia PA
 
 #EXTINF:-1 tvg-id="WFLDDT1.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/9uSvpL2.png" group-title="General",TV FOX 32 Chicago IL
-https://lnc-wfld.tubi.video/index.m3u8
+https://lnc-wfld.tubi.video/index.m3u8?#/TV FOX 32 Chicago IL
 
 #EXTINF:-1 tvg-id="WOFLDT1.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/9uSvpL2.png" group-title="General",TV FOX 35 Orlando FL
-https://lnc-wofl.tubi.video/index.m3u8
+https://lnc-wofl.tubi.video/index.m3u8?#/TV FOX 35 Orlando FL
 
 #EXTINF:-1 tvg-id="WPMTDT1.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/9uSvpL2.png" group-title="General",TV Fox 43 Harrisburg PA
-https://livevideo01.fox43.com/hls/live/2011656/elvs/live.m3u8
+https://livevideo01.fox43.com/hls/live/2011656/elvs/live.m3u8?#/TV Fox 43 Harrisburg PA
 
 #EXTINF:-1 tvg-id="WZDXDT1.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/E8nKknc.png" group-title="General",TV Fox 54.1 Huntsville
-https://livevideo01.rocketcitynow.com/hls/live/2011659/elvs/live.m3u8
+https://livevideo01.rocketcitynow.com/hls/live/2011659/elvs/live.m3u8?#/TV Fox 54.1 Huntsville
 
 #EXTINF:-1 tvg-id="WTICDT1.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/9uSvpL2.png" group-title="General",TV Fox 61 News Hartford CT 
-https://livevideo01.fox61.com/hls/live/2011658/elvs/live.m3u8
+https://livevideo01.fox61.com/hls/live/2011658/elvs/live.m3u8?#/TV Fox 61 News Hartford CT 
 
 #EXTINF:-1 tvg-id="WWCPDT1.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/9uSvpL2.png" group-title="General",TV FOX Altoona PA
-http://trn03.tulix.tv/teleup-fox-wpmt-new1/playlist.m3u8
+http://trn03.tulix.tv/teleup-fox-wpmt-new1/playlist.m3u8?#/TV FOX Altoona PA
 
 #EXTINF:-1 tvg-id="WAGADT1.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/9uSvpL2.png" group-title="News",TV FOX Atlanta-GA
-https://trn10.tulix.tv/WAGA-FOX/index.m3u8
+https://trn10.tulix.tv/WAGA-FOX/index.m3u8?#/TV FOX Atlanta-GA
 
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/9uSvpL2.png" group-title="News",TV Fox News Channel
-http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8?#/TV Fox News Channel
 
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/9uSvpL2.png" group-title="News",TV FOX News Now
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8?#/TV FOX News Now
 
 #EXTINF:-1 tvg-id="KCPQDT1.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/9uSvpL2.png" group-title="General",TV FOX Q13 Seattle WA
-https://lnc-kcpq.tubi.video/index.m3u8
+https://lnc-kcpq.tubi.video/index.m3u8?#/TV FOX Q13 Seattle WA
 
 #EXTINF:-1 tvg-id="FoxSoul.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/9uSvpL2.png" group-title="Culture",TV Fox Soul
-https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
+https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8?#/TV Fox Soul
 
 
 
