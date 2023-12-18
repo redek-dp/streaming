@@ -30,18 +30,17 @@ https://failarmy-international-se.samsung.wurl.tv/playlist.m3u8?#/TV FailArmy SE
 #EXTINF:-1 tvg-id="FailArmy.US" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/2Pe548t.png" group-title="Comedy",TV FailArmy US
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/playlist.m3u8?#/TV FailArmy US
 
+#EXTINF:-1 tvg-id="TVRecord.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/abj0M7L.png" group-title="General",TV Record
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8?#/TV Record
 
-#EXTINF:-1 tvg-id="NDTVRecordTVCriciuma.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/abj0M7L.png" group-title="General",TV Record
+#EXTINF:-1 tvg-id="TVRecord.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/abj0M7L.png" group-title="General",TV Record
 https://caikron.com.br:19360/criciuma/criciuma.m3u8?#/TV Record
 
-#EXTINF:-1 tvg-id="RecordTV.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/7vlWpA7.png" group-title="News",TV Record News
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/7vlWpA7.png" group-title="News",TV Record News
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116#/TV Record News
 
-#EXTINF:-1 tvg-id="RecordTV.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/7vlWpA7.png" group-title="News",TV Record News
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/7vlWpA7.png" group-title="News",TV Record News
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8?#/TV Record News
-
-#EXTINF:-1 tvg-id="NDTVRecordTVCriciuma.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/abj0M7L.png" group-title="General",TV Record
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8?#/TV Record
 
 
 #EXTINF:-1 tvg-id="AFV.BE" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/dLSKBEn.png" group-title="Comedy",TV AFV Family BE
