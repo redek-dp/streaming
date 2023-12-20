@@ -45,6 +45,10 @@ https://failarmy-international-se.samsung.wurl.tv/playlist.m3u8?#/TV FailArmy SE
 #EXTINF:-1 tvg-id="FailArmy.US" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/2Pe548t.png" group-title="Comedy",TV FailArmy US
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/playlist.m3u8?#/TV FailArmy US
 
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/lcfxXZF.png" tvg-name="FailArmy.RakutenTV" group-title="intrattenimento",TV FailArmy EU
+https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8?#/TV FailArmy EU
+
+
 #EXTINF:-1 tvg-id="AFV.BE" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/dLSKBEn.png" group-title="Comedy",TV AFV Family BE
 https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8?#/TV AFV Family BE
 
@@ -57,17 +61,25 @@ https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8?#/TV AF
 #EXTINF:-1 tvg-id="AFV.ES" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HUK4WXC.png" group-title="Comedy",TV AFV Family ES
 https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8?#/TV AFV Family ES
 
-#EXTINF:-1 tvg-id="AFVEspanol.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HUK4WXC.png" group-title="Comedy",TV AFV ES
-https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8?#/TV AFV ES
+#EXTINF:-1 tvg-id="AFV.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/TOB9vmW.png" group-title="Comedy",TV AFV Family US
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8?#/TV AFV Family US
 
-#EXTINF:-1 tvg-id="AFV.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/TOB9vmW.png" group-title="Comedy",TV AFV US
-https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8?#/TV AFV US
+#EXTINF:-1 tvg-id="AFVEspanol.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HUK4WXC.png" group-title="Comedy",TV AFV Family ES
+https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8?#/TV AFV Family ES
 
-#EXTINF:-1 tvg-id="ALF.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/fWRs1gX.png" group-title="Series",TV ALF
-https://97bd5884f7a348aa93b50e48d031be0e.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/ONO_ALF/playlist.m3u8?#/TV ALF
+#EXTINF:-1 tvg-id="AFV.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/TOB9vmW.png" group-title="Comedy",TV AFV Family US
+https://ec4a5bcc9d664b48985de6095931aaa7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_AmericasFunniestHomeVideos/playlist.m3u8?#/TV AFV Family US
+
 
 #EXTINF:-1 tvg-id="peopleare.Awesome" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/Si9Dp5k.png" group-title="Comedy",TV People Are Awesome
 https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8?#/TV People Are Awesome
+
+#EXTINF:-1 tvg-id="peopleare.Awesome" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/Si9Dp5k.png" group-title="Comedy",TV People Are Awesome
+https://965a56fdfe3c40cd9b73c49a0cde620b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_PeopleAreAwesome-1/playlist.m3u8?#/TV People Are Awesome
+
+
+#EXTINF:-1 tvg-id="ALF.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/fWRs1gX.png" group-title="Series",TV ALF
+https://97bd5884f7a348aa93b50e48d031be0e.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/ONO_ALF/playlist.m3u8?#/TV ALF
 
 #EXTINF:-1 tvg-id="Motorvision.UE" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/9xh4NUw.png" group-title="General",TV Motorvision
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8?#/TV Motorvision
@@ -193,6 +205,11 @@ https://the-pet-collective-international-br.samsung.wurl.tv/playlist.m3u8?#/TV T
 
 #EXTINF:-1 tvg-id="P.US" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/yH7n2dF.png" group-title="General",TV The Pet Collective US
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/playlist.m3u8?#/TV The Pet Collective US
+
+#EXTINF:-1 tvg-id="P.US" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/yH7n2dF.png" group-title="General",TV The Pet Collective EU
+https://81d1c38525014f39a1705b01e04d91c2.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_ThePetCollective-1/playlist.m3u8?#/TV The Pet Collective EU
+
+
 
 #EXTINF:-1 tvg-id="AccuWeatherNOW.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/M8wbVYK.png" group-title="Weather",TV AccuWeather Now
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?#/TV AccuWeather Now
