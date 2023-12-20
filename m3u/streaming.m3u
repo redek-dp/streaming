@@ -27,6 +27,9 @@ https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8?#/TV Aratu
 #EXTINF:-1 tvg-id="FailArmy.CA" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/2Pe548t.png" group-title="Comedy",TV FailArmy CA
 https://failarmy-international-ca.samsung.wurl.tv/playlist.m3u8?#/TV FailArmy CA
 
+#EXTINF:-1 tvg-id="FailArmy.BR" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/2Pe548t.png" group-title="Comedy",TV FailArmy BR
+https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8?#/TV FailArmy BR
+
 #EXTINF:-1 tvg-id="FailArmyItaly.it" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/t3IjyYJ.png" group-title="Comedy",TV Failarmy IT
 https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8?#/TV Failarmy IT
 
@@ -63,6 +66,23 @@ https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8?#/TV AF
 #EXTINF:-1 tvg-id="ALF.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/fWRs1gX.png" group-title="Series",TV ALF
 https://97bd5884f7a348aa93b50e48d031be0e.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/ONO_ALF/playlist.m3u8?#/TV ALF
 
+#EXTINF:-1 tvg-id="peopleare.Awesome" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/Si9Dp5k.png" group-title="Comedy",TV People Are Awesome
+https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8?#/TV People Are Awesome
+
+#EXTINF:-1 tvg-id="Motorvision.UE" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/9xh4NUw.png" group-title="General",TV Motorvision
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8?#/TV Motorvision
+
+#EXTINF:-1 tvg-id="Fashion.TV" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/LpvKg4w.png" group-title="General",TV Fashion
+https://fashiontv-fashiontv-5-br.samsung.wurl.tv/playlist.m3u8?#/TV Fashion
+
+#EXTINF:-1 tvg-id="Nosey.alt" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/E49WtFx.png" group-title="General",TV Nosey alt
+https://nosey-4-br.samsung.wurl.tv/playlist.m3u8?#/TV Nosey alt
+
+#EXTINF:-1 tvg-id="Comedia.Brazil" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/qbeiqVl.png" group-title="Comedy",TV Comedia Brazil
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8?#/TV Comedia Brazil
+
+
+
 #EXTINF:-1 tvg-id="Devseven.Tv" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/AmewaLx.png" group-title="Kids",TV DevsevenTv
 https://redek-dp.github.io/streaming/dnetwork/playlist.m3u8?#/TV DevsevenTv
 
@@ -95,6 +115,9 @@ https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8?#/TV Cartoon
 
 #EXTINF:-1 tvg-id="Cartoon.AR" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/LVLMTZ0.png" group-title="Kids",TV Cartoon Network AR
 https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8?#/TV Cartoon Network AR
+
+#EXTINF:-1 tvg-id="Toon.Goggle" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=825#/TV Toon Goggle
 
 #EXTINF:-1 tvg-id="Tastemade.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/FPy4zF4.png" group-title="Cooking",TV Tastemade BR
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8?#/TV Tastemade BR
@@ -165,6 +188,9 @@ https://the-pet-collective-international-nl.samsung.wurl.tv/playlist.m3u8?#/TV T
 #EXTINF:-1 tvg-id="P.SE" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/yH7n2dF.png" group-title="General",TV The Pet Collective SE
 https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8?#/TV The Pet Collective SE
 
+#EXTINF:-1 tvg-id="P.BR" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/yH7n2dF.png" group-title="General",TV The Pet Collective BR
+https://the-pet-collective-international-br.samsung.wurl.tv/playlist.m3u8?#/TV The Pet Collective BR
+
 #EXTINF:-1 tvg-id="P.US" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/yH7n2dF.png" group-title="General",TV The Pet Collective US
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/playlist.m3u8?#/TV The Pet Collective US
 
@@ -176,6 +202,9 @@ https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8?#/TV WeatherSpy IN
 
 #EXTINF:-1 tvg-id="WeatherSpy.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/yHUUIIz.png" group-title="Weather",TV WeatherSpy US
 https://jukin-weatherspy-1-us.samsung.wurl.tv/playlist.m3u8?#/TV WeatherSpy US
+
+#EXTINF:-1 tvg-id="WeatherSpy.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/yHUUIIz.png" group-title="Weather",TV WeatherSpy BR
+https://jukin-weatherspy-2-br.samsung.wurl.tv/playlist.m3u8?#/TV WeatherSpy BR
 
 #EXTINF:-1 tvg-id="discovery.SA" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/61siK0t.png" group-title="General",TV Discovery SA
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8?#/TV Discovery SA
@@ -191,6 +220,7 @@ https://rakuten-family-7-fr.samsung.wurl.tv/playlist.m3u8?#/TV Rakuten Family Mo
 
 #EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/6vaHKgT.png" tvg-name="Rakuten.Finland" group-title="Movies",TV Rakuten Family Movies FI
 https://rakuten-family-12-fi.samsung.wurl.tv/playlist.m3u8?#/TV Rakuten Family Movies FI
+
 
 
 #EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/DTXQ3Pc.png" group-title="Movie",TV Moviesphere Free
@@ -637,8 +667,14 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8?#/TV Al Jazeera English
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/xnv0Pgm.jpg" group-title="News",TV DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?#/TV DW English
 
-#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/pLaIFyB.png" group-title="News",TV Euronews English
-https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8?#/TV Euronews English
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/pLaIFyB.png" group-title="News",TV Euronews FR
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8?#/TV Euronews FR
+
+#EXTINF:-1 tvg-id="Euronews.pt" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/pLaIFyB.png" group-title="News",TV Euronews PT
+https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8?#/TV Euronews PT
+
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/8t9mdg9.png" group-title="News",TV Euronews BE
+https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8?#/TV Euronews BE
 
 #EXTINF:-1 tvg-id="Futura.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.postimg.cc/Hng0W5Cy/300px-Canal-Futura.png" group-title="Education",TV Futura
 https://tv.unisc.br/hls/test.m3u8?#/TV Futura
@@ -835,10 +871,6 @@ https://afxporigin.telemedia.co.za/afxp/abr_crimeandevidence/playlist.m3u8?#/TV 
 #EXTINF:-1 tvg-id="CrimeHunters" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/2iMqzKK.png" group-title="Documentary",TV Crime Hunters
 https://amg01201-cinedigmenterta-crimehunters-cineverse-cnqvb.amagi.tv/playlist/amg01201-cinedigmenterta-crimehunters-cineverse/playlist.m3u8?#/TV Crime Hunters
 
-#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/8t9mdg9.png" group-title="News",TV Euronews
-https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8?#/TV Euronews
-
-
 
 #EXTINF:-1 tvg-id="TVFOX" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/9uSvpL2.png" group-title="General",TV Fox HD
 https://stream01.vnet.am/Fox/mono.m3u8?#/TV Fox HD
@@ -1033,4 +1065,5 @@ https://lnc-wcvb.tubi.video/playlist.m3u8?#/TV ABC US Boston MA
 
 #EXTINF:-1 tvg-id="abc.US" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/m4N8AhN.png" group-title="News",TV ABC US Detroit MI
 https://lnc-wxyz2.tubi.video/playlist.m3u8?#/TV ABC US Detroit MI
+
 
