@@ -9,8 +9,14 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8?#/TV Re
 #EXTINF:-1 tvg-id="TVRecord.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/abj0M7L.png" group-title="General",TV Record
 https://caikron.com.br:19360/criciuma/criciuma.m3u8?#/TV Record
 
+#EXTINF:-1 tvg-id="TV.Poços" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/FofXkku.png" group-title="General",TV Poços
+https://live.cdn.upx.com/00084/myStream.sdp/playlist.m3u8?#/TV Poços
+
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/7vlWpA7.png" group-title="News",TV Record News
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116#/TV Record News
+
+#EXTINF:-1 tvg-id="TV.Sul" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/yQznPGD.png" group-title="General",TV Sul
+https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8?#/TV Sul
 
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/7vlWpA7.png" group-title="News",TV Record News
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8?#/TV Record News
