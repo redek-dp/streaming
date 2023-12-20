@@ -1,34 +1,31 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mk28uUy.png" tvg-name="ThePetCollectiveSweden" group-title="Family",TV The Pet Collective Sweden
-https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8?#/TV The Pet Collective Sweden
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yH7n2dF.png" tvg-name="ThePetCollective" group-title="Family",TV The Pet Collective CA
+https://the-pet-collective-international-ca.samsung.wurl.tv/playlist.m3u8?#/TV The Pet Collective CA
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hboiinD.jpg" tvg-name="RakutenTV" group-title="Movies",TV Rakuten Family Movies Spain
-https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8?#/TV Rakuten Family Movies Spain
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mk28uUy.png" tvg-name="ThePetCollectiveSweden" group-title="Family",TV The Pet Collective SE
+https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8?#/TV The Pet Collective SE
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hboiinD.jpg" tvg-name="RakutenTV" group-title="Movies",TV Rakuten Family Movies Italy
-https://rakuten-family-6-it.samsung.wurl.tv/playlist.m3u8?#/TV Rakuten Family Movies Italy
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w7RdSIk.png" tvg-name="ThePetCollectiveIndia" group-title="Family",TV The Pet Collective IN
+https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8?#/TV The Pet Collective IN
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yH7n2dF.png" tvg-name="ThePetCollective" group-title="Family",TV The Pet Collective
-https://the-pet-collective-international-ca.samsung.wurl.tv/playlist.m3u8?#/TV The Pet Collective
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hboiinD.jpg" tvg-name="RakutenTV" group-title="Movies",TV Rakuten Family Movies ES
+https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8?#/TV Rakuten Family Movies ES
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fV9UC2U.png" tvg-name="RealFamiliesAu" group-title="Family",TV Real Families Australia
-https://lds-realfamilies-samsunguau.amagi.tv/playlist.m3u8?#/TV Real Families Australia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hboiinD.jpg" tvg-name="RakutenTV" group-title="Movies",TV Rakuten Family Movies IT
+https://rakuten-family-6-it.samsung.wurl.tv/playlist.m3u8?#/TV Rakuten Family Movies IT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hboiinD.jpg" tvg-name="RakutenFamilyMoviesFrance" group-title="Movies",TV Rakuten Family Movies FR
+https://rakuten-family-7-fr.samsung.wurl.tv/playlist.m3u8?#/TV Rakuten Family Movies FR
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6vaHKgT.png" tvg-name="TVRakutenFamilyMoviesFinland" group-title="Movies",TV Rakuten Family Movies FI
+https://rakuten-family-12-fi.samsung.wurl.tv/playlist.m3u8?#/TV Rakuten Family Movies FI
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KIEKOt1.png" tvg-id="WeatherSpy.in" group-title="Weather",TV WeatherSpy IN
 https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8?#/TV WeatherSpy IN
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yHUUIIz.png" tvg-id="WeatherSpy.us" group-title="Weather",TV WeatherSpy US
 https://jukin-weatherspy-1-us.samsung.wurl.tv/playlist.m3u8?#/TV WeatherSpy US
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w7RdSIk.png" tvg-name="ThePetCollectiveIndia" group-title="Family",TV The Pet Collective India
-https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8?#/TV The Pet Collective India
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hboiinD.jpg" tvg-name="RakutenFamilyMoviesFrance" group-title="Movies",TV Rakuten Family Movies France
-https://rakuten-family-7-fr.samsung.wurl.tv/playlist.m3u8?#/TV Rakuten Family Movies France
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6vaHKgT.png" tvg-name="TVRakutenFamilyMoviesFinland" group-title="Movies",TV Rakuten Family Movies Finland
-https://rakuten-family-12-fi.samsung.wurl.tv/playlist.m3u8?#/TV Rakuten Family Movies Finland
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dwMUVhs.png" group-title="General",TV Tastemade DE
 https://tastemade-de-samsung.amagi.tv/playlist.m3u8?#/TV Tastemade DE
@@ -83,6 +80,9 @@ https://xlpore-samsungus.amagi.tv/playlist.m3u8?#/TV xlpore
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8KQirah.png" tvg-id="Travelxp.in" group-title="Travel",TV Travelxp
 https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8?#/TV Travelxp
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fV9UC2U.png" tvg-name="RealFamiliesAu" group-title="Family",TV Real Families AU
+https://lds-realfamilies-samsunguau.amagi.tv/playlist.m3u8?#/TV Real Families AU
 
 
 
@@ -237,5 +237,31 @@ https://livefta.malimarcdn.com/ftaedge00/nat.sdp/playlist.m3u8?#/TV NAT
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fk5rEje.png" tvg-id="TJC.uk" group-title="Shop",TV TJC
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8?#/TV TJC
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5SKSkUQ.png" tvg-id="TVTudoBH.br" group-title="Shop",TV Tudo BH
-https://tv02.zas.media:1936/tvtudo/tvtudo/playlist.m3u8?#/TV Tudo BH
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XhaHoBu.png" group-title="General",TV CHARGE!
+https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8?#/TV CHARGE!
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XhaHoBu.png" group-title="General",TV COMET
+https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8?#/TV COMET
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XhaHoBu.png" group-title="General",TV DOVE Channel
+https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8?#/TV DOVE Channel
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XhaHoBu.png" group-title="General",TV THE FILM
+https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8?#/TV THE FILM
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XhaHoBu.png" group-title="General",TV HSN
+https://dai.google.com/linear/hls/event/akursTHNTo6qGf1TtlHNsw/master.m3u8?#/TV HSN
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XhaHoBu.png" group-title="General",TV LAW CRIME
+https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8?#/TV LAW CRIME
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XhaHoBu.png" group-title="General",TV PURSUIT UP
+https://dai.google.com/linear/hls/event/NpkpFaFVRqaQwSkpPdramg/master.m3u8?#/TV PURSUIT UP
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XhaHoBu.png" group-title="General",TV REVRY
+https://dai.google.com/linear/hls/event/gvO6-Y6TTjCxRf1QALU4VQ/master.m3u8?#/TV REVRY
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XhaHoBu.png" group-title="General",TV RETRO CHUSH
+https://dai.google.com/linear/hls/event/7LAMGFcmQN6iFJjNoHWXrg/master.m3u8?#/TV RETRO CHUSH
