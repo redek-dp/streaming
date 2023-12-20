@@ -209,17 +209,51 @@ https://jukin-weatherspy-2-br.samsung.wurl.tv/playlist.m3u8?#/TV WeatherSpy BR
 #EXTINF:-1 tvg-id="discovery.SA" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/61siK0t.png" group-title="General",TV Discovery SA
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8?#/TV Discovery SA
 
-#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/hboiinD.jpg" tvg-name="RakutenTV" group-title="Movies",TV Rakuten Family Movies ES
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/nfnWwgR.png" tvg-name="RakutenTV" group-title="Movies",TV Rakuten Family Movies ES
 https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8?#/TV Rakuten Family Movies ES
 
-#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/hboiinD.jpg" tvg-name="RakutenTV" group-title="Movies",TV Rakuten Family Movies IT
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/nfnWwgR.png" tvg-name="RakutenTV" group-title="Movies",TV Rakuten Family Movies IT
 https://rakuten-family-6-it.samsung.wurl.tv/playlist.m3u8?#/TV Rakuten Family Movies IT
 
-#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/hboiinD.jpg" tvg-name="Rakuten.France" group-title="Movies",TV Rakuten Family Movies FR
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/nfnWwgR.png" tvg-name="Rakuten.France" group-title="Movies",TV Rakuten Family Movies FR
 https://rakuten-family-7-fr.samsung.wurl.tv/playlist.m3u8?#/TV Rakuten Family Movies FR
 
-#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/6vaHKgT.png" tvg-name="Rakuten.Finland" group-title="Movies",TV Rakuten Family Movies FI
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/nfnWwgR.png" tvg-name="Rakuten.Finland" group-title="Movies",TV Rakuten Family Movies FI
 https://rakuten-family-12-fi.samsung.wurl.tv/playlist.m3u8?#/TV Rakuten Family Movies FI
+
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/nfnWwgR.png" tvg-name="RakutenTV" group-title="documentari",TV Rakuten Documentari
+https://9751138aa8bc4485bda71053af12ded7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_RakutenSpotlight/playlist.m3u8?#/TV Rakuten Documentari
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/nfnWwgR.png" tvg-name="RakutenTV" group-title="Movies",TV Rakuten Film Top
+https://c83ae24ef628411296c57c63dc20f827.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_TopFree/playlist.m3u8?#/TV Rakuten Film Top
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/nfnWwgR.png" tvg-name="RakutenTV" group-title="Movies",TV Rakuten Azione
+https://614060ea53ed43e0b861430de2935109.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_RakutenActionMovies/playlist.m3u8?#/TV Rakuten Azione
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/nfnWwgR.png" tvg-name="RakutenTV" group-title="Movies",TV Rakuten Commedia
+https://04c192a0b2944136967ca6b996e1acae.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_RakutenComedyMovies/playlist.m3u8?#/TV Rakuten Commedia
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/nfnWwgR.png" tvg-name="RakutenTV" group-title="Movies",TV Rakuten Dramma
+https://1d0a5a3a4329459e8648c3c0b5e47048.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_RakutenTVShows/playlist.m3u8?#/TV Rakuten Dramma
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/nfnWwgR.png" tvg-name="RakutenTV" group-title="Movies",TV Rakuten Cinema Italiano
+https://006280332e644bb9badb80cb614c00b6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_Classics/playlist.m3u8?#/TV Rakuten Cinema Italiano
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/nfnWwgR.png" tvg-name="RakutenTV" group-title="Movies",TV Rakuten 100 Natale
+https://8f7a275e527f4155aa33446da41ed21c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_RakutenFamily/playlist.m3u8?#/TV Rakuten 100 Natale
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/nfnWwgR.png" tvg-name="RakutenTV" group-title="Movies",TV Rakuten Thriller
+https://2bc7b486c90441a480dcab4bcdc6fbb5.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-it_RakutenThriller/playlist.m3u8?#/TV Rakuten Thriller
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/nfnWwgR.png" tvg-name="RakutenTV" group-title="Movies",TV Rakuten Romance
+https://0e46f0ad8cab40c9a43a323a53f46e4c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-it_RakutenRomance/playlist.m3u8?#/TV Rakuten Romance
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/nfnWwgR.png" tvg-name="RakutenTV" group-title="Movies",TV Rakuten Serie Crime
+https://3fda343656db4a4e9f2891dbb516d55d.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-it_SerieCrime/playlist.m3u8?#/TV Rakuten Serie Crime
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/nfnWwgR.png" tvg-name="RakutenTV" group-title="Movies",TV Rakuten VIKI
+https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8?#/TV Rakuten VIKI
 
 
 
@@ -1065,5 +1099,6 @@ https://lnc-wcvb.tubi.video/playlist.m3u8?#/TV ABC US Boston MA
 
 #EXTINF:-1 tvg-id="abc.US" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/m4N8AhN.png" group-title="News",TV ABC US Detroit MI
 https://lnc-wxyz2.tubi.video/playlist.m3u8?#/TV ABC US Detroit MI
+
 
 
