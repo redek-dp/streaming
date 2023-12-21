@@ -333,6 +333,8 @@ https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist.m3u8?#/TV Discover
 #EXTINF:-1 tvg-id="AmazonSat.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/zHl3beY.png" group-title="General",TV Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?#/TV Amazon Sat
 
+
+
 #EXTINF:-1 tvg-id="TNTSportsBrazil.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/88CbPLt.png" group-title="Sports",TV TNT Sports 1 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8?#/TV TNT Sports 1 Brasil
 
@@ -348,6 +350,9 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8?#/TV TNT Sports 4
 #EXTINF:-1 tvg-id="TNTSports5Brazil.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/XA3zxEE.png" group-title="Sports",TV TNT Sports 5 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8?#/TV TNT Sports 5 Brasil
 
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/7NeBmWX.jpg" group-title="Sports",TV Red Bull
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8?#/TV Red Bull
+
 #EXTINF:-1 tvg-id="Combate" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/NcESqkc.png" group-title="General",TV Combate Global
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960#/TV Combate Global
 
@@ -356,6 +361,50 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8?#/TV All Sports
 
 #EXTINF:-1 tvg-id="CanaldoInter.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/TQFWEIS.png" group-title="Sports",TV Canal do Inter
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8?#/TV Canal do Inter
+
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/7qKtXfi.png" tvg-name="TVFIFARakutenTV" group-title="sport",TV FIFA+
+https://bfbbd63e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzX0hMUw/playlist.m3u8?#/TV FIFA+
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/NmFHlyR.png" tvg-name="FuelRakutenTV" group-title="sport",TV FuelTV
+https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8?#/TV FuelTV
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/BXgQYuQ.png" tvg-name="World.Billiards.RakutenTV" group-title="sport",TV World Billiards
+https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8?#/TV World Billiards
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/CUKDUXk.png" tvg-name="ESTV.RakutenTV" group-title="sport",TV ESTV
+https://estv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-estv-rakuten/CDN/master.m3u8?#/TV ESTV
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/kzDV6ZE.png" tvg-name="HardKnocksFighting.RakutenTV" group-title="sport",TV Hard Knocks Fighting
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?#/TV Hard Knocks Fighting
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/X4nWGli.png" tvg-name="GLORY.KickboxingRakutenTV" group-title="sport",TV GLORY Kickboxing
+https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8?#/TV GLORY Kickboxing
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/4xCSR4F.png" tvg-name="WorldPoker.TourRakutenTV" group-title="sport",TV World Poker Tour
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?#/TV World Poker Tour
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/VvWBiwm.png" tvg-name="Motor1.RakutenTV" group-title="sport",TV Motor1
+https://42e3a76ae4dc44b491a1758026c8a014.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_Motor1TV/playlist.m3u8?#/TV Motor1
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/E0OlA0c.png" tvg-name="USGA.RakutenTV" group-title="sport",TV USGA
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?#/TV USGA
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/4CBsU2H.png" tvg-name="Sport.Italia.RakutenTV" group-title="sport",TV Sport Italia
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8?#/TV Sport Italia
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/90lt23P.png" tvg-name="SportOutdoor.RakutenTV" group-title="sport",TV SportOutdoor.tv
+https://91b5799a3e214962a772b63035002827.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_SportOutdoorTV/playlist.m3u8?#/TV SportOutdoor.tv
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/lpG7tvL.png" tvg-name="Montagna.RakutenTV" group-title="sport",TV Montagna!
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?#/TV Montagna!
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/befIEG8.png" tvg-name="Motorsport.RakutenTV" group-title="sport",TV Motorsport.tv
+https://9e2ee5d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8?#/TV Motorsport.tv
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/Zs1pP1w.png" tvg-name="MAVTV.Motorsports.NetworkRakutenTV" group-title="sport",TV MAVTV Motorsports
+https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8?#/TV MAVTV Motorsports
+
 
 #EXTINF:-1 tvg-id="TVitape.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/XeqcwKe.png" group-title="General",TV Itapé
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8?#/TV Itapé
@@ -729,9 +778,6 @@ https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8?#/TV Euronews BE
 
 #EXTINF:-1 tvg-id="Futura.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.postimg.cc/Hng0W5Cy/300px-Canal-Futura.png" group-title="Education",TV Futura
 https://tv.unisc.br/hls/test.m3u8?#/TV Futura
-
-#EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="INT" tvg-language="English" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/7NeBmWX.jpg" group-title="Sports",TV Red Bull
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8?#/TV Red Bull
 
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="News",TV TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8?#/TV TRT World
@@ -1116,6 +1162,3 @@ https://lnc-wcvb.tubi.video/playlist.m3u8?#/TV ABC US Boston MA
 
 #EXTINF:-1 tvg-id="abc.US" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/m4N8AhN.png" group-title="News",TV ABC US Detroit MI
 https://lnc-wxyz2.tubi.video/playlist.m3u8?#/TV ABC US Detroit MI
-
-
-
