@@ -93,6 +93,9 @@ https://nosey-4-br.samsung.wurl.tv/playlist.m3u8?#/TV Nosey alt
 #EXTINF:-1 tvg-id="Comedia.Brazil" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/qbeiqVl.png" group-title="Comedy",TV Comedia Brazil
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8?#/TV Comedia Brazil
 
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/Lc3PoTH.png" tvg-name="JustForLaughsGags.RakutenTV" group-title="intrattenimento",TV Just For Laughs Gags
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?#/TV Just For Laughs Gags
+
 
 
 #EXTINF:-1 tvg-id="Devseven.Tv" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/AmewaLx.png" group-title="Kids",TV DevsevenTv
