@@ -173,6 +173,10 @@ https://gustotv-samsung-gb.samsung.wurl.tv/manifest/playlist.m3u8?#/TV Gusto UK
 #EXTINF:-1 tvg-id="gusto.tv.US" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/swUX3hQ.png" group-title="Cooking",TV Gusto US
 https://gustotv-gustotv-2-eu.rakuten.wurl.tv/playlist.m3u8?#/TV Gusto US
 
+#EXTINF:-1 tvg-id="gusto.tv.US" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/swUX3hQ.png" group-title="Cooking",TV Gusto US
+https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8?#/TV Gusto US
+
+
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/aiGQtzI.png" group-title="Movies",TV MyTime Movie Network BR
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8?#/TV MyTime Movie Network BR
 
@@ -274,6 +278,9 @@ https://3fda343656db4a4e9f2891dbb516d55d.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/nfnWwgR.png" tvg-name="RakutenTV" group-title="Movies",TV Rakuten VIKI
 https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8?#/TV Rakuten VIKI
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/QEZzKbz.png" tvg-name="Powernation.RakutenTV" group-title="lifestyle",TV Powernation
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?#/TV Powernation
 
 
 
