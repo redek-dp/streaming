@@ -2870,7 +2870,7 @@
         "tvtitle": "TV network ADROTOT 2",
         "tvmedia": "stream.ads.ottera.tv/playlist.m3u8?network_id=169#/TV",
         "tvid": "network.us",
-        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/xazwnkT.png",
+        "tvlogo": "https://openimg.vercel.app/api/midiatv?fots=15&open=Net ADROTOT",
         "tvgroup": "General"
     },
     {
@@ -2878,7 +2878,7 @@
         "tvtitle": "TV network PRANK MY PET!",
         "tvmedia": "stream.ads.ottera.tv/playlist.m3u8?network_id=264#/TV",
         "tvid": "network.us",
-        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/xazwnkT.png",
+        "tvlogo": "https://openimg.vercel.app/api/midiatv?fots=15&open=PRANK MY PET!",
         "tvgroup": "General"
     },
     {
@@ -2886,7 +2886,7 @@
         "tvtitle": "TV network Doc",
         "tvmedia": "stream.ads.ottera.tv/playlist.m3u8?network_id=279#/TV",
         "tvid": "network.us",
-        "tvlogo": "https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/xazwnkT.png",
+        "tvlogo": "https://openimg.vercel.app/api/midiatv?fots=15&open=Network Doc",
         "tvgroup": "General"
     },
     {
