@@ -283,6 +283,9 @@ https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?#/TV Powernation
 
 
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/nfnWwgR.png" tvg-name="RakutenTV" group-title="Movies",TV Rakuten Action
+https://rakuten-action-9-se.samsung.wurl.tv/playlist.m3u8?#/TV Rakuten Action
+
 
 #EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/DTXQ3Pc.png" group-title="Movie",TV Moviesphere Free
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8?#/TV Moviesphere Free
