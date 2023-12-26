@@ -75,6 +75,9 @@ https://ec4a5bcc9d664b48985de6095931aaa7.mediatailor.us-east-1.amazonaws.com/v1/
 https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8?#/TV People Are Awesome
 
 #EXTINF:-1 tvg-id="peopleare.Awesome" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/Si9Dp5k.png" group-title="Comedy",TV People Are Awesome
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f0ff263d71dcb00449ec021.m3u8?#/TV People Are Awesome
+
+#EXTINF:-1 tvg-id="peopleare.Awesome" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/Si9Dp5k.png" group-title="Comedy",TV People Are Awesome
 https://965a56fdfe3c40cd9b73c49a0cde620b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_PeopleAreAwesome-1/playlist.m3u8?#/TV People Are Awesome
 
 
@@ -138,6 +141,13 @@ https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8?#/TV Cartoon
 #EXTINF:-1 tvg-id="Toon.Goggle" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=825#/TV Toon Goggle
 
+#EXTINF:-1 tvg-id="Toon.Goggle" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5eea605574085f0040ddc794.m3u8#/TV Toon Goggle
+
+#EXTINF:-1 tvg-id="Toon.Goggle" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6041643175c115002dc51259.m3u8#/TV Toon Goggle
+
+
 #EXTINF:-1 tvg-id="Tastemade.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/FPy4zF4.png" group-title="Cooking",TV Tastemade BR
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8?#/TV Tastemade BR
 
@@ -156,8 +166,8 @@ https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playl
 #EXTINF:-1 tvg-id="Tastemade.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/EopYeL1.png" group-title="Cooking",TV Tastemade US 3
 https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8?#/TV Tastemade US 3
 
-#EXTINF:-1 tvg-id="Tastemade.travel" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/EopYeL1.png" group-title="Cooking",TV Tastemade Tr
-https://tastemadetravel-vizio.amagi.tv/playlist.m3u8?#/TV Tastemade Tr
+#EXTINF:-1 tvg-id="Tastemade.travel" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/EopYeL1.png" group-title="Cooking",TV Tastemade TR
+https://tastemadetravel-vizio.amagi.tv/playlist.m3u8?#/TV Tastemade TR
 
 #EXTINF:-1 tvg-id="Tastemade.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/EopYeL1.png" group-title="Cooking",TV Tastemade US
 https://tastemade-xumo.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16xumo/CDN/master.m3u8?#/TV Tastemade US
@@ -181,14 +191,27 @@ https://gustotv-gustotv-2-eu.rakuten.wurl.tv/playlist.m3u8?#/TV Gusto US
 https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8?#/TV Gusto US
 
 
-#EXTINF:-1 tvg-id="MyTimeMovieNetwork.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/aiGQtzI.png" group-title="Movies",TV MyTime Movie Network BR
-https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8?#/TV MyTime Movie Network BR
+#EXTINF:-1 tvg-id="Cooking.Panda" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/wlLaXr6.png" group-title="Cooking",TV Cooking Panda
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=165#/TV Cooking Panda
+
+#EXTINF:-1 tvg-id="Cooking.Panda" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/wlLaXr6.png" group-title="Cooking",TV Cooking Panda
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=180#/TV Cooking Panda
+
+#EXTINF:-1 tvg-id="Cooking.Panda" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/wlLaXr6.png" group-title="Cooking",TV Cooking Panda
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=207#/TV Cooking Panda
+
+#EXTINF:-1 tvg-id="Cooking.Panda" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/wlLaXr6.png" group-title="Cooking",TV Cooking Panda
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f07e9fdf313eb0041bbecda.m3u8?#/TV Cooking Panda
+
 
 #EXTINF:-1 tvg-id="bonappetit" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/YhFFxlE.png" group-title="Cooking",TV Bon Appetit 1
 https://bonappetit-samsung.amagi.tv/playlist.m3u8?#/TV Bon Appetit 1
 
 #EXTINF:-1 tvg-id="bonappetit" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/YhFFxlE.png" group-title="Cooking",TV Bon Appetit 2
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbonappetit/CDN/playlist.m3u8?#/TV Bon Appetit 2
+
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/aiGQtzI.png" group-title="Movies",TV MyTime Movie Network BR
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8?#/TV MyTime Movie Network BR
 
 #EXTINF:-1 tvg-id="PetClubTV" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/ykPNNwQ.png" group-title="Comedy",TV Pet Club TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8?#/TV Pet Club TV
@@ -843,14 +866,6 @@ https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="ComedyPlay.ro" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/584Wn29.png" group-title="Comedy",TV Comedy Play 
 https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8?#/TV Comedy Play 
 
-#EXTINF:-1 tvg-id="COOKING.PANDA" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/wlLaXr6.png" group-title="Cooking",TV COOKING PANDA 1
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=165#/TV COOKING PANDA 1
-
-#EXTINF:-1 tvg-id="COOKING.PANDA" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/wlLaXr6.png" group-title="Cooking",TV COOKING PANDA 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=180#/TV COOKING PANDA 2
-
-#EXTINF:-1 tvg-id="COOKING.PANDA" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/wlLaXr6.png" group-title="Cooking",TV COOKING PANDA 3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=207#/TV COOKING PANDA 3
 
 #EXTINF:-1 tvg-id="CanelaClasicos" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/8Hllkpk.png" group-title="Comedy",TV Canela Clasicos
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652#/TV Canela Clasicos
@@ -865,34 +880,33 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65#/TV CanelaTV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058#/TV CanelaTV 3
 
 
-#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV TG 1
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=172#/TV TG 1
-#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV TG 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=188#/TV TG 2
-#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV TG 3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=190#/TV TG 3
-#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV TG 4
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=192#/TV TG 4
-#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV TG 5
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=193#/TV TG 5
-#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV TG 6
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=198#/TV TG 6
-#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV TG 7
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=221#/TV TG 7
-#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV TG 8
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=157#/TV TG 8
-#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV TG 9
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=225#/TV TG 9
-#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV TG 10
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=125#/TV TG 10
-#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV TG 11 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=115#/TV TG 11
-#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV TG 12
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=222#/TV TG 12
-#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV TG 13
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=251#/TV TG 13
-#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV TG 14
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=142#/TV TG 14
+#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=172#/TV Toon Goggle 1
+#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=188#/TV Toon Goggle 2
+#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=190#/TV Toon Goggle 3
+#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=192#/TV Toon Goggle 4
+#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 5
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=193#/TV Toon Goggle 5
+#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 6
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=198#/TV Toon Goggle 6
+#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=221#/TV Toon Goggle 7
+#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=157#/TV Toon Goggle 8
+#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 9
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=225#/TV Toon Goggle 9
+#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 10
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=125#/TV Toon Goggle 10
+#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 11 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=142#/TV Toon Goggle 11
+#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 12
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=222#/TV Toon Goggle 12
+#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 13
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=251#/TV Toon Goggle 13
+
 
 #EXTINF:-1 tvg-id="CanelaTelenovelas" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/8Hllkpk.png" group-title="General",TV Canela Telenovelas 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152#/TV Canela Telenovelas 1
