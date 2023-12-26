@@ -142,10 +142,10 @@ https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8?#/TV Cartoon
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=825#/TV Toon Goggle
 
 #EXTINF:-1 tvg-id="Toon.Goggle" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5eea605574085f0040ddc794.m3u8#/TV Toon Goggle
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5eea605574085f0040ddc794.m3u8?#/TV Toon Goggle
 
 #EXTINF:-1 tvg-id="Toon.Goggle" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6041643175c115002dc51259.m3u8#/TV Toon Goggle
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6041643175c115002dc51259.m3u8?#/TV Toon Goggle
 
 
 #EXTINF:-1 tvg-id="Tastemade.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/FPy4zF4.png" group-title="Cooking",TV Tastemade BR
