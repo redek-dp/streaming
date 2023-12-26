@@ -94,9 +94,13 @@ https://nosey-4-br.samsung.wurl.tv/playlist.m3u8?#/TV Nosey alt
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8?#/TV Comedia Brazil
 
 #EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/Lc3PoTH.png" tvg-name="JustForLaughsGags.RakutenTV" group-title="intrattenimento",TV Just For Laughs Gags
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?#/TV Just For Laughs Gags
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64704954e536e0faaf10be9f.m3u8?#/TV Just For Laughs Gags
 
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/cqw7eyl.png" tvg-name="123.GO" group-title="General",TV 123GO!
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63eecb32ac23d1ee072087cb.m3u8?#/TV 123GO!
 
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/pyWojfO.png" tvg-name="5-Minute.Crafts" group-title="General",TV 5-Minute Crafts
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63894c1965b848bf2c8a7800.m3u8?#/TV 5-Minute Crafts
 
 #EXTINF:-1 tvg-id="Devseven.Tv" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/AmewaLx.png" group-title="Kids",TV DevsevenTv
 https://redek-dp.github.io/streaming/dnetwork/playlist.m3u8?#/TV DevsevenTv
@@ -279,12 +283,12 @@ https://3fda343656db4a4e9f2891dbb516d55d.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/nfnWwgR.png" tvg-name="RakutenTV" group-title="Movies",TV Rakuten VIKI
 https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8?#/TV Rakuten VIKI
 
-#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/QEZzKbz.png" tvg-name="Powernation.RakutenTV" group-title="lifestyle",TV Powernation
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?#/TV Powernation
-
-
 #EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/nfnWwgR.png" tvg-name="RakutenTV" group-title="Movies",TV Rakuten Action
 https://rakuten-action-9-se.samsung.wurl.tv/playlist.m3u8?#/TV Rakuten Action
+
+
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/QEZzKbz.png" tvg-name="Powernation.RakutenTV" group-title="lifestyle",TV Powernation
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?#/TV Powernation
 
 
 #EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/DTXQ3Pc.png" group-title="Movie",TV Moviesphere Free
