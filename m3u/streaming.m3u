@@ -892,35 +892,40 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058#/TV CanelaTV 3
 
 #EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=172#/TV Toon Goggle 1
+#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 2 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=142#/TV Toon Goggle 2
+#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=222#/TV Toon Goggle 3
+#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=157#/TV Toon Goggle 4
 
-#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=188#/TV Toon Goggle 2
+
+#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 5
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=188#/TV Toon Goggle 5
+#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 6
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=192#/TV Toon Goggle 6
+#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=198#/TV Toon Goggle 7
+
+
 #EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=190#/TV Toon Goggle 3
-#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 4
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=192#/TV Toon Goggle 4
 #EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 5
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=193#/TV Toon Goggle 5
 
-#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 6
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=198#/TV Toon Goggle 6
+
 
 #EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 7
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=221#/TV Toon Goggle 7
 
-#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 8
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=157#/TV Toon Goggle 8
+
 
 #EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 9
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=225#/TV Toon Goggle 9
 #EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 10
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=125#/TV Toon Goggle 10
 
-#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 11 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=142#/TV Toon Goggle 11
 
-#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 12
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=222#/TV Toon Goggle 12
 
 #EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 13
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=251#/TV Toon Goggle 13
