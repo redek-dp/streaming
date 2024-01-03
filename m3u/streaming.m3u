@@ -601,8 +601,11 @@ https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8?#/TV 
 #EXTINF:-1 tvg-id="PeruChannel.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/01KEiEp.png" group-title="General",TV Peru Channel
 https://a.cdni.live/peruchanel/peruchanel/playlist.m3u8?#/TV Peru Channel
 
-#EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/ZWFxlU1.png" group-title="General",TV RBATV
+#EXTINF:-1 tvg-id="band.RBATV.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/ZWFxlU1.png" group-title="General",TV RBATV
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?#/TV RBATV
+
+#EXTINF:-1 tvg-id="band.TVArapuan.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/3395A2h.png" group-title="General",TV Arapuan
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8?#/TV Arapuan
 
 #EXTINF:-1 tvg-id="RBTV.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/m7JDxXJ.png" group-title="General",TV RBTV
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8?#/TV RBTV
@@ -642,9 +645,6 @@ https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8?#/TV Alternativ
 
 #EXTINF:-1 tvg-id="TVAparecida.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/kxrja0X.png" group-title="Religious",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?#/TV Aparecida
-
-#EXTINF:-1 tvg-id="TVArapuan.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/3395A2h.png" group-title="General",TV Arapuan
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8?#/TV Arapuan
 
 #EXTINF:-1 tvg-id="TVAssembleiaCeara.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/UPa1tjs.png" group-title="Legislative",TV Assembleia Ceara
 https://jjn5dkk9bd.zoeweb.tv/z404-live/stream/playlist.m3u8?#/TV Assembleia Ceara
@@ -892,6 +892,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058#/TV CanelaTV 3
 
 #EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=172#/TV Toon Goggle 1
+
 #EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=188#/TV Toon Goggle 2
 #EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 3
@@ -900,20 +901,27 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=190#/TV Toon Goggle 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=192#/TV Toon Goggle 4
 #EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 5
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=193#/TV Toon Goggle 5
+
 #EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 6
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=198#/TV Toon Goggle 6
+
 #EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 7
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=221#/TV Toon Goggle 7
+
 #EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=157#/TV Toon Goggle 8
+
 #EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 9
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=225#/TV Toon Goggle 9
 #EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 10
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=125#/TV Toon Goggle 10
+
 #EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 11 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=142#/TV Toon Goggle 11
+
 #EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 12
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=222#/TV Toon Goggle 12
+
 #EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 13
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=251#/TV Toon Goggle 13
 
