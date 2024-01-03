@@ -4,12 +4,8 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=910000,CLOSED-CAPTIONS="captions"
 https://failarmy-international-ca.samsung.wurl.tv/1200.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=2,BANDWIDTH=920000,CLOSED-CAPTIONS="captions"
-https://failarmy-international-br.samsung.wurl.tv/1200.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=3,BANDWIDTH=930000,CLOSED-CAPTIONS="captions"
 https://failarmy-international-it.samsung.wurl.tv/1200.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=4,BANDWIDTH=940000,CLOSED-CAPTIONS="captions"
-https://failarmy-international-in.samsung.wurl.tv/1200.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=5,BANDWIDTH=950000,CLOSED-CAPTIONS="captions"
 https://failarmy-international-nl.samsung.wurl.tv/1200.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=6,BANDWIDTH=960000,CLOSED-CAPTIONS="captions"
+#EXT-X-STREAM-INF:PROGRAM-ID=5,BANDWIDTH=950000,CLOSED-CAPTIONS="captions"
 https://failarmy-international-se.samsung.wurl.tv/1200.m3u8
