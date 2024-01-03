@@ -191,6 +191,10 @@ https://gustotv-gustotv-2-eu.rakuten.wurl.tv/playlist.m3u8?#/TV Gusto US
 https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8?#/TV Gusto US
 
 
+#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/RRTe5FP.png" tvg-name="MasterChef.Br" group-title="Cooking",TV MasterChef Brasil
+https://redek-dp.github.io/streaming/m3u/serv/live/MasterChefBr.m3u8?#/TV MasterChef Brasil
+
+
 #EXTINF:-1 tvg-id="Cooking.Panda" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/wlLaXr6.png" group-title="Cooking",TV Cooking Panda
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=165#/TV Cooking Panda
 
@@ -316,9 +320,6 @@ https://rakuten-action-9-se.samsung.wurl.tv/playlist.m3u8?#/TV Rakuten Action
 
 #EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/BVbcDno.png" tvg-name="Grjngo.Filmes.Faroeste.Br" group-title="Filmes",TV Grjngo Filmes De Faroeste
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-63489bc190b96ef5e0eb327c/variant.m3u8?url=e54bb511d9b7c72676ec235a7cd8c10b-9e53a641c513faede0b0d842cc82821182a6b5f17c20f81d01090155d188a72825759cd3db50feb9627ee7ba5e3009a22ea88a2f04830a9ff7fb37f245b50e54cf94bbcf0127188240573aa00cf61221ca65778861c4b02c1d7a69a6e183023d1f6ae916f56d44af6222411032111819a985f6712971c4e7c09862069ece0c2fc3974fbe92ecf11bee2cf7479d131b1574cf38e321860be768361a8a36023c80b951850ed74d2c6f74483852c9c09915aa5a5bb0b0ad5809fca1f4a6d744976d02cc834bc3d580d650c774e75dd24190&x-plex-token=wzYD7onw73MwQLaE7cEy&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1704218856#/TV Grjngo Filmes De Faroeste
-
-#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/RRTe5FP.png" tvg-name="MasterChef.Br" group-title="General",TV MasterChef Brasil
-https://redek-dp.github.io/streaming/m3u/serv/live/MasterChefBr.m3u8?#/TV MasterChef Brasil
 
 
 
