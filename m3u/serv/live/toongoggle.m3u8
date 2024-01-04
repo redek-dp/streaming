@@ -2,7 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-MEDIA:TYPE=CLOSED-CAPTIONS,GROUP-ID="captions",NAME="English",DEFAULT=NO,LANGUAGE="en",INSTREAM-ID="CC1"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=700000,CLOSED-CAPTIONS="captions"
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=172
+https://5stream.ads.ottera.tv/playlist.m3u8?network_id=172
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=600000,CLOSED-CAPTIONS="captions"
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=157
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000,CLOSED-CAPTIONS="captions"
