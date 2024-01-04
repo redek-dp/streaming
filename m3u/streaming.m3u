@@ -927,8 +927,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=125#/TV Toon Goggle 10
 
 
 
-#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 13
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=251#/TV Toon Goggle 13
+#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/Wv1nftK.png" group-title="Kids",TV Kartoon Channel!
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=251#/TV Kartoon Channel!
+
 
 
 #EXTINF:-1 tvg-id="CanelaTelenovelas" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/8Hllkpk.png" group-title="General",TV Canela Telenovelas 1
