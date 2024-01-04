@@ -47,11 +47,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865#/TV RunTime CinEspant
 #EXTINF:-1 tvg-id="TVRunTime.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/htpUKDX.png" group-title="Series",TV RunTime Crime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864#/TV RunTime Crime
 
-#EXTINF:-1 tvg-id="TVRunTime.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/htpUKDX.png" group-title="Series",TV RunTime Filmes
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865#/TV RunTime Filmes
-#EXTINF:-1 tvg-id="TVRunTime.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/htpUKDX.png" group-title="Series",TV RunTime Filmes
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866#/TV RunTime Filmes
-
 
 
 #EXTINF:-1 tvg-id="FailArmy.CA" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/2Pe548t.png" group-title="Comedy",TV FailArmy CA
@@ -911,6 +906,9 @@ https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="ComedyPlay.ro" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/584Wn29.png" group-title="Comedy",TV Comedy Play 
 https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8?#/TV Comedy Play 
 
+
+#EXTINF:-1 tvg-id="TVGirlsPlanet" tvg-logo="https://openimg.vercel.app/api/midiatv?fots=19&open=GirlsPlanet" group-title="Entertainment",TV Girls Planet
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5540#/TV Girls Planet
 
 #EXTINF:-1 tvg-id="TVNatureescape" tvg-logo="https://openimg.vercel.app/api/midiatv?fots=19&open=NatureEscape" group-title="Entertainment",TV Natureescape
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=570#/TV Natureescape
