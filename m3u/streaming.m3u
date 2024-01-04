@@ -9,6 +9,9 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8?#/TV Re
 #EXTINF:-1 tvg-id="TVRecord.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/abj0M7L.png" group-title="General",TV Record
 https://caikron.com.br:19360/criciuma/criciuma.m3u8?#/TV Record
 
+#EXTINF:-1 tvg-id="TVRecord.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/TD6ZJoa.png" group-title="General",TV Tropical
+https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8?#/TV Tropical
+
 #EXTINF:-1 tvg-id="TV.Poços" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/FofXkku.png" group-title="General",TV Poços
 https://live.cdn.upx.com/00084/myStream.sdp/playlist.m3u8?#/TV Poços
 
@@ -790,8 +793,6 @@ https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8?#/TV Rio P
 #EXTINF:-1 tvg-id="TVSeries.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/Ff5mj0o.png" group-title="Series",TV Series
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8?#/TV Series
 
-#EXTINF:-1 tvg-id="TVTropical.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/TD6ZJoa.png" group-title="General",TV Tropical
-https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8?#/TV Tropical
 
 #EXTINF:-1 tvg-id="TVTudoBH.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/5SKSkUQ.png" group-title="Shop",TV Tudo BH
 https://tv02.zas.media:1936/tvtudo/tvtudo/playlist.m3u8?#/TV Tudo BH
