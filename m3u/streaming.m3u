@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/jC388aq.png" group-title="General",TV SBT
+#EXTINF:-1 tvg-id="TVSBT.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/jC388aq.png" group-title="General",TV SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8?#/TV SBT
 
 #EXTINF:-1 tvg-id="TVRecord.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/abj0M7L.png" group-title="General",TV Record MT
@@ -15,13 +15,19 @@ https://caikron.com.br:19360/criciuma/criciuma.m3u8?#/TV Record SC
 #EXTINF:-1 tvg-id="TVRecord.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/TD6ZJoa.png" group-title="General",TV Record RN
 https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8?#/TV Record RN
 
-#EXTINF:-1 tvg-id="TV.Poços" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/FofXkku.png" group-title="General",TV Poços
+#EXTINF:-1 tvg-id="TVcnn.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/UWOujeG.png" group-title="News",TV CNN Brasil
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8?#/TV CNN Brasil
+
+#EXTINF:-1 tvg-id="TVSony.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/mQkVOuK.png" group-title="Series",TV Sony Novelas
+https://spt-novelas-1-us.vizio.wurl.tv/playlist.m3u8?#/TV Sony Novelas
+
+#EXTINF:-1 tvg-id="TVPoços.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/FofXkku.png" group-title="General",TV Poços
 https://live.cdn.upx.com/00084/myStream.sdp/playlist.m3u8?#/TV Poços
 
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/7vlWpA7.png" group-title="News",TV Record News
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116#/TV Record News
 
-#EXTINF:-1 tvg-id="TV.Sul" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/yQznPGD.png" group-title="General",TV Sul
+#EXTINF:-1 tvg-id="TVSul.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/yQznPGD.png" group-title="General",TV Sul
 https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8?#/TV Sul
 
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/7vlWpA7.png" group-title="News",TV Record News
@@ -32,6 +38,12 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?#/TV Band
 
 #EXTINF:-1 tvg-id="TVAratu.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/jpgFBUh.png" group-title="General",TV Aratu
 https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8?#/TV Aratu
+
+#EXTINF:-1 tvg-id="TVBBC.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/bamtUe0.png" group-title="Movies",TV BBC Drama
+https://bbceu-bbcdrama-3-es.rakuten.wurl.tv/playlist.m3u8?#/TV BBC Drama
+
+#EXTINF:-1 tvg-id="RedeMinas.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/MtQWAHv.png" group-title="Education",TV Rede Minas
+https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8?#/TV Rede Minas
 
 
 #EXTINF:-1 tvg-id="TVRunTime.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/htpUKDX.png" group-title="Series",TV RunTime
@@ -48,29 +60,25 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865#/TV RunTime CinEspant
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864#/TV RunTime Crime
 
 
-
-#EXTINF:-1 tvg-id="FailArmy.CA" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/2Pe548t.png" group-title="Comedy",TV FailArmy CA
-https://failarmy-international-ca.samsung.wurl.tv/playlist.m3u8?#/TV FailArmy CA
+#EXTINF:-1 tvg-id="TVComediaBrazil.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/qbeiqVl.png" group-title="Comedy",TV Comedia Brazil
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8?#/TV Comedia Brazil
 
 #EXTINF:-1 tvg-id="FailArmy.BR" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/2Pe548t.png" group-title="Comedy",TV FailArmy BR
 https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8?#/TV FailArmy BR
-
-#EXTINF:-1 tvg-id="FailArmyItaly.it" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/t3IjyYJ.png" group-title="Comedy",TV Failarmy IT
+#EXTINF:-1 tvg-id="FailArmy.CA" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/2Pe548t.png" group-title="Comedy",TV FailArmy CA
+https://failarmy-international-ca.samsung.wurl.tv/playlist.m3u8?#/TV FailArmy CA
+#EXTINF:-1 tvg-id="FailArmy.It" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/t3IjyYJ.png" group-title="Comedy",TV Failarmy IT
 https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8?#/TV Failarmy IT
-
 #EXTINF:-1 tvg-id="FailArmy.IN" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/2Pe548t.png" group-title="Comedy",TV FailArmy IN
 https://failarmy-international-in.samsung.wurl.tv/playlist.m3u8?#/TV FailArmy IN
-
 #EXTINF:-1 tvg-id="FailArmy.NL" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/2Pe548t.png" group-title="Comedy",TV FailArmy NL
 https://failarmy-international-nl.samsung.wurl.tv/playlist.m3u8?#/TV FailArmy NL
-
 #EXTINF:-1 tvg-id="FailArmy.SE" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/2Pe548t.png" group-title="Comedy",TV FailArmy SE
 https://failarmy-international-se.samsung.wurl.tv/playlist.m3u8?#/TV FailArmy SE
-
 #EXTINF:-1 tvg-id="FailArmy.US" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/2Pe548t.png" group-title="Comedy",TV FailArmy US
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/playlist.m3u8?#/TV FailArmy US
 
-#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/lcfxXZF.png" tvg-name="FailArmy.RakutenTV" group-title="intrattenimento",TV FailArmy EU
+#EXTINF:-1 tvg-id="FailArmy.EU" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/2Pe548t.png" group-title="intrattenimento",TV FailArmy EU
 https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8?#/TV FailArmy EU
 
 
@@ -96,7 +104,7 @@ https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8?#/TV AF
 https://ec4a5bcc9d664b48985de6095931aaa7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_AmericasFunniestHomeVideos/playlist.m3u8?#/TV AFV Family US
 
 
-#EXTINF:-1 tvg-id="peopleare.Awesome" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/Si9Dp5k.png" group-title="Comedy",TV People Are Awesome
+#EXTINF:-1 tvg-id="peopleareAwesome.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/Si9Dp5k.png" group-title="Comedy",TV People Are Awesome
 https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8?#/TV People Are Awesome
 
 #EXTINF:-1 tvg-id="peopleare.Awesome" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/Si9Dp5k.png" group-title="Comedy",TV People Are Awesome
@@ -109,17 +117,17 @@ https://965a56fdfe3c40cd9b73c49a0cde620b.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="ALF.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/fWRs1gX.png" group-title="Series",TV ALF
 https://97bd5884f7a348aa93b50e48d031be0e.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/ONO_ALF/playlist.m3u8?#/TV ALF
 
+#EXTINF:-1 tvg-id="TVTeleVisa.mx" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/QrA2g6C.png" group-title="General",TV TeleVisa
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?#/TV TeleVisa
+
 #EXTINF:-1 tvg-id="Motorvision.UE" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/9xh4NUw.png" group-title="General",TV Motorvision
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8?#/TV Motorvision
 
-#EXTINF:-1 tvg-id="Fashion.TV" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/LpvKg4w.png" group-title="General",TV Fashion
+#EXTINF:-1 tvg-id="Fashion.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/LpvKg4w.png" group-title="General",TV Fashion
 https://fashiontv-fashiontv-5-br.samsung.wurl.tv/playlist.m3u8?#/TV Fashion
 
-#EXTINF:-1 tvg-id="Nosey.alt" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/E49WtFx.png" group-title="General",TV Nosey alt
+#EXTINF:-1 tvg-id="Nosey.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/E49WtFx.png" group-title="General",TV Nosey alt
 https://nosey-4-br.samsung.wurl.tv/playlist.m3u8?#/TV Nosey alt
-
-#EXTINF:-1 tvg-id="Comedia.Brazil" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/qbeiqVl.png" group-title="Comedy",TV Comedia Brazil
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8?#/TV Comedia Brazil
 
 #EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/Lc3PoTH.png" tvg-name="JustForLaughsGags.RakutenTV" group-title="intrattenimento",TV Just For Laughs Gags
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64704954e536e0faaf10be9f.m3u8?#/TV Just For Laughs Gags
@@ -130,11 +138,9 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63eecb32ac23d1ee072087cb.m3u8?#/T
 #EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/pyWojfO.png" tvg-name="5-Minute.Crafts" group-title="General",TV 5-Minute Crafts
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63894c1965b848bf2c8a7800.m3u8?#/TV 5-Minute Crafts
 
-#EXTINF:-1 tvg-id="Devseven.Tv" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/AmewaLx.png" group-title="Kids",TV DevsevenTv
+#EXTINF:-1 tvg-id="Devseven.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/AmewaLx.png" group-title="Kids",TV DevsevenTv
 https://redek-dp.github.io/streaming/dnetwork/playlist.m3u8?#/TV DevsevenTv
 
-#EXTINF:-1 tvg-id="RedeMinas.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/MtQWAHv.png" group-title="Education",TV Rede Minas
-https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8?#/TV Rede Minas
 
 #EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/LVLMTZ0.png" group-title="Kids",TV Cartoon Network BR 1
 https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8?#/TV Cartoon Network BR 1
@@ -163,18 +169,13 @@ https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8?#/TV Cartoon
 #EXTINF:-1 tvg-id="Cartoon.AR" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/LVLMTZ0.png" group-title="Kids",TV Cartoon Network AR
 https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8?#/TV Cartoon Network AR
 
-#EXTINF:-1 tvg-id="Toon.Goggle" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=825#/TV Toon Goggle
-
-#EXTINF:-1 tvg-id="Toon.Goggle" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5eea605574085f0040ddc794.m3u8?#/TV Toon Goggle
-
-#EXTINF:-1 tvg-id="Toon.Goggle" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6041643175c115002dc51259.m3u8?#/TV Toon Goggle
-
-
-#EXTINF:-1 tvg-id="TV.Jetson" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/sMpSDCs.png" group-title="Kids",TV Jetson
+#EXTINF:-1 tvg-id="TV.Jetson.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/sMpSDCs.png" group-title="Kids",TV Jetson
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8?#/TV Jetson
+
+#EXTINF:-1 tvg-id="ToonGoggle.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle BR
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=274#/TV Toon Goggle BR
+
+
 
 
 #EXTINF:-1 tvg-id="Tastemade.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/FPy4zF4.png" group-title="Cooking",TV Tastemade BR
@@ -220,8 +221,11 @@ https://gustotv-gustotv-2-eu.rakuten.wurl.tv/playlist.m3u8?#/TV Gusto US
 https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8?#/TV Gusto US
 
 
-#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/RRTe5FP.png" tvg-name="MasterChef.Br" group-title="Cooking",TV MasterChef Brasil
+#EXTINF:-1 tvg-id="MasterChef.Br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/RRTe5FP.png" group-title="Cooking",TV MasterChef Brasil
 https://redek-dp.github.io/streaming/m3u/serv/live/MasterChefBr.m3u8?#/TV MasterChef Brasil
+
+#EXTINF:-1 tvg-id="AmazonSat.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/zHl3beY.png" group-title="General",TV Amazon Sat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?#/TV Amazon Sat
 
 
 #EXTINF:-1 tvg-id="Cooking.Panda" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/wlLaXr6.png" group-title="Cooking",TV Cooking Panda
@@ -347,7 +351,7 @@ https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/
 https://rakuten-action-9-se.samsung.wurl.tv/playlist.m3u8?#/TV Rakuten Action
 
 
-#EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/BVbcDno.png" tvg-name="Grjngo.Filmes.Faroeste.Br" group-title="Filmes",TV Grjngo Filmes De Faroeste
+#EXTINF:-1 tvg-id="GrjngoFilmesFaroeste.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/BVbcDno.png" group-title="Filmes",TV Grjngo Filmes De Faroeste
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-63489bc190b96ef5e0eb327c/variant.m3u8?url=e54bb511d9b7c72676ec235a7cd8c10b-9e53a641c513faede0b0d842cc82821182a6b5f17c20f81d01090155d188a72825759cd3db50feb9627ee7ba5e3009a22ea88a2f04830a9ff7fb37f245b50e54cf94bbcf0127188240573aa00cf61221ca65778861c4b02c1d7a69a6e183023d1f6ae916f56d44af6222411032111819a985f6712971c4e7c09862069ece0c2fc3974fbe92ecf11bee2cf7479d131b1574cf38e321860be768361a8a36023c80b951850ed74d2c6f74483852c9c09915aa5a5bb0b0ad5809fca1f4a6d744976d02cc834bc3d580d650c774e75dd24190&x-plex-token=wzYD7onw73MwQLaE7cEy&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1704218856#/TV Grjngo Filmes De Faroeste
 
 
@@ -403,14 +407,11 @@ https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8?#/TV Travelxp
 
 
 
-#EXTINF:-1 tvg-id="DiscoveryKidsLiveBrazil.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/C0VEHXU.png" group-title="Kids",TV Discovery Kids BR 
+#EXTINF:-1 tvg-id="DiscoveryKids.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/C0VEHXU.png" group-title="Kids",TV Discovery Kids BR 
 https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist.m3u8?#/TV Discovery Kids BR
 
-#EXTINF:-1 tvg-id="DiscoveryKidsLiveLatinAmerica.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/C0VEHXU.png" group-title="Kids",TV Discovery Kids Latin America
+#EXTINF:-1 tvg-id="DiscoveryKids.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/C0VEHXU.png" group-title="Kids",TV Discovery Kids Latin America
 https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist.m3u8?#/TV Discovery Kids Latin America
-
-#EXTINF:-1 tvg-id="AmazonSat.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/zHl3beY.png" group-title="General",TV Amazon Sat
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?#/TV Amazon Sat
 
 
 
@@ -484,6 +485,37 @@ https://9e2ee5d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/Zs1pP1w.png" tvg-name="MAVTV.Motorsports.NetworkRakutenTV" group-title="sport",TV MAVTV Motorsports
 https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8?#/TV MAVTV Motorsports
 
+#EXTINF:-1 tvg-id="TVion.us" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/gzCTKpt.png" group-title="General",TV Ion
+https://scripps-ion-1-us.vizio.wurl.tv/playlist.m3u8?#/TV Ion
+
+
+
+#EXTINF:-1 tvg-id="TVoxtv.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/Za30lpg.png" group-title="General",TV Londres ox
+https://cdn2.connectbr.com.br/oxtv/video.m3u8?#/TV Londres ox
+
+#EXTINF:-1 tvg-id="TVmarketguide.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/akDkLAk.png" group-title="General",TV Market Guide
+https://video01.soultv.com.br/tvmarketguide/tvmarketguide/playlist.m3u8?#/TV Market Guide
+
+#EXTINF:-1 tvg-id="TVbemmelhor.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/9DlLr6B.png" group-title="General",TV Bem Melhor
+https://video01.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8?#/TV Bem Melhor
+
+#EXTINF:-1 tvg-id="TVPONTV.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/97arZx5.png" group-title="sport",TV PONTV
+https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8?#/TV PONTV
+
+#EXTINF:-1 tvg-id="TV4POR4.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/b7FI0iT.png" group-title="News",TV 4POR4
+https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8?#/TV 4POR4
+
+#EXTINF:-1 tvg-id="TVsoulcine.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/ilH1Owm.png" group-title="Movie",TV SoulCine
+https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8?#/TV SoulCine
+
+#EXTINF:-1 tvg-id="TVR.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/fXMfJmh.png" group-title="General",TV R
+https://video01.soultv.com.br/tvr/tvr/playlist.m3u8?#/TV R
+
+#EXTINF:-1 tvg-id="TVPLAN.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/xmKE4nB.png" group-title="General",TV PLAN
+https://live.cdn.upx.com/723b/myStream.sdp/chunklist_w1271257940.m3u8?867be4bf049218c587185d6370c83e6d#/TV PLAN
+
+#EXTINF:-1 tvg-id="TVCapitalTR.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/2P3S0yl.png" group-title="General",TV Capital TR
+https://stmv2.samcast.com.br/tvcapitalteresina/tvcapitalteresina/chunklist_w1840936183.m3u8?#/TV Capital TR
 
 #EXTINF:-1 tvg-id="TVitape.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/XeqcwKe.png" group-title="General",TV Itapé
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8?#/TV Itapé
@@ -838,6 +870,14 @@ https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?#/TV Unisul
 #EXTINF:-1 tvg-id="VirtualTV.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/e1b0TTP.png" group-title="Music",TV Virtual
 https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/playlist.m3u8?#/TV Virtual
 
+#EXTINF:-1 tvg-id="Futura.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.postimg.cc/Hng0W5Cy/300px-Canal-Futura.png" group-title="Education",TV Futura
+https://tv.unisc.br/hls/test.m3u8?#/TV Futura
+
+#EXTINF:-1 tvg-id="Euronews.pt" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/pLaIFyB.png" group-title="News",TV Euronews PT
+https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8?#/TV Euronews PT
+
+
+
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/BB93NQP.png" group-title="News",TV Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8?#/TV Al Jazeera English
 
@@ -847,14 +887,10 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?#/T
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/pLaIFyB.png" group-title="News",TV Euronews FR
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8?#/TV Euronews FR
 
-#EXTINF:-1 tvg-id="Euronews.pt" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/pLaIFyB.png" group-title="News",TV Euronews PT
-https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8?#/TV Euronews PT
-
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/8t9mdg9.png" group-title="News",TV Euronews BE
 https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8?#/TV Euronews BE
 
-#EXTINF:-1 tvg-id="Futura.br" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.postimg.cc/Hng0W5Cy/300px-Canal-Futura.png" group-title="Education",TV Futura
-https://tv.unisc.br/hls/test.m3u8?#/TV Futura
+
 
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="News",TV TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8?#/TV TRT World
@@ -940,47 +976,42 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65#/TV CanelaTV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058#/TV CanelaTV 3
 
 
-#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle BR
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=274#/TV Toon Goggle BR
+#EXTINF:-1 tvg-id="Toon.Goggle" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=825#/TV Toon Goggle
+#EXTINF:-1 tvg-id="Toon.Goggle" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5eea605574085f0040ddc794.m3u8?#/TV Toon Goggle
+#EXTINF:-1 tvg-id="Toon.Goggle" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6041643175c115002dc51259.m3u8?#/TV Toon Goggle
 
-#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 1
+#EXTINF:-1 tvg-id="Toon.Goggle" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=172#/TV Toon Goggle 1
-#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 2 
+#EXTINF:-1 tvg-id="Toon.Goggle" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 2 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=142#/TV Toon Goggle 2
-#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 3
+#EXTINF:-1 tvg-id="Toon.Goggle" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=222#/TV Toon Goggle 3
-#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 4
+#EXTINF:-1 tvg-id="Toon.Goggle" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 4
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=157#/TV Toon Goggle 4
 
-
-#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 5
+#EXTINF:-1 tvg-id="Toon.Goggle" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 5
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=188#/TV Toon Goggle 5
-#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 6
+#EXTINF:-1 tvg-id="Toon.Goggle" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 6
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=192#/TV Toon Goggle 6
-#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 7
+#EXTINF:-1 tvg-id="Toon.Goggle" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 7
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=198#/TV Toon Goggle 7
 
+#EXTINF:-1 tvg-id="Toon.Goggle" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=190#/TV Toon Goggle 8
+#EXTINF:-1 tvg-id="Toon.Goggle" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 5
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=193#/TV Toon Goggle 9
 
-#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=190#/TV Toon Goggle 3
-#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 5
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=193#/TV Toon Goggle 5
+#EXTINF:-1 tvg-id="Toon.Goggle" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=221#/TV Toon Goggle 10
+#EXTINF:-1 tvg-id="Toon.Goggle" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 9
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=225#/TV Toon Goggle 11
+#EXTINF:-1 tvg-id="Toon.Goggle" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 10
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=125#/TV Toon Goggle 12
 
-
-
-#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 7
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=221#/TV Toon Goggle 7
-
-
-
-#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 9
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=225#/TV Toon Goggle 9
-#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 10
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=125#/TV Toon Goggle 10
-
-
-
-#EXTINF:-1 tvg-id="TGKids" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/Wv1nftK.png" group-title="Kids",TV Kartoon Channel!
+#EXTINF:-1 tvg-id="Toon.Goggle" tvg-logo="https://openimg.vercel.app/api/dopp?cll=2c2c3945&open=i.imgur.com/Wv1nftK.png" group-title="Kids",TV Kartoon Channel!
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=251#/TV Kartoon Channel!
 
 
