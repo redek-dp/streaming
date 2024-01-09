@@ -949,7 +949,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=570#/TV Natureescape
 #EXTINF:-1 tvg-id="TVMOTORVISION" tvg-logo="https://i.imgur.com/CQ09ak1.png" group-title="Entertainment",TV MOTORVISION
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=758#/TV MOTORVISION
 
-#EXTINF:-1 tvg-id="TVClio" tvg-logo="https://openimg.vercel.app/api/midiatv?fots=25&open=CliO" group-title="Entertainment",TV Clio
+#EXTINF:-1 tvg-id="TVClio" tvg-logo="https://i.imgur.com/CQ09ak1.png" group-title="Entertainment",TV Clio
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4870#/TV Clio
 
 #EXTINF:-1 tvg-id="TVCorazon" tvg-logo="https://i.imgur.com/VTn4zr3.png" group-title="Entertainment",TV Corazon
