@@ -40,7 +40,7 @@ https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8?#/TV Rede Brasil
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w1732758334.m3u8?#/TV Rede Brasil
 
 #EXTINF:-1 tvg-id="TVBrasil.br" tvg-logo="https://i.imgur.com/x0Zo3Gw.png" group-title="Entertainment",TV Brasil
-https://tvbrasil-stream.ebc.com.br/mux_video_ts/index-1.m3u8#/TV Brasil
+https://tvbrasil-stream.ebc.com.br/mux_video_ts/index-1.m3u8?#/TV Brasil
 
 #EXTINF:-1 tvg-id="TVBrasilOeste.br" tvg-logo="https://i.imgur.com/noqGfuy.png" group-title="General",TV Brasil Oeste
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8?#/TV Brasil Oeste
