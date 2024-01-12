@@ -9,12 +9,6 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8?#/TV Re
 #EXTINF:-1 tvg-id="TVRecord.br" tvg-logo="https://i.imgur.com/abj0M7L.png" group-title="General",TV Record MT
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8?#/TV Record MT
 
-#EXTINF:-1 tvg-id="TVRecord.br" tvg-logo="https://i.imgur.com/abj0M7L.png" group-title="General",TV Record SC
-https://caikron.com.br:19360/criciuma/criciuma.m3u8?#/TV Record SC
-
-#EXTINF:-1 tvg-id="TVRecord.br" tvg-logo="https://i.imgur.com/TD6ZJoa.png" group-title="General",TV Record RN
-https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8?#/TV Record RN
-
 #EXTINF:-1 tvg-id="TVcnn.br" tvg-logo="https://i.imgur.com/UWOujeG.png" group-title="News",TV CNN Brasil
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8?#/TV CNN Brasil
 
@@ -39,6 +33,18 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?#/TV Band
 #EXTINF:-1 tvg-id="TVAratu.br" tvg-logo="https://i.imgur.com/jpgFBUh.png" group-title="General",TV Aratu
 https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8?#/TV Aratu
 
+#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="General",TV Rede Brasil
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8?#/TV Rede Brasil
+
+#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="General",TV Rede Brasil
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w1732758334.m3u8?#/TV Rede Brasil
+
+#EXTINF:-1 tvg-id="TVBrasil.br" tvg-logo="https://i.imgur.com/x0Zo3Gw.png" group-title="Entertainment",TV Brasil
+https://tvbrasil-stream.ebc.com.br/mux_video_ts/index-1.m3u8#/TV Brasil
+
+#EXTINF:-1 tvg-id="TVBrasilOeste.br" tvg-logo="https://i.imgur.com/noqGfuy.png" group-title="General",TV Brasil Oeste
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8?#/TV Brasil Oeste
+
 #EXTINF:-1 tvg-id="TVBBC.br" tvg-logo="https://i.imgur.com/bamtUe0.png" group-title="Movies",TV BBC Drama
 https://bbceu-bbcdrama-3-es.rakuten.wurl.tv/playlist.m3u8?#/TV BBC Drama
 
@@ -53,6 +59,12 @@ https://redek-dp.github.io/streaming/m3u/serv/live/MasterChefBr.m3u8?#/TV Master
 
 #EXTINF:-1 tvg-id="AmazonSat.br" tvg-logo="https://i.imgur.com/zHl3beY.png" group-title="General",TV Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?#/TV Amazon Sat
+
+#EXTINF:-1 tvg-id="TVRecord.br" tvg-logo="https://i.imgur.com/abj0M7L.png" group-title="General",TV Record SC
+https://caikron.com.br:19360/criciuma/criciuma.m3u8?#/TV Record SC
+
+#EXTINF:-1 tvg-id="TVRecord.br" tvg-logo="https://i.imgur.com/TD6ZJoa.png" group-title="General",TV Record RN
+https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8?#/TV Record RN
 
 #EXTINF:-1 tvg-id="TVRunTime.br" tvg-logo="https://i.imgur.com/htpUKDX.png" group-title="Series",TV RunTime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153#/TV RunTime
@@ -180,11 +192,9 @@ https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8?#/TV Itapé
 #EXTINF:-1 tvg-id="TVBoqueirao.br" tvg-logo="https://i.imgur.com/1XrArrG.png" group-title="Entertainment",TV Boqueirão
 https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8?#/TV Boqueirão
 
+
 #EXTINF:-1 tvg-id="TVBrasilCentral.br" tvg-logo="https://i.imgur.com/VgjVlp3.png" group-title="Entertainment",TV Brasil Central
 https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8?#/TV Brasil Central
-
-#EXTINF:-1 tvg-id="TVBrasilOeste.br" tvg-logo="https://i.imgur.com/noqGfuy.png" group-title="General",TV Brasil Oeste
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8?#/TV Brasil Oeste
 
 #EXTINF:-1 tvg-id="RedeCaxias.br" tvg-logo="https://i.imgur.com/zqiOQJ1.png" group-title="General",TV Rede Caxias
 https://stmv1.srvstm.com/luis5346/luis5346/playlist.m3u8?#/TV Rede Caxias
@@ -330,9 +340,6 @@ https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8?#/TV RBTV
 
 #EXTINF:-1 tvg-id="RDCTV.br" tvg-logo="https://i.imgur.com/vMpiSwG.png" group-title="General",TV RDC
 https://br5093.streamingdevideo.com.br/datavideo01/datavideo01/playlist.m3u8?#/TV RDC
-
-#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="General",TV Rede Brasil
-https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8?#/TV Rede Brasil
 
 #EXTINF:-1 tvg-id="RedeMassa.br" tvg-logo="https://i.imgur.com/yFRqXIx.png" group-title="General",TV Rede Massa
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8?#/TV Rede Massa
