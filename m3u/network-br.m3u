@@ -34,9 +34,6 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?#/TV Band
 https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8?#/TV Aratu
 
 #EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="General",TV Rede Brasil
-https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8?#/TV Rede Brasil
-
-#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="General",TV Rede Brasil
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w1732758334.m3u8?#/TV Rede Brasil
 
 #EXTINF:-1 tvg-id="TVBrasil.br" tvg-logo="https://i.imgur.com/x0Zo3Gw.png" group-title="Entertainment",TV Brasil
@@ -44,6 +41,12 @@ https://tvbrasil-stream.ebc.com.br/mux_video_ts/index-1.m3u8?#/TV Brasil
 
 #EXTINF:-1 tvg-id="TVBrasilOeste.br" tvg-logo="https://i.imgur.com/noqGfuy.png" group-title="General",TV Brasil Oeste
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8?#/TV Brasil Oeste
+
+#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="General",TV Rede Brasil
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8?#/TV Rede Brasil
+
+#EXTINF:-1 tvg-id="TVBrusque.br" tvg-logo="https://i.imgur.com/J2EAZPS.png" group-title="News",TV Brusque
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8?#/TV Brusque
 
 #EXTINF:-1 tvg-id="TVBBC.br" tvg-logo="https://i.imgur.com/bamtUe0.png" group-title="Movies",TV BBC Drama
 https://bbceu-bbcdrama-3-es.rakuten.wurl.tv/playlist.m3u8?#/TV BBC Drama
@@ -382,9 +385,6 @@ https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8?#/TV BE Joinville
 
 #EXTINF:-1 tvg-id="TVBRICSPortuguese.br" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="General",TV BRICS
 https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8?#/TV BRICS
-
-#EXTINF:-1 tvg-id="TVBrusque.br" tvg-logo="https://i.imgur.com/J2EAZPS.png" group-title="News",TV Brusque
-https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8?#/TV Brusque
 
 #EXTINF:-1 tvg-id="TVCamara.br" tvg-logo="https://i.imgur.com/Sdou1Ab.png" group-title="Legislative",TV Camara 1
 https://stream3.camara.gov.br/tv1/manifest.m3u8?#/TV Camara 1
