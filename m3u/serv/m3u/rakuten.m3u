@@ -273,3 +273,179 @@ https://37c774660687468c821a51190046facf.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nfnWwgR.png" tvg-id="RakutenTV" group-title="notizie",TV The Guardian
 https://d73fb24db4524ddca65ec4935761d3ef.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TheGuardianChannel/playlist.m3u8?#/TV The Guardian
+
+
+
+#EXTINF:-1 tvg-id="ATAJ35000024Y" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ35000024Y_20221109T010421SQUARE.png_20221109010422.png" group-title="Austria" , Komödien - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/ATAJ35000024Y.m3u8
+
+#EXTINF:-1 tvg-id="ATBA33000123Q" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA33000123Q_20230809T053609SQUARE.png_20230809053609.png" group-title="Austria" , Crime Serien - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/ATBA33000123Q.m3u8
+
+#EXTINF:-1 tvg-id="ATAJ35000047P" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ35000047P_20221214T045121SQUARE.png_20221214045122.png" group-title="Austria" , Dokumentarfilme - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/ATAJ35000047P.m3u8
+
+#EXTINF:-1 tvg-id="ATBA330001376" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA330001376_20230308T021659SQUARE.png_20230308021700.png" group-title="Austria" , Family - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/ATBA330001376.m3u8
+
+#EXTINF:-1 tvg-id="ATBA3300011B5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300011B5_20230322T075231SQUARE.png_20230322075231.png" group-title="Austria" , Deutsches Kino - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/ATBA3300011B5.m3u8
+
+#EXTINF:-1 tvg-id="ATBA10000096N" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA10000096N_20221012T020954SQUARE.png_20221012020954.png" group-title="Austria" , Top Filme - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/ATBA10000096N.m3u8
+
+#EXTINF:-1 tvg-id="ATAJ3500003Y1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ3500003Y1_20220323T073220SQUARE.png_20220323073222.png" group-title="Austria" , Drama Filme - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/ATAJ3500003Y1.m3u8
+
+#EXTINF:-1 tvg-id="ATAJ3500001J9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ3500001J9_20220323T073144SQUARE.png_20220323073147.png" group-title="Austria" , Actionfilme - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/ATAJ3500001J9.m3u8
+
+#EXTINF:-1 tvg-id="CHAJ35000037Z" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ35000037Z_20221109T010751SQUARE.png_20221109010751.png" group-title="Switzerland" , Komödien - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/CHAJ35000037Z.m3u8
+
+#EXTINF:-1 tvg-id="CHBA33000099T" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA33000099T_20230809T053655SQUARE.png_20230809053656.png" group-title="Switzerland" , Crime Serien - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/CHBA33000099T.m3u8
+
+#EXTINF:-1 tvg-id="CHAJ3500005EC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ3500005EC_20221214T044822SQUARE.png_20221214044822.png" group-title="Switzerland" , Dokumentarfilme - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/CHAJ3500005EC.m3u8
+
+#EXTINF:-1 tvg-id="CHBA330001222" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA330001222_20230308T021407SQUARE.png_20230308021408.png" group-title="Switzerland" , Family - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/CHBA330001222.m3u8
+
+#EXTINF:-1 tvg-id="CHBA33000075R" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA33000075R_20230322T075357SQUARE.png_20230322075357.png" group-title="Switzerland" , Deutsches Kino - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/CHBA33000075R.m3u8
+
+#EXTINF:-1 tvg-id="CHBA1000010H0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA1000010H0_20221012T020003SQUARE.png_20221012020003.png" group-title="Switzerland" , Top Filme - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/CHBA1000010H0.m3u8
+
+#EXTINF:-1 tvg-id="CHAJ3500004D1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ3500004D1_20220323T073649SQUARE.png_20220323073652.png" group-title="Switzerland" , Drama Filme - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/CHAJ3500004D1.m3u8
+
+#EXTINF:-1 tvg-id="CHAJ35000021Z" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ35000021Z_20220323T073601SQUARE.png_20220323073604.png" group-title="Switzerland" , Actionfilme - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/CHAJ35000021Z.m3u8
+
+#EXTINF:-1 tvg-id="DEAJ3500002EO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ3500002EO_20221109T010520SQUARE.png_20221109010521.png" group-title="Germany" , Komödien - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/DEAJ3500002EO.m3u8
+
+#EXTINF:-1 tvg-id="DEBA3300018UN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300018UN_20230809T053739SQUARE.png_20230809053740.png" group-title="Germany" , Crime Serien - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/DEBA3300018UN.m3u8
+
+#EXTINF:-1 tvg-id="DEAJ35000044V" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ35000044V_20221214T045017SQUARE.png_20221214045018.png" group-title="Germany" , Dokumentarfilme - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/DEAJ35000044V.m3u8
+
+#EXTINF:-1 tvg-id="DEBA33000212C" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA33000212C_20230308T021555SQUARE.png_20230308021556.png" group-title="Germany" , Family - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/DEBA33000212C.m3u8
+
+#EXTINF:-1 tvg-id="DEBA3300017VV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300017VV_20230322T075315SQUARE.png_20230322075315.png" group-title="Germany" , Deutsches Kino - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/DEBA3300017VV.m3u8
+
+#EXTINF:-1 tvg-id="DEBA3300015ZU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300015ZU_20221012T015945SQUARE.png_20221012015945.png" group-title="Germany" , Top Filme - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/DEBA3300015ZU.m3u8
+
+#EXTINF:-1 tvg-id="DEAJ3500003YF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ3500003YF_20220323T074908SQUARE.png_20220323074911.png" group-title="Germany" , Drama Filme - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/DEAJ3500003YF.m3u8
+
+#EXTINF:-1 tvg-id="DEAJ3500001Q1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ3500001Q1_20220323T074838SQUARE.png_20220323074840.png" group-title="Germany" , Actionfilme - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/DEAJ3500001Q1.m3u8
+
+#EXTINF:-1 tvg-id="ESAJ4500019AM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500019AM_20221109T010644SQUARE.png_20221109010644.png" group-title="Spain" , Comedias - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/ESAJ4500019AM.m3u8
+
+#EXTINF:-1 tvg-id="ESBC2700010F6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700010F6_20230619T082509SQUARE.png_20230619082509.png" group-title="Spain" , Crimen - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/ESBC2700010F6.m3u8
+
+#EXTINF:-1 tvg-id="ESAJ4500021HQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500021HQ_20221214T044854SQUARE.png_20221214044855.png" group-title="Spain" , Documentales - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/ESAJ4500021HQ.m3u8
+
+#EXTINF:-1 tvg-id="ESAJ2900003ND" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ2900003ND_20230712T021338SQUARE.png_20230712021338.png" group-title="Spain" , Estilo y Vida – Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/ESAJ2900003ND.m3u8
+
+#EXTINF:-1 tvg-id="ESBA3300017FA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300017FA_20230208T013037SQUARE.png_20230208013037.png" group-title="Spain" , Familiares - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/ESBA3300017FA.m3u8
+
+#EXTINF:-1 tvg-id="ESBC27000062Q" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC27000062Q_20221109T010936SQUARE.png_20221109010937.png" group-title="Spain" , Cine Español - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/ESBC27000062Q.m3u8
+
+#EXTINF:-1 tvg-id="ESBC27000079V" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC27000079V_20221109T010947SQUARE.png_20221109010947.png" group-title="Spain" , Películas Románticas - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/ESBC27000079V.m3u8
+
+#EXTINF:-1 tvg-id="ESBC2700005EE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700005EE_20221012T021024SQUARE.png_20221012021024.png" group-title="Spain" , Películas Top - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/ESBC2700005EE.m3u8
+
+#EXTINF:-1 tvg-id="ESAJ4500020V7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500020V7_20220323T081528SQUARE.png_20220323081531.png" group-title="Spain" , Dramas - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/ESAJ4500020V7.m3u8
+
+#EXTINF:-1 tvg-id="ESAJ45000181E" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ45000181E_20220323T081350SQUARE.png_20220323081353.png" group-title="Spain" , Acción - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/ESAJ45000181E.m3u8
+
+#EXTINF:-1 tvg-id="FRAJ4500024MR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ4500024MR_20221109T010450SQUARE.png_20221109010451.png" group-title="France" , Comédies - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/FRAJ4500024MR.m3u8
+
+#EXTINF:-1 tvg-id="FRBA33000365W" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA33000365W_20230510T043936SQUARE.png_20230510043937.png" group-title="France" , Crime - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/FRBA33000365W.m3u8
+
+#EXTINF:-1 tvg-id="FRAJ4500026AB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ4500026AB_20221214T045045SQUARE.png_20221214045046.png" group-title="France" , Documentaires - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/FRAJ4500026AB.m3u8
+
+#EXTINF:-1 tvg-id="FRBA3300026BR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300026BR_20230308T021623SQUARE.png_20230308021623.png" group-title="France" , Famille - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/FRBA3300026BR.m3u8
+
+#EXTINF:-1 tvg-id="FRBA33000341O" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA33000341O_20230208T013127SQUARE.png_20230208013127.png" group-title="France" , Films Romantiques - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/FRBA33000341O.m3u8
+
+#EXTINF:-1 tvg-id="FRBA3300033GO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300033GO_20221012T021124SQUARE.png_20221012021125.png" group-title="France" , Top Films - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/FRBA3300033GO.m3u8
+
+#EXTINF:-1 tvg-id="FRAJ4500025AN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ4500025AN_20221026T004313SQUARE.png_20221026004313.png" group-title="France" , Films dramatiques - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/FRAJ4500025AN.m3u8
+
+#EXTINF:-1 tvg-id="FRAJ4500023UP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ4500023UP_20220323T075857SQUARE.png_20220323075900.png" group-title="France" , Films d'action - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/FRAJ4500023UP.m3u8
+
+#EXTINF:-1 tvg-id="GBAJ4900007I2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ4900007I2_20221109T010808SQUARE.png_20221109010809.png" group-title="United Kingdom" , Comedy Movies - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/GBAJ4900007I2.m3u8
+
+#EXTINF:-1 tvg-id="GBBD1100006DS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100006DS_20230412T042305SQUARE.png_20230412042306.png" group-title="United Kingdom" , Real Series - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/GBBD1100006DS.m3u8
+
+#EXTINF:-1 tvg-id="GBAJ4900009UA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ4900009UA_20230322T075400SQUARE.png_20230322075401.png" group-title="United Kingdom" , Documentaries - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/GBAJ4900009UA.m3u8
+
+#EXTINF:-1 tvg-id="GBBA3300024F7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300024F7_20230208T012800SQUARE.png_20230208012801.png" group-title="United Kingdom" , Family - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/GBBA3300024F7.m3u8
+
+#EXTINF:-1 tvg-id="GBBA3300020DM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300020DM_20230322T075406SQUARE.png_20230322075406.png" group-title="United Kingdom" , Romance Movies - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/GBBA3300020DM.m3u8
+
+#EXTINF:-1 tvg-id="GBBC90001660" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC90001660_20221012T015921SQUARE.png_20221012015922.png" group-title="United Kingdom" , Top Movies - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/GBBC90001660.m3u8
+
+#EXTINF:-1 tvg-id="GBAJ49000081B" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ49000081B_20220323T071414SQUARE.png_20220323071417.png" group-title="United Kingdom" , Drama Movies - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/GBAJ49000081B.m3u8
+
+#EXTINF:-1 tvg-id="GBAJ4900006TU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ4900006TU_20220323T071344SQUARE.png_20220323071347.png" group-title="United Kingdom" , Action Movies - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/GBAJ4900006TU.m3u8
+
+#EXTINF:-1 tvg-id="ITAJ4500019R9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ4500019R9_20221109T010550SQUARE.png_20221109010551.png" group-title="Italy" , Commedia - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/ITAJ4500019R9.m3u8
+
+#EXTINF:-1 tvg-id="ITBD600003E2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD600003E2_20230413T013215SQUARE.png_20230413013215.png" group-title="Italy" , Serie Crime - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/ITBD600003E2.m3u8
+
+#EXTINF:-1 tvg-id="ITAJ4500021M7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ4500021M7_20221214T044941SQUARE.png_20221214044941.png" group-title="Italy" , Documentari - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/ITAJ4500021M7.m3u8
+
+#EXTINF:-1 tvg-id="ITBA14000043B" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA14000043B_20230308T021524SQUARE.png_20230308021525.png" group-title="Italy" , Family - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/ITBA14000043B.m3u8
+
+#EXTINF:-1 tvg-id="ITBC1100009AL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100009AL_20230322T075321SQUARE.png_20230322075322.png" group-title="Italy" , Romance - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/ITBC1100009AL.m3u8
+
+#EXTINF:-1 tvg-id="ITBC1100007FN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100007FN_20221012T021057SQUARE.png_20221012021057.png" group-title="Italy" , Top Film - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/ITBC1100007FN.m3u8
+
+#EXTINF:-1 tvg-id="ITAJ4500020HT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ4500020HT_20221026T004419SQUARE.png_20221026004419.png" group-title="Italy" , Drama - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/ITAJ4500020HT.m3u8
+
+#EXTINF:-1 tvg-id="ITAJ45000188Z" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ45000188Z_20220404T010000SQUARE.png_20220404010000.png" group-title="Italy" , Film d'azione - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/ITAJ45000188Z.m3u8
