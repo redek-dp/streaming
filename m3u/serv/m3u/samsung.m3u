@@ -3,31 +3,31 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yH7n2dF.png" tvg-id="ThePetCollective" group-title="Family",TV The Pet Collective CA
 https://the-pet-collective-international-ca.samsung.wurl.tv/playlist.m3u8?#/TV The Pet Collective CA
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mk28uUy.png" tvg-id="ThePetCollectiveSweden" group-title="Family",TV The Pet Collective SE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mk28uUy.png" tvg-id="ThePetCollective" group-title="Family",TV The Pet Collective SE
 https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8?#/TV The Pet Collective SE
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w7RdSIk.png" tvg-id="ThePetCollectiveIndia" group-title="Family",TV The Pet Collective IN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w7RdSIk.png" tvg-id="ThePetCollective" group-title="Family",TV The Pet Collective IN
 https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8?#/TV The Pet Collective IN
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hboiinD.jpg" tvg-id="RakutenTV" group-title="Movies",TV Rakuten Family Movies ES
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hboiinD.jpg" tvg-id="Rakuten.TV" group-title="Movies",TV Rakuten Family Movies ES
 https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8?#/TV Rakuten Family Movies ES
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hboiinD.jpg" tvg-id="RakutenTV" group-title="Movies",TV Rakuten Family Movies IT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hboiinD.jpg" tvg-id="Rakuten.TV" group-title="Movies",TV Rakuten Family Movies IT
 https://rakuten-family-6-it.samsung.wurl.tv/playlist.m3u8?#/TV Rakuten Family Movies IT
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hboiinD.jpg" tvg-id="RakutenFamilyMoviesFrance" group-title="Movies",TV Rakuten Family Movies FR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hboiinD.jpg" tvg-id="Rakuten.TV" group-title="Movies",TV Rakuten Family Movies FR
 https://rakuten-family-7-fr.samsung.wurl.tv/playlist.m3u8?#/TV Rakuten Family Movies FR
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6vaHKgT.png" tvg-id="TVRakutenFamilyMoviesFinland" group-title="Movies",TV Rakuten Family Movies FI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6vaHKgT.png" tvg-id="Rakuten.TV" group-title="Movies",TV Rakuten Family Movies FI
 https://rakuten-family-12-fi.samsung.wurl.tv/playlist.m3u8?#/TV Rakuten Family Movies FI
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KIEKOt1.png" tvg-id="WeatherSpy.in" group-title="Weather",TV WeatherSpy IN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KIEKOt1.png" tvg-id="WeatherSpy" group-title="Weather",TV WeatherSpy IN
 https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8?#/TV WeatherSpy IN
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yHUUIIz.png" tvg-id="WeatherSpy.us" group-title="Weather",TV WeatherSpy US
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yHUUIIz.png" tvg-id="WeatherSpy" group-title="Weather",TV WeatherSpy US
 https://jukin-weatherspy-1-us.samsung.wurl.tv/playlist.m3u8?#/TV WeatherSpy US
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dwMUVhs.png" tvg-id="Tastemade.DE" group-title="General",TV Tastemade DE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dwMUVhs.png" tvg-id="Tastemade" group-title="General",TV Tastemade DE
 https://tastemade-de-samsung.amagi.tv/playlist.m3u8?#/TV Tastemade DE
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WEM9B83.png" tvg-id="TennisChannel.UK" group-title="SPORT",TV Tennis Channel UK
