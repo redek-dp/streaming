@@ -86,7 +86,6 @@ https://lds-realfamilies-samsunguau.amagi.tv/playlist.m3u8?#/TV Real Families AU
 
 
 
-
 #EXTINF:-1 tvg-id="AsharqDiscovery.sa" tvg-logo="https://i.imgur.com/Czxi7yk.png" group-title="Documentary",TV Asharq Discovery
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8?#/TV Asharq Discovery
 
@@ -126,18 +125,18 @@ https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8?#/TV Agrotou
 #EXTINF:-1 tvg-id="Reelz.us" tvg-logo="https://i.imgur.com/ie6gDfS.png" group-title="Documentary",TV Reelz
 https://lnc-reelz.tubi.video/playlist.m3u8?#/TV Reelz
 
-#EXTINF:-1 tvg-id="ReelzChannelXUMO.us" tvg-logo="https://i.imgur.com/IqebTlK.png" group-title="Documentary",TV Reelz Channel
+#EXTINF:-1 tvg-id="ReelzChannel" tvg-logo="https://i.imgur.com/IqebTlK.png" group-title="Documentary",TV Reelz Channel
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8?#/TV Reelz Channel
 
-#EXTINF:-1 tvg-id="RTDocumentaryEnglish.ru" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="Documentary",TV RT Documentary English
+#EXTINF:-1 tvg-id="RTDocumentary" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="Documentary",TV RT Documentary English
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8?#/TV RT Documentary English
 
-#EXTINF:-1 tvg-id="RTDocumentaryRussian.ru" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="Documentary",TV RT Documentary Russian
+#EXTINF:-1 tvg-id="RTDocumentary" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="Documentary",TV RT Documentary Russian
 https://hls.rt.com/hls/rtdru.m3u8?#/TV RT Documentary Russian
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M8wbVYK.png" tvg-id="AccuWeatherNOW.us" group-title="Weather",TV AccuWeather Now
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M8wbVYK.png" tvg-id="AccuWeather" group-title="Weather",TV AccuWeather Now
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?#/TV AccuWeather Now
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tBvEL2d.png" tvg-id="Fox.Soul" group-title="News",TV Fox Soul
