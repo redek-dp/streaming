@@ -51,9 +51,6 @@ https://rakuten-family-12-fi.samsung.wurl.tv/playlist.m3u8?#/TV Rakuten Family M
 #EXTINF:-1 tvg-id="AFV.us" tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="Comedy",TV AFV Family US
 https://ec4a5bcc9d664b48985de6095931aaa7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_AmericasFunniestHomeVideos/playlist.m3u8?#/TV AFV Family US
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Lc3PoTH.png" tvg-id="JustForLaughsGags.RakutenTV" group-title="intrattenimento",TV Just For Laughs Gags
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?#/TV Just For Laughs Gags
-
 #EXTINF:-1 tvg-id="gusto.tv.US" tvg-logo="https://i.imgur.com/swUX3hQ.png" group-title="Cooking",TV Gusto US
 https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8?#/TV Gusto US
 
