@@ -197,15 +197,6 @@ https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
 
 
 
-#EXTINF:-1 channel-id="samsung-ATAJ0500455A" tvg-id="ATAJ0500455A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500455A_20230712T021055SQUARE.png_20230712021056.png" group-title="Austria" , Grjngo
-https://i.mjh.nz/SamsungTVPlus/ATAJ0500455A.m3u8
-
-#EXTINF:-1 channel-id="samsung-CHAJ0500456A" tvg-id="CHAJ0500456A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ0500456A_20221123T010245SQUARE.png_20221123010245.png" group-title="Switzerland" , Grjngo
-https://i.mjh.nz/SamsungTVPlus/CHAJ0500456A.m3u8
-
-#EXTINF:-1 channel-id="samsung-DEAK0500449A" tvg-id="DEAK0500449A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500449A_20221123T010236SQUARE.png_20221123010237.png" group-title="Germany" , Grjngo
-https://i.mjh.nz/SamsungTVPlus/DEAK0500449A.m3u8
-
 #EXTINF:-1 tvg-id="ESBC2700002LO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700002LO_20230510T044206SQUARE.png_20230510044207.png" group-title="Spain" , Grjngo - Películas Del Oeste
 https://i.mjh.nz/SamsungTVPlus/ESBC2700002LO.m3u8
 
@@ -269,15 +260,6 @@ https://i.mjh.nz/SamsungTVPlus/CHBC800001N2.m3u8
 
 #EXTINF:-1 tvg-id="DEBA3300032UV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300032UV_20220323T075317SQUARE.png_20220323075320.png" group-title="Germany" , MyTime Movie Network
 https://i.mjh.nz/SamsungTVPlus/DEBA3300032UV.m3u8
-
-#EXTINF:-1 tvg-id="ESBA2200004G5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA2200004G5_20220323T081719SQUARE.png_20220323081722.png" group-title="Spain" , MyTime Movie Network
-https://i.mjh.nz/SamsungTVPlus/ESBA2200004G5.m3u8
-
-#EXTINF:-1 tvg-id="FRBA2200010VN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA2200010VN_20220323T080047SQUARE.png_20220323080050.png" group-title="France" , MyTime Movie Network
-https://i.mjh.nz/SamsungTVPlus/FRBA2200010VN.m3u8
-
-#EXTINF:-1 tvg-id="GBBA3300059BU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300059BU_20220323T071510SQUARE.png_20220323071512.png" group-title="United Kingdom" , MyTime Movie Network
-https://i.mjh.nz/SamsungTVPlus/GBBA3300059BU.m3u8
 
 #EXTINF:-1 tvg-id="USBC3900018K6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900018K6_20230925T234808SQUARE.png_20230925234809.png" group-title="United States" , MyTime Movie Network
 https://i.mjh.nz/SamsungTVPlus/USBC3900018K6.m3u8
