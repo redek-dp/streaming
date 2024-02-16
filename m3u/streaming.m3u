@@ -383,16 +383,14 @@ https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8?#/TV Travelxp
 
 
 
-#EXTINF:-1 tvg-id="DiscoveryKids.br" tvg-logo="https://i.imgur.com/C0VEHXU.png" group-title="Kids",TV Discovery Kids BR 
-https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist.m3u8?#/TV Discovery Kids BR
-
-#EXTINF:-1 tvg-id="DiscoveryKids.br" tvg-logo="https://i.imgur.com/C0VEHXU.png" group-title="Kids",TV Discovery Kids Latin America
-https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist.m3u8?#/TV Discovery Kids Latin America
+#EXTINF:-1 tvg-id="FLORIDA.br" tvg-logo="https://i.imgur.com/klBkNoV.png" group-title="General",TV FLORIDA
+https://srv1.zcast.com.br/tvflorida/tvflorida/playlist.m3u8?#/TV FLORIDA
 
 
 
-#EXTINF:-1 tvg-id="TNTSportsBrazil.br" tvg-logo="https://i.imgur.com/88CbPLt.png" group-title="Sports",TV TNT Sports 1 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8?#/TV TNT Sports 1 Brasil
+
+#EXTINF:-1 tvg-id="TNTSportsBrazil.br" tvg-logo="https://i.imgur.com/88CbPLt.png" group-title="Sports",TV TNT Sports
+https://video01.soultv.com.br/popbola/popbola/playlist.m3u8?#/TV TNT Sports
 
 #EXTINF:-1 tvg-id="TNTSports2Brazil.br" tvg-logo="https://i.imgur.com/E6pLvOV.png" group-title="Sports",TV BAND NEWS
 https://cdn-1.nxplay.com.br/BAND_NEWS_TK/index.m3u8?#/TV BAND NEWS
