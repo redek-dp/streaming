@@ -9,8 +9,8 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8?#/TV Re
 #EXTINF:-1 tvg-id="TVRecord.br" tvg-logo="https://i.imgur.com/abj0M7L.png" group-title="General",TV Record MT
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8?#/TV Record MT
 
-#EXTINF:-1 tvg-id="TVRecord.br" tvg-logo="https://i.imgur.com/abj0M7L.png" group-title="General",TV Record SC
-https://caikron.com.br:19360/criciuma/criciuma.m3u8?#/TV Record SC
+#EXTINF:-1 tvg-id="TVRecord.br" tvg-logo="https://i.imgur.com/abj0M7L.png" group-title="General",TV Record
+https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/index.m3u8?#/TV Record
 
 #EXTINF:-1 tvg-id="TVRecord.br" tvg-logo="https://i.imgur.com/TD6ZJoa.png" group-title="General",TV Record RN
 https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8?#/TV Record RN
@@ -144,32 +144,11 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63894c1965b848bf2c8a7800.m3u8?#/T
 https://redek-dp.github.io/streaming/dnetwork/playlist.m3u8?#/TV DevsevenTv
 
 
-#EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-logo="https://i.imgur.com/LVLMTZ0.png" group-title="Kids",TV Cartoon Network BR 1
-https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8?#/TV Cartoon Network BR 1
+#EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-logo="https://i.imgur.com/LVLMTZ0.png" group-title="Kids",TV Cartoon Network BR
+https://cdn-1.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8?#/TV Cartoon Network BR
 
-#EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-logo="https://i.imgur.com/LVLMTZ0.png" group-title="Kids",TV Cartoon Network BR 2
-https://playout.cdn.cartoonnetwork.com.br/playout_05/playlist.m3u8?#/TV Cartoon Network BR 2
-
-#EXTINF:-1 tvg-id="Cartoonito.br" tvg-logo="https://i.imgur.com/yjYhwbx.png" group-title="Kids",TV Cartoonito BR 3
-https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8?#/TV Cartoonito BR 3
-
-#EXTINF:-1 tvg-id="CartoonNetwork" tvg-logo="https://i.imgur.com/LVLMTZ0.png" group-title="Kids",TV Cartoon Network 4
-https://ucdn.beetv.kz/btv/live/hls/000000015.m3u8?#/TV Cartoon Network 4
-
-#EXTINF:-1 tvg-id="CartoonitoAmerica.br" tvg-logo="https://i.imgur.com/LVLMTZ0.png" group-title="Kids",TV Cartoonito America 4
-https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8?#/TV Cartoonito America 4
-
-#EXTINF:-1 tvg-id="CartoonNetworkAmerica.br" tvg-logo="https://i.imgur.com/LVLMTZ0.png" group-title="Kids",TV Cartoon Network America 2
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8?#/TV Cartoon Network America 2
-
-#EXTINF:-1 tvg-id="CartoonNetworkAmerica.br" tvg-logo="https://i.imgur.com/LVLMTZ0.png" group-title="Kids",TV Cartoon Network America 6
-https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8?#/TV Cartoon Network America 6
-
-#EXTINF:-1 tvg-id="Cartoon.AR" tvg-logo="https://i.imgur.com/LVLMTZ0.png" group-title="Kids",TV Cartoon Network AR
-https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8?#/TV Cartoon Network AR
-
-#EXTINF:-1 tvg-id="Cartoon.AR" tvg-logo="https://i.imgur.com/LVLMTZ0.png" group-title="Kids",TV Cartoon Network AR
-https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8?#/TV Cartoon Network AR
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-logo="https://i.imgur.com/yl4LFvw.png" group-title="Kids",TV Tooncast
+https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8?#/TV Tooncast
 
 #EXTINF:-1 tvg-id="TV.Jetson.br" tvg-logo="https://i.imgur.com/sMpSDCs.png" group-title="Kids",TV Jetson
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8?#/TV Jetson
@@ -415,17 +394,8 @@ https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist.m3u8?#/TV Discover
 #EXTINF:-1 tvg-id="TNTSportsBrazil.br" tvg-logo="https://i.imgur.com/88CbPLt.png" group-title="Sports",TV TNT Sports 1 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8?#/TV TNT Sports 1 Brasil
 
-#EXTINF:-1 tvg-id="TNTSports2Brazil.br" tvg-logo="https://i.imgur.com/E6pLvOV.png" group-title="Sports",TV TNT Sports 2 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8?#/TV TNT Sports 2 Brasil
-
-#EXTINF:-1 tvg-id="TNTSports3Brazil.br" tvg-logo="https://i.imgur.com/LFSMbpN.png" group-title="Sports",TV TNT Sports 3 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8?#/TV TNT Sports 3 Brasil
-
-#EXTINF:-1 tvg-id="TNTSports4Brazil.br" tvg-logo="https://i.imgur.com/Am70nWY.png" group-title="Sports",TV TNT Sports 4 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8?#/TV TNT Sports 4 Brasil
-
-#EXTINF:-1 tvg-id="TNTSports5Brazil.br" tvg-logo="https://i.imgur.com/XA3zxEE.png" group-title="Sports",TV TNT Sports 5 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8?#/TV TNT Sports 5 Brasil
+#EXTINF:-1 tvg-id="TNTSports2Brazil.br" tvg-logo="https://i.imgur.com/E6pLvOV.png" group-title="Sports",TV BAND NEWS
+https://cdn-1.nxplay.com.br/BAND_NEWS_TK/index.m3u8?#/TV BAND NEWS
 
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sports",TV Red Bull
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8?#/TV Red Bull

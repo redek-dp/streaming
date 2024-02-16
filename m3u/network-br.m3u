@@ -54,6 +54,9 @@ https://bbceu-bbcdrama-3-es.rakuten.wurl.tv/playlist.m3u8?#/TV BBC Drama
 #EXTINF:-1 tvg-id="RedeMinas.br" tvg-logo="https://i.imgur.com/MtQWAHv.png" group-title="Education",TV Rede Minas
 https://redek-dp.github.io/streaming/m3u/serv/live/RedeMinas.m3u8?#/TV Rede Minas
 
+#EXTINF:-1 tvg-id="TVBand.br" tvg-logo="https://i.ibb.co/GQyn5NF/band.png" group-title="General",TV Band
+https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?#/TV Band
+
 #EXTINF:-1 tvg-id="Tastemade.br" tvg-logo="https://i.imgur.com/FPy4zF4.png" group-title="Cooking",TV Tastemade BR
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8?#/TV Tastemade BR
 
@@ -113,26 +116,11 @@ https://nosey-4-br.samsung.wurl.tv/playlist.m3u8?#/TV Nosey alt
 #EXTINF:-1 tvg-id="Devseven.br" tvg-logo="https://i.imgur.com/AmewaLx.png" group-title="Kids",TV DevsevenTv
 https://redek-dp.github.io/streaming/dnetwork/playlist.m3u8?#/TV DevsevenTv
 
-#EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-logo="https://i.imgur.com/LVLMTZ0.png" group-title="Kids",TV Cartoon Network BR 1
-https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8?#/TV Cartoon Network BR 1
+#EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-logo="https://i.imgur.com/LVLMTZ0.png" group-title="Kids",TV Cartoon Network BR
+https://cdn-1.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8?#/TV Cartoon Network BR
 
-#EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-logo="https://i.imgur.com/LVLMTZ0.png" group-title="Kids",TV Cartoon Network BR 2
-https://playout.cdn.cartoonnetwork.com.br/playout_05/playlist.m3u8?#/TV Cartoon Network BR 2
-
-#EXTINF:-1 tvg-id="Cartoonito.br" tvg-logo="https://i.imgur.com/yjYhwbx.png" group-title="Kids",TV Cartoonito BR 3
-https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8?#/TV Cartoonito BR 3
-
-#EXTINF:-1 tvg-id="CartoonitoAmerica.br" tvg-logo="https://i.imgur.com/LVLMTZ0.png" group-title="Kids",TV Cartoonito America 4
-https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8?#/TV Cartoonito America 4
-#EXTINF:-1 tvg-id="CartoonNetworkAmerica.br" tvg-logo="https://i.imgur.com/LVLMTZ0.png" group-title="Kids",TV Cartoon Network America 2
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8?#/TV Cartoon Network America 2
-#EXTINF:-1 tvg-id="CartoonNetworkAmerica.br" tvg-logo="https://i.imgur.com/LVLMTZ0.png" group-title="Kids",TV Cartoon Network America 6
-https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8?#/TV Cartoon Network America 6
-
-#EXTINF:-1 tvg-id="DiscoveryKids.br" tvg-logo="https://i.imgur.com/C0VEHXU.png" group-title="Kids",TV Discovery Kids BR 
-https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist.m3u8?#/TV Discovery Kids BR
-#EXTINF:-1 tvg-id="DiscoveryKids.br" tvg-logo="https://i.imgur.com/C0VEHXU.png" group-title="Kids",TV Discovery Kids Latin America
-https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist.m3u8?#/TV Discovery Kids Latin America
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-logo="https://i.imgur.com/yl4LFvw.png" group-title="Kids",TV Tooncast
+https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8?#/TV Tooncast
 
 #EXTINF:-1 tvg-id="TV.Jetson.br" tvg-logo="https://i.imgur.com/sMpSDCs.png" group-title="Kids",TV Jetson
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8?#/TV Jetson
