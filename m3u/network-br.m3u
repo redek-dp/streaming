@@ -122,6 +122,9 @@ https://canalgov-stream.ebc.com.br/index.m3u8?#/TV Canal Gov
 #EXTINF:-1 tvg-id="Alfenas.br" tvg-logo="https://i.imgur.com/fJqPPHq.png" group-title="General",TV Alfenas
 https://cdn.live.br1.jmvstream.com/w/AVJ-15327/playlist/chunklist.m3u8?#/TV Alfenas
 
+#EXTINF:-1 tvg-id="PetLovers.br" tvg-logo="https://i.imgur.com/Llot9c3.png" group-title="General",TV PetLovers
+https://video04.logicahost.com.br/petloverstv/petloverstv/chunklist_w1596993943.m3u8?#/TV PetLovers
+
 
 #EXTINF:-1 tvg-id="Devseven.br" tvg-logo="https://i.imgur.com/AmewaLx.png" group-title="Kids",TV DevsevenTv
 https://redek-dp.github.io/streaming/dnetwork/playlist.m3u8?#/TV DevsevenTv
