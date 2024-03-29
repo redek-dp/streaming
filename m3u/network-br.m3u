@@ -271,6 +271,8 @@ https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8?#/TV Classique Weste
 #EXTINF:-1 tvg-id="CineBrasil.br" tvg-logo="https://i.imgur.com/wMJSFNp.png" group-title="Movies",TV Cine Brasil
 https://stmv1.srvif.com/cinebrasil/cinebrasil/chunklist_w1134632688.m3u8?#/TV Cine Brasil
 
+#EXTINF:-1 tvg-id="playtv.br" tvg-logo="https://i.imgur.com/gQtxI5O.png" group-title="Entertainment",TV playtv
+https://isaocorp.cloudecast.com/playtv/tracks-v1/index.fmp4.m3u8?#/TV playtv
 
 #EXTINF:-1 tvg-id="DemaisTV.br" tvg-logo="https://i.imgur.com/Md3xibE.png" group-title="General",TV Demais
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8?#/TV Demais
