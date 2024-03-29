@@ -136,10 +136,6 @@ https://video01.soultv.com.br/internacional/internacional/playlist.m3u8?#/TV Can
 #EXTINF:-1 tvg-id="TVSBT.br" tvg-logo="https://i.imgur.com/jC388aq.png" group-title="General",TV SBT SAT
 https://redek-dp.github.io/streaming/m3u/serv/live/sbt.m3u8?#/TV SBT SAT
 
-
-#EXTINF:-1 tvg-id="TVoxtv.br" tvg-logo="https://i.imgur.com/Za30lpg.png" group-title="General",TV Londres ox
-https://cdn2.connectbr.com.br/oxtv/video.m3u8?#/TV Londres ox
-
 #EXTINF:-1 tvg-id="TVmarketguide.br" tvg-logo="https://i.imgur.com/akDkLAk.png" group-title="General",TV Market Guide
 https://video01.soultv.com.br/tvmarketguide/tvmarketguide/playlist.m3u8?#/TV Market Guide
 
@@ -334,7 +330,7 @@ https://streaming.al.mt.gov.br/test/index.m3u8?#/TV Assembleia Mato Grosso
 #EXTINF:-1 tvg-id="TVBEJoinville.br" tvg-logo="https://i.imgur.com/zUpWcUN.png" group-title="Culture",TV BE Joinville
 https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8?#/TV BE Joinville
 
-#EXTINF:-1 tvg-id="TVBRICSPortuguese.br" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="General",TV BRICS
+#EXTINF:-1 tvg-id="TVBRICSPortuguese.br" tvg-logo="https://i.imgur.com/TfbokAw.png" group-title="General",TV BRICS
 https://redek-dp.github.io/streaming/m3u/serv/live/BRICS.m3u8?#/TV BRICS
 
 #EXTINF:-1 tvg-id="TVCamara.br" tvg-logo="https://i.imgur.com/Sdou1Ab.png" group-title="Legislative",TV Camara 1
