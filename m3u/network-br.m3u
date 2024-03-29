@@ -112,6 +112,9 @@ https://nosey-4-br.samsung.wurl.tv/playlist.m3u8?#/TV Nosey alt
 #EXTINF:-1 tvg-id="cultura.br" tvg-logo="https://i.imgur.com/w5rgtjl.png" group-title="General",TV Cultura
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1510628881.m3u8?#/TV Cultura
 
+#EXTINF:-1 tvg-id="redefamilia.br" tvg-logo="https://i.imgur.com/piYtcKd.png" group-title="General",TV Rede Familia
+https://tv02.zas.media:1936/redefamiliaweb/redefamiliaweb/chunklist_w963363969.m3u8?#/TV Rede Familia
+
 
 #EXTINF:-1 tvg-id="Devseven.br" tvg-logo="https://i.imgur.com/AmewaLx.png" group-title="Kids",TV DevsevenTv
 https://redek-dp.github.io/streaming/dnetwork/playlist.m3u8?#/TV DevsevenTv
