@@ -54,10 +54,13 @@ https://redek-dp.github.io/streaming/m3u/serv/live/RedeMinas.m3u8?#/TV Rede Mina
 #EXTINF:-1 tvg-id="TVBand.br" tvg-logo="https://i.ibb.co/GQyn5NF/band.png" group-title="General",TV Band
 https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?#/TV Band
 
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="https://i.imgur.com/df9cuBQ.png" group-title="General",TV RedeTV!
+https://cdn.live.br1.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8?#/TV RedeTV!
+
 #EXTINF:-1 tvg-id="Tastemade.br" tvg-logo="https://i.imgur.com/FPy4zF4.png" group-title="Cooking",TV Tastemade BR
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8?#/TV Tastemade BR
 
-#EXTINF:-1 tvg-id="MasterChef.Br" tvg-logo="https://i.imgur.com/RRTe5FP.png" group-title="Cooking",TV MasterChef Brasil
+#EXTINF:-1 tvg-id="MasterChef.Br" tvg-logo="https://i.imgur.com/RMQEKvB.png" group-title="Cooking",TV MasterChef Brasil
 https://redek-dp.github.io/streaming/m3u/serv/live/MasterChefBr.m3u8?#/TV MasterChef Brasil
 
 #EXTINF:-1 tvg-id="AmazonSat.br" tvg-logo="https://i.imgur.com/zHl3beY.png" group-title="General",TV Amazon Sat
@@ -82,7 +85,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864#/TV RunTime Crime
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.br" tvg-logo="https://i.imgur.com/aiGQtzI.png" group-title="Movies",TV MyTime Movie Network BR
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8?#/TV MyTime Movie Network BR
 
-#EXTINF:-1 tvg-id="GrjngoFilmesFaroeste.br" tvg-logo="https://i.imgur.com/BVbcDno.png" group-title="Filmes",TV Grjngo Filmes De Faroeste
+#EXTINF:-1 tvg-id="GrjngoFilmesFaroeste.br" tvg-logo="https://i.imgur.com/0x8mThP.png" group-title="Filmes",TV Grjngo Filmes De Faroeste
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8?#/TV Grjngo Filmes De Faroeste
 
 #EXTINF:-1 tvg-id="TVComediaBrazil.br" tvg-logo="https://i.imgur.com/qbeiqVl.png" group-title="Comedy",TV Comedia Brazil
@@ -122,10 +125,14 @@ https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8?#/TV Jetson
 #EXTINF:-1 tvg-id="ToonGoggle.br" tvg-logo="https://i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle BR
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=274#/TV Toon Goggle BR
 
-
 #EXTINF:-1 tvg-id="TNTSportsBrazil.br" tvg-logo="https://i.imgur.com/88CbPLt.png" group-title="Sports",TV TNT Sports 1 Brasil
 https://video01.soultv.com.br/popbola/popbola/playlist.m3u8?#/TV TNT Sports 1 Brasil
 
+#EXTINF:-1 tvg-id="RedeTVTocantins.br" tvg-logo="https://i.imgur.com/df9cuBQ.png" group-title="General",TV RedeTV! Tocantins
+https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8?#/TV RedeTV! Tocantins
+
+#EXTINF:-1 tvg-id="TVPampa.br" tvg-logo="https://i.imgur.com/df9cuBQ.png" group-title="General",TV Rede TV! Pampa
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8?#/TV Rede TV! Pampa
 
 #EXTINF:-1 tvg-id="AllSports.br" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Sports",TV All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8?#/TV All Sports
@@ -193,13 +200,6 @@ https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8?#/TV Rede SPTV
 
 #EXTINF:-1 tvg-id="RedeSul.br" tvg-logo="https://i.imgur.com/eUM67rj.png" group-title="General",TV Rede Sul
 https://video05.logicahost.com.br/tvurbana/tvurbana/playlist.m3u8?#/TV Rede Sul
-
-
-#EXTINF:-1 tvg-id="RedeTVTocantins.br" tvg-logo="https://i.imgur.com/SEe2ki7.png" group-title="General",TV RedeTV! Tocantins
-https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8?#/TV RedeTV! Tocantins
-
-#EXTINF:-1 tvg-id="TVPampa.br" tvg-logo="https://i.imgur.com/Cnc1Mqo.png" group-title="General",TV Rede TV! Pampa
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8?#/TV Rede TV! Pampa
 
 #EXTINF:-1 tvg-id="RedeUTV.br" tvg-logo="https://i.imgur.com/Usw2e9d.png" group-title="General",TV Rede UTV
 https://59f1cbe63db89.streamlock.net:1443/canalvirtual08/_definst_/canalvirtual08/playlist.m3u8?#/TV Rede UTV
