@@ -109,6 +109,9 @@ https://fashiontv-fashiontv-5-br.samsung.wurl.tv/playlist.m3u8?#/TV Fashion
 #EXTINF:-1 tvg-id="Nosey.br" tvg-logo="https://i.imgur.com/E49WtFx.png" group-title="General",TV Nosey alt
 https://nosey-4-br.samsung.wurl.tv/playlist.m3u8?#/TV Nosey alt
 
+#EXTINF:-1 tvg-id="cultura.br" tvg-logo="https://i.imgur.com/w5rgtjl.png" group-title="General",TV Cultura
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1510628881.m3u8?#/TV Cultura
+
 
 #EXTINF:-1 tvg-id="Devseven.br" tvg-logo="https://i.imgur.com/AmewaLx.png" group-title="Kids",TV DevsevenTv
 https://redek-dp.github.io/streaming/dnetwork/playlist.m3u8?#/TV DevsevenTv
