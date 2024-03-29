@@ -364,17 +364,11 @@ https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8?#/TV COM Maceio
 #EXTINF:-1 tvg-id="TVCOMSantos.br" tvg-logo="https://i.imgur.com/KX3fner.png" group-title="General",TV COM Santos
 https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/playlist.m3u8?#/TV COM Santos
 
-#EXTINF:-1 tvg-id="TVComunitaria.br" tvg-logo="https://i.imgur.com/uxefHY3.png" group-title="General",TV Comunitaria
-https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?#/TV Comunitaria
-
 #EXTINF:-1 tvg-id="TVCordeiro.br" tvg-logo="https://i.imgur.com/wNULjux.png" group-title="Entertainment",TV Cordeiro
 https://stmv2.voxtvhd.com.br/tvcordeiro/tvcordeiro/playlist.m3u8?#/TV Cordeiro
 
 #EXTINF:-1 tvg-id="TVCuruca.br" tvg-logo="https://i.imgur.com/JdCKNZ4.png" group-title="Entertainment",TV Curuca
 https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8?#/TV Curuca
-
-#EXTINF:-1 tvg-id="TVDiversa.br" tvg-logo="https://i.imgur.com/b3hMu5h.png" group-title="General",TV Diversa
-https://tvdiversa.brasilstream.com.br/hls/tvdiversa/index.m3u8?#/TV Diversa
 
 #EXTINF:-1 tvg-id="TVdoPovo.br" tvg-logo="https://i.imgur.com/58EQ5qX.png" group-title="News",TV do Povo
 https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8?#/TV do Povo
@@ -391,9 +385,6 @@ https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8?#/TV Galeg
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-logo="https://i.imgur.com/0sksWse.png" group-title="General",TV Gazeta
 https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8?#/TV Gazeta
 
-#EXTINF:-1 tvg-id="TVGideoes.br" tvg-logo="https://i.imgur.com/dDomKND.png" group-title="Religious",TV Gideoes
-https://streaming01.zas.media/gideoes/programacao/playlist.m3u8?#/TV Gideoes
-
 #EXTINF:-1 tvg-id="TVGuara.br" tvg-logo="https://i.imgur.com/8PErNBT.png" group-title="General",TV Guara
 https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8?#/TV Guara
 
@@ -409,9 +400,6 @@ https://stmv1.srvstm.com/iracematv/iracematv/playlist.m3u8?#/TV Iracema
 #EXTINF:-1 tvg-id="TVJapi.br" tvg-logo="https://i.imgur.com/dnmzIhF.png" group-title="General",TV Japi
 https://stmv1.paineltv.net/tvjapi/tvjapi/playlist.m3u8?#/TV Japi
 
-#EXTINF:-1 tvg-id="TVJornaldoNordeste.br" tvg-logo="https://i.imgur.com/8JDixEE.png" group-title="General",TV Jornal do Nordeste
-https://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8?#/TV Jornal do Nordeste
-
 #EXTINF:-1 tvg-id="TVMaceio.br" tvg-logo="https://i.imgur.com/zZ9LEOZ.png" group-title="General",TV Maceio
 https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8?#/TV Maceio
 
@@ -420,9 +408,6 @@ https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8?#/T
 
 #EXTINF:-1 tvg-id="TVMarajoara.br" tvg-logo="https://i.imgur.com/9d9vBN7.png" group-title="General",TV Marajoara
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8?#/TV Marajoara
-
-#EXTINF:-1 tvg-id="TVMaster.br" tvg-logo="https://i.imgur.com/fTgGvNJ.png" group-title="General",TV Master
-https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8?#/TV Master
 
 #EXTINF:-1 tvg-id="TVMAX.br" tvg-logo="https://i.imgur.com/2Pg0baJ.png" group-title="General",TV MAX
 https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8?#/TV MAX
@@ -466,15 +451,11 @@ https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8?#/TV Rio P
 #EXTINF:-1 tvg-id="TVSeries.br" tvg-logo="https://i.imgur.com/Ff5mj0o.png" group-title="Series",TV Series
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8?#/TV Series
 
-
 #EXTINF:-1 tvg-id="TVTudoBH.br" tvg-logo="https://i.imgur.com/5SKSkUQ.png" group-title="Shop",TV Tudo BH
 https://tv02.zas.media:1936/tvtudo/tvtudo/playlist.m3u8?#/TV Tudo BH
 
 #EXTINF:-1 tvg-id="TVUniversal.br" tvg-logo="https://i.imgur.com/TIsk5zN.png" group-title="Religious",TV Universal
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8?#/TV Universal
-
-#EXTINF:-1 tvg-id="TVVilaReal.br" tvg-logo="https://i.imgur.com/Z1uWe7g.png" group-title="General",TV Vila Real
-https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8?#/TV Vila Real
 
 #EXTINF:-1 tvg-id="TVZoom.br" tvg-logo="https://i.imgur.com/jCGrjf5.png" group-title="Entertainment",TV Zoom
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8?#/TV Zoom
