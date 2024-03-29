@@ -295,9 +295,6 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?#/TV RBATV
 #EXTINF:-1 tvg-id="band.TVArapuan.br" tvg-logo="https://i.imgur.com/3395A2h.png" group-title="General",TV Arapuan
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8?#/TV Arapuan
 
-#EXTINF:-1 tvg-id="RBTV.br" tvg-logo="https://i.imgur.com/m7JDxXJ.png" group-title="General",TV RBTV
-https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8?#/TV RBTV
-
 #EXTINF:-1 tvg-id="RDCTV.br" tvg-logo="https://i.imgur.com/vMpiSwG.png" group-title="General",TV RDC
 https://br5093.streamingdevideo.com.br/datavideo01/datavideo01/playlist.m3u8?#/TV RDC
 
@@ -312,9 +309,6 @@ https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8?#/TV SIC
 
 #EXTINF:-1 tvg-id="TelaViva.br" tvg-logo="https://i.imgur.com/vcNo9Vj.png" group-title="Movies",TV Tela Viva
 https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8?#/TV Tela Viva
-
-#EXTINF:-1 tvg-id="TVA7Plus.br" tvg-logo="https://i.imgur.com/qeo2oPM.png" group-title="Entertainment",TV A7 Plus
-https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8?#/TV A7 Plus
 
 #EXTINF:-1 tvg-id="TVAberta.br" tvg-logo="https://i.imgur.com/SCz53uO.png" group-title="General",TV Aberta
 https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8?#/TV Aberta
@@ -341,7 +335,7 @@ https://streaming.al.mt.gov.br/test/index.m3u8?#/TV Assembleia Mato Grosso
 https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8?#/TV BE Joinville
 
 #EXTINF:-1 tvg-id="TVBRICSPortuguese.br" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="General",TV BRICS
-https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8?#/TV BRICS
+https://redek-dp.github.io/streaming/m3u/serv/live/BRICS.m3u8?#/TV BRICS
 
 #EXTINF:-1 tvg-id="TVCamara.br" tvg-logo="https://i.imgur.com/Sdou1Ab.png" group-title="Legislative",TV Camara 1
 https://stream3.camara.gov.br/tv1/manifest.m3u8?#/TV Camara 1
