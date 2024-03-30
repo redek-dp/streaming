@@ -45,14 +45,14 @@ https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlis
 #EXTINF:-1 tvg-id="TVBrusque.br" tvg-logo="https://i.imgur.com/J2EAZPS.png" group-title="News",TV Brusque
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8?#/TV Brusque
 
-#EXTINF:-1 tvg-id="TVBBC.br" tvg-logo="https://i.imgur.com/bamtUe0.png" group-title="Movies",TV BBC Drama
-https://bbceu-bbcdrama-3-es.rakuten.wurl.tv/playlist.m3u8?#/TV BBC Drama
-
 #EXTINF:-1 tvg-id="RedeMinas.br" tvg-logo="https://i.imgur.com/MtQWAHv.png" group-title="Education",TV Rede Minas
 https://redek-dp.github.io/streaming/m3u/serv/live/RedeMinas.m3u8?#/TV Rede Minas
 
 #EXTINF:-1 tvg-id="TVBand.br" tvg-logo="https://i.ibb.co/GQyn5NF/band.png" group-title="General",TV Band
 https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?#/TV Band
+
+#EXTINF:-1 tvg-id="redefamilia.br" tvg-logo="https://i.imgur.com/piYtcKd.png" group-title="General",TV Rede Familia
+https://tv02.zas.media:1936/redefamiliaweb/redefamiliaweb/chunklist.m3u8?#/TV Rede Familia
 
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="https://i.imgur.com/VKB6q8a.png" group-title="General",TV RedeTV!
 https://cdn.live.br1.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8?#/TV RedeTV!
@@ -63,11 +63,39 @@ https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8?#/TV Tastemade B
 #EXTINF:-1 tvg-id="MasterChef.Br" tvg-logo="https://i.imgur.com/RMQEKvB.png" group-title="Cooking",TV MasterChef Brasil
 https://redek-dp.github.io/streaming/m3u/serv/live/MasterChefBr.m3u8?#/TV MasterChef Brasil
 
+#EXTINF:-1 tvg-id="GrjngoFilmesFaroeste.br" tvg-logo="https://i.imgur.com/0x8mThP.png" group-title="Filmes",TV Grjngo Filmes De Faroeste
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8?#/TV Grjngo Filmes De Faroeste
+
 #EXTINF:-1 tvg-id="AmazonSat.br" tvg-logo="https://i.imgur.com/zHl3beY.png" group-title="General",TV Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?#/TV Amazon Sat
 
+#EXTINF:-1 tvg-id="TVBBC.br" tvg-logo="https://i.imgur.com/bamtUe0.png" group-title="Movies",TV BBC Drama
+https://bbceu-bbcdrama-3-es.rakuten.wurl.tv/playlist.m3u8?#/TV BBC Drama
+
+#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="General",TV Rede Brasil PA
+https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/chunklist.m3u8?#/TV Rede Brasil PA
+
+#EXTINF:-1 tvg-id="TVSBT.br" tvg-logo="https://i.ibb.co/Yjcz9Q2/sbt.png" group-title="General",TV SBT
+https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8?#/TV SBT
+
+#EXTINF:-1 tvg-id="TVBand.br" tvg-logo="https://i.ibb.co/GQyn5NF/band.png" group-title="General",TV Band
+https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w762208544.m3u8?#/TV Band
+
+#EXTINF:-1 tvg-id="TVBand.br" tvg-logo="https://i.ibb.co/GQyn5NF/band.png" group-title="General",TV Band
+https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w1599744092.m3u8?#/TV Band
+
+#EXTINF:-1 tvg-id="TVBand.br" tvg-logo="https://i.ibb.co/GQyn5NF/band.png" group-title="General",TV Band
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist_w115988200_b1125585.m3u8?#/TV Band
+
+
+#EXTINF:-1 tvg-id="TVSBT.br" tvg-logo="https://i.ibb.co/Yjcz9Q2/sbt.png" group-title="General",TV SBT
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1652335716.m3u8?#/TV SBT
+
 #EXTINF:-1 tvg-id="TVRecord.br" tvg-logo="https://i.ibb.co/0ZqtLSC/record.png" group-title="General",TV Record MT
-https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8?#/TV Record MT
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8?#/TV Record MT
+
+#EXTINF:-1 tvg-id="TVRecord.br" tvg-logo="https://i.ibb.co/0ZqtLSC/record.png" group-title="General",TV Record tropical
+https://video03.logicahost.com.br/portaldatropical/portaldatropical/chunklist_w313869588.m3u8?#/TV Record tropical
 
 #EXTINF:-1 tvg-id="TVRunTime.br" tvg-logo="https://i.imgur.com/htpUKDX.png" group-title="Series",TV RunTime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153#/TV RunTime
@@ -103,7 +131,7 @@ https://isaocorp.cloudecast.com/playtv/tracks-v1/index.fmp4.m3u8?#/TV playtv
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8?#/TV MyTime Movie Network BR
 
 #EXTINF:-1 tvg-id="GrjngoFilmesFaroeste.br" tvg-logo="https://i.imgur.com/0x8mThP.png" group-title="Filmes",TV Grjngo Filmes De Faroeste
-https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8?#/TV Grjngo Filmes De Faroeste
+https://amogonetworx-grjngo-2-eu.plex.wurl.tv/playlist.m3u8?#/TV Grjngo Filmes De Faroeste
 
 #EXTINF:-1 tvg-id="TVComediaBrazil.br" tvg-logo="https://i.imgur.com/qbeiqVl.png" group-title="Comedy",TV Comedia Brazil
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8?#/TV Comedia Brazil
