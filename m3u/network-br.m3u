@@ -94,8 +94,6 @@ https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w
 #EXTINF:-1 tvg-id="TVRecord.br" tvg-logo="https://i.ibb.co/0ZqtLSC/record.png" group-title="General",TV Record MT
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8?#/TV Record MT
 
-#EXTINF:-1 tvg-id="TVRecord.br" tvg-logo="https://i.ibb.co/0ZqtLSC/record.png" group-title="General",TV Record tropical
-https://video03.logicahost.com.br/portaldatropical/portaldatropical/chunklist_w313869588.m3u8?#/TV Record tropical
 
 #EXTINF:-1 tvg-id="TVRunTime.br" tvg-logo="https://i.imgur.com/htpUKDX.png" group-title="Series",TV RunTime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153#/TV RunTime
