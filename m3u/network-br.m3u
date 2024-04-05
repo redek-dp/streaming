@@ -49,7 +49,7 @@ https://redek-dp.github.io/streaming/m3u/serv/live/RedeMinas.m3u8?#/TV Rede Mina
 https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?#/TV Band
 
 #EXTINF:-1 tvg-id="redefamilia.br" tvg-logo="https://i.imgur.com/piYtcKd.png" group-title="General",TV Rede Familia
-https://tv01.zas.media:1936/redefamiliaweb/redefamiliaweb/chunklist.m3u8?#/TV Rede Familia
+https://tv01.zas.media:1936/rftv/rftv/chunklist.m3u8?#/TV Rede Familia
 
 
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="https://i.imgur.com/VKB6q8a.png" group-title="General",TV RedeTV!
@@ -158,7 +158,7 @@ https://nosey-4-br.samsung.wurl.tv/playlist.m3u8?#/TV Nosey alt
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1510628881.m3u8?#/TV Cultura
 
 #EXTINF:-1 tvg-id="redefamilia.br" tvg-logo="https://i.imgur.com/piYtcKd.png" group-title="General",TV Rede Familia
-https://tv01.zas.media:1936/redefamiliaweb/redefamiliaweb/chunklist_w963363969.m3u8?#/TV Rede Familia
+https://tv01.zas.media:1936/rftv/rftv/chunklist_w559094191.m3u8?#/TV Rede Familia
 
 #EXTINF:-1 tvg-id="canalgov.br" tvg-logo="https://i.imgur.com/VxMK0Mk.png" group-title="General",TV Canal Gov
 https://canalgov-stream.ebc.com.br/index.m3u8?#/TV Canal Gov
