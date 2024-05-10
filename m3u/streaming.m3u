@@ -1,19 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="TVSBT.br" tvg-logo="https://i.imgur.com/jC388aq.png" group-title="General",TV SBT
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8?#/TV SBT
+#EXTINF:-1 tvg-id="TVSBT.br" tvg-logo="https://i.ibb.co/Yjcz9Q2/sbt.png" group-title="General",TV SBT
+https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8?#/TV SBT
 
-#EXTINF:-1 tvg-id="TVRecord.br" tvg-logo="https://i.imgur.com/abj0M7L.png" group-title="General",TV Record MT
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8?#/TV Record MT
-
-#EXTINF:-1 tvg-id="TVRecord.br" tvg-logo="https://i.imgur.com/abj0M7L.png" group-title="General",TV Record MT
-https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8?#/TV Record MT
-
-#EXTINF:-1 tvg-id="TVRecord.br" tvg-logo="https://i.imgur.com/abj0M7L.png" group-title="General",TV Record
-https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/index.m3u8?#/TV Record
-
-#EXTINF:-1 tvg-id="TVRecord.br" tvg-logo="https://i.imgur.com/TD6ZJoa.png" group-title="General",TV Record RN
-https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8?#/TV Record RN
+#EXTINF:-1 tvg-id="TVRecord.br" tvg-logo="https://i.ibb.co/0ZqtLSC/record.png" group-title="General",TV Record
+https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8?#/TV Record
 
 #EXTINF:-1 tvg-id="TVcnn.br" tvg-logo="https://i.imgur.com/UWOujeG.png" group-title="News",TV CNN Brasil
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8?#/TV CNN Brasil
@@ -44,6 +35,9 @@ https://bbceu-bbcdrama-3-es.rakuten.wurl.tv/playlist.m3u8?#/TV BBC Drama
 
 #EXTINF:-1 tvg-id="RedeMinas.br" tvg-logo="https://i.imgur.com/MtQWAHv.png" group-title="Education",TV Rede Minas
 https://redek-dp.github.io/streaming/m3u/serv/live/RedeMinas.m3u8?#/TV Rede Minas
+
+#EXTINF:-1 tvg-id="TVRecord.br" tvg-logo="https://i.imgur.com/abj0M7L.png" group-title="General",TV Record
+https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/index.m3u8?#/TV Record
 
 
 #EXTINF:-1 tvg-id="TVRunTime.br" tvg-logo="https://i.imgur.com/htpUKDX.png" group-title="Series",TV RunTime
@@ -116,11 +110,10 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f0ff263d71dcb00449ec021.m3u8?#/T
 https://965a56fdfe3c40cd9b73c49a0cde620b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_PeopleAreAwesome-1/playlist.m3u8?#/TV People Are Awesome
 
 
-#EXTINF:-1 tvg-id="ALF.us" tvg-logo="https://i.imgur.com/fWRs1gX.png" group-title="Series",TV ALF
-https://97bd5884f7a348aa93b50e48d031be0e.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/ONO_ALF/playlist.m3u8?#/TV ALF
-
 #EXTINF:-1 tvg-id="TVTeleVisa.mx" tvg-logo="https://i.imgur.com/QrA2g6C.png" group-title="General",TV TeleVisa
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?#/TV TeleVisa
+#EXTINF:-1 tvg-id="TVTeleVisa.mx" tvg-logo="https://i.imgur.com/QrA2g6C.png" group-title="General",TV TeleVisa
+https://linear-317.frequency.stream/317/hls/master/playlist.m3u8?#/TV TeleVisa
 
 #EXTINF:-1 tvg-id="Motorvision.UE" tvg-logo="https://i.imgur.com/9xh4NUw.png" group-title="General",TV Motorvision
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8?#/TV Motorvision
