@@ -51,9 +51,12 @@ https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?#/TV Band
 #EXTINF:-1 tvg-id="redefamilia.br" tvg-logo="https://i.imgur.com/piYtcKd.png" group-title="General",TV Rede Familia
 https://tv01.zas.media:1936/rftv/rftv/chunklist.m3u8?#/TV Rede Familia
 
-
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="https://i.imgur.com/VKB6q8a.png" group-title="General",TV RedeTV!
 https://cdn.live.br1.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8?#/TV RedeTV!
+
+
+#EXTINF:-1 tvg-id="awtv.br" tvg-logo="https://i.imgur.com/sVj4QYw.png" group-title="General",TV Awtv
+https://acesso.ecast.site:3070/live/awtvlive.m3u8?#/TV Awtv
 
 #EXTINF:-1 tvg-id="Tastemade.br" tvg-logo="https://i.imgur.com/FPy4zF4.png" group-title="Cooking",TV Tastemade BR
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8?#/TV Tastemade BR
