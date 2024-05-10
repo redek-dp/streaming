@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="TVSBT.br" tvg-logo="https://i.ibb.co/Yjcz9Q2/sbt.png" group-title="General",TV SBT
-https://cdn.live.br1.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8?#/TV SBT
+https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8?#/TV SBT
 
 #EXTINF:-1 tvg-id="TVRecord.br" tvg-logo="https://i.ibb.co/0ZqtLSC/record.png" group-title="General",TV Record
 https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8?#/TV Record
@@ -77,7 +77,7 @@ https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/chunklist.m3u8?#/TV Rede Bra
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8?#/TV SBT
 
 #EXTINF:-1 tvg-id="TVAratu.br" tvg-logo="https://i.ibb.co/ZW3TgHW/tvaratu.png" group-title="General",TV Aratu
-https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8?#/TV Aratu
+https://cdn.live.br1.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8?#/TV Aratu
 
 #EXTINF:-1 tvg-id="TVBand.br" tvg-logo="https://i.ibb.co/GQyn5NF/band.png" group-title="General",TV Band
 https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w762208544.m3u8?#/TV Band
