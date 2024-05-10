@@ -528,7 +528,7 @@ https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?#/TV Unisul
 https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/playlist.m3u8?#/TV Virtual
 
 #EXTINF:-1 tvg-id="Futura.br" tvg-logo="https://i.postimg.cc/Hng0W5Cy/300px-Canal-Futura.png" group-title="Education",TV Futura
-https://tv.unisc.br/hls/test.m3u8?#/TV Futura
+https://tv02.zas.media:1936/tvfuturo/tvfuturo/chunklist_w1813935461.m3u8?#/TV Futura
 
 #EXTINF:-1 tvg-id="Euronews.pt" tvg-logo="https://i.imgur.com/pLaIFyB.png" group-title="News",TV Euronews PT
 https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8?#/TV Euronews PT
