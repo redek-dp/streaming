@@ -28,7 +28,7 @@ https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8?#/TV Sul
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?#/TV Band
 
 #EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="General",TV Rede Brasil
-https://video07.logicahost.com.br/redebrasil/redebrasil/chunklist_w35589498.m3u8?#/TV Rede Brasil
+https://video07.logicahost.com.br/redebrasil/redebrasil/chunklist.m3u8?#/TV Rede Brasil
 
 #EXTINF:-1 tvg-id="TVBrasil.br" tvg-logo="https://i.imgur.com/x0Zo3Gw.png" group-title="Entertainment",TV Brasil
 https://tvbrasil-stream.ebc.com.br/chunks.m3u8?#/TV Brasil
@@ -58,7 +58,7 @@ https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8?#/TV Record News
 https://acesso.ecast.site:3070/live/awtvlive.m3u8?#/TV Awtv
 
 #EXTINF:-1 tvg-id="esflix.br" tvg-logo="https://i.imgur.com/mvatF0M.png" group-title="General",TV Esflix
-https://host.painelhub.online:3716/hybrid/play.m3u8?#/TV Esflix
+https://server.hubcloud.online:3285/hybrid/play.m3u8?#/TV Esflix
 
 #EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="General",TV Rede Brasil PA
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/chunklist.m3u8?#/TV Rede Brasil PA
@@ -82,17 +82,13 @@ https://bbceu-bbcdrama-3-es.rakuten.wurl.tv/playlist.m3u8?#/TV BBC Drama
 https://cdn.live.br1.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8?#/TV Aratu
 
 #EXTINF:-1 tvg-id="TVBand.br" tvg-logo="https://i.ibb.co/GQyn5NF/band.png" group-title="General",TV Band
-https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w762208544.m3u8?#/TV Band
-
-#EXTINF:-1 tvg-id="TVBand.br" tvg-logo="https://i.ibb.co/GQyn5NF/band.png" group-title="General",TV Band
-https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w1599744092.m3u8?#/TV Band
-
-#EXTINF:-1 tvg-id="TVBand.br" tvg-logo="https://i.ibb.co/GQyn5NF/band.png" group-title="General",TV Band
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist_w115988200_b1125585.m3u8?#/TV Band
-
+https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist.m3u8?#/TV Band
 
 #EXTINF:-1 tvg-id="TVSBT.br" tvg-logo="https://i.ibb.co/Yjcz9Q2/sbt.png" group-title="General",TV SBT
-https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1652335716.m3u8?#/TV SBT
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist.m3u8?#/TV SBT
+
+#EXTINF:-1 tvg-id="TVBand.br" tvg-logo="https://i.ibb.co/GQyn5NF/band.png" group-title="General",TV Band
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist.m3u8?#/TV Band
 
 #EXTINF:-1 tvg-id="TVRecord.br" tvg-logo="https://i.ibb.co/0ZqtLSC/record.png" group-title="General",TV Record MT
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8?#/TV Record MT
