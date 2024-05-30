@@ -153,10 +153,10 @@ https://nosey-4-br.samsung.wurl.tv/playlist.m3u8?#/TV Nosey alt
 
 
 #EXTINF:-1 tvg-id="cultura.br" tvg-logo="https://i.imgur.com/w5rgtjl.png" group-title="General",TV Cultura
-https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1510628881.m3u8?#/TV Cultura
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist.m3u8?#/TV Cultura
 
 #EXTINF:-1 tvg-id="redefamilia.br" tvg-logo="https://i.imgur.com/piYtcKd.png" group-title="General",TV Rede Familia
-https://tv01.zas.media:1936/rftv/rftv/chunklist_w559094191.m3u8?#/TV Rede Familia
+https://tv01.zas.media:1936/rftv/rftv/chunklist.m3u8?#/TV Rede Familia
 
 #EXTINF:-1 tvg-id="canalgov.br" tvg-logo="https://i.imgur.com/VxMK0Mk.png" group-title="General",TV Canal Gov
 https://canalgov-stream.ebc.com.br/index.m3u8?#/TV Canal Gov
@@ -165,7 +165,7 @@ https://canalgov-stream.ebc.com.br/index.m3u8?#/TV Canal Gov
 https://cdn.live.br1.jmvstream.com/w/AVJ-15327/playlist/chunklist.m3u8?#/TV Alfenas
 
 #EXTINF:-1 tvg-id="PetLovers.br" tvg-logo="https://i.imgur.com/Llot9c3.png" group-title="General",TV PetLovers
-https://video04.logicahost.com.br/petloverstv/petloverstv/chunklist_w1596993943.m3u8?#/TV PetLovers
+https://video04.logicahost.com.br/petloverstv/petloverstv/chunklist.m3u8?#/TV PetLovers
 
 
 #EXTINF:-1 tvg-id="Devseven.br" tvg-logo="https://i.imgur.com/AmewaLx.png" group-title="Kids",TV DevsevenTv
@@ -223,7 +223,7 @@ https://video01.soultv.com.br/tvr/tvr/playlist.m3u8?#/TV R
 https://live.cdn.upx.com/723b/myStream.sdp/chunklist_w1271257940.m3u8?867be4bf049218c587185d6370c83e6d#/TV PLAN
 
 #EXTINF:-1 tvg-id="TVCapitalTR.br" tvg-logo="https://i.imgur.com/2P3S0yl.png" group-title="General",TV Capital TR
-https://stmv2.samcast.com.br/tvcapitalteresina/tvcapitalteresina/chunklist_w1840936183.m3u8?#/TV Capital TR
+https://stmv2.samcast.com.br/tvcapitalteresina/tvcapitalteresina/chunklist.m3u8?#/TV Capital TR
 
 #EXTINF:-1 tvg-id="TVitape.br" tvg-logo="https://i.imgur.com/XeqcwKe.png" group-title="General",TV Itapé
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8?#/TV Itapé
@@ -233,7 +233,7 @@ https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8?#/TV Boqueirão
 
 
 #EXTINF:-1 tvg-id="TVBrasilCentral.br" tvg-logo="https://i.imgur.com/VgjVlp3.png" group-title="Entertainment",TV Brasil Central
-https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist_w1406783466.m3u8?#/TV Brasil Central
+https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist.m3u8?#/TV Brasil Central
 
 #EXTINF:-1 tvg-id="RedeCaxias.br" tvg-logo="https://i.imgur.com/zqiOQJ1.png" group-title="General",TV Rede Caxias
 https://stmv1.srvstm.com/luis5346/luis5346/playlist.m3u8?#/TV Rede Caxias
@@ -311,7 +311,7 @@ https://stmv1.srvif.com/classique/classique/playlist.m3u8?#/TV Classique
 https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8?#/TV Classique Western
 
 #EXTINF:-1 tvg-id="CineBrasil.br" tvg-logo="https://i.imgur.com/wMJSFNp.png" group-title="Movies",TV Cine Brasil
-https://stmv1.srvif.com/cinebrasil/cinebrasil/chunklist_w1134632688.m3u8?#/TV Cine Brasil
+https://stmv6.voxtvhd.com.br/cinebrasil/cinebrasil/chunklist.m3u8?#/TV Cine Brasil
 
 #EXTINF:-1 tvg-id="DemaisTV.br" tvg-logo="https://i.imgur.com/Md3xibE.png" group-title="General",TV Demais
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8?#/TV Demais
