@@ -198,6 +198,16 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8?#/TV All Sports
 #EXTINF:-1 tvg-id="CanaldoInter.br" tvg-logo="https://i.imgur.com/TQFWEIS.png" group-title="Sports",TV Canal do Inter
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8?#/TV Canal do Inter
 
+
+#EXTINF:-1 tvg-id="PIXTV.br" tvg-logo="https://i.imgur.com/nlEBerz.png" group-title="News",TV PIXTV
+https://mpix05.tmwpix.com:6516/pix/pixtv_hi.m3u8?#/TV PIXTV
+
+#EXTINF:-1 tvg-id="TVLATINASAT.br" tvg-logo="https://i.imgur.com/CnFkywN.jpg" group-title="Movies",TV LATINASAT
+https://stream.ichibantv.com:3328/hybrid/play.m3u8?#/TV LATINASAT
+
+#EXTINF:-1 tvg-id="CineBrasil.br" tvg-logo="https://i.imgur.com/wMJSFNp.png" group-title="Movies",TV Cine Brasil
+https://stmv6.voxtvhd.com.br/cinebrasil/cinebrasil/chunklist.m3u8?#/TV Cine Brasil
+
 #EXTINF:-1 tvg-id="TVSBT.br" tvg-logo="https://i.imgur.com/jC388aq.png" group-title="General",TV SBT SAT
 https://redek-dp.github.io/streaming/m3u/serv/live/sbt.m3u8?#/TV SBT SAT
 
@@ -309,9 +319,6 @@ https://stmv1.srvif.com/classique/classique/playlist.m3u8?#/TV Classique
 
 #EXTINF:-1 tvg-id="ClassiqueTVWestern.br" tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="Movies",TV Classique Western
 https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8?#/TV Classique Western
-
-#EXTINF:-1 tvg-id="CineBrasil.br" tvg-logo="https://i.imgur.com/wMJSFNp.png" group-title="Movies",TV Cine Brasil
-https://stmv6.voxtvhd.com.br/cinebrasil/cinebrasil/chunklist.m3u8?#/TV Cine Brasil
 
 #EXTINF:-1 tvg-id="DemaisTV.br" tvg-logo="https://i.imgur.com/Md3xibE.png" group-title="General",TV Demais
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8?#/TV Demais
