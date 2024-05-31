@@ -214,6 +214,9 @@ https://redek-dp.github.io/streaming/m3u/serv/live/sbt.m3u8?#/TV SBT SAT
 #EXTINF:-1 tvg-id="LOADINGTV.br" tvg-logo="https://i.imgur.com/0cttH0W.png" group-title="General",TV LOADING
 https://stmv1.srvif.com/loadingtv/loadingtv/chunklist.m3u8?#/TV LOADING
 
+#EXTINF:-1 tvg-id="OTAKUSIGN.br" tvg-logo="https://i.imgur.com/M4OltmW.png" group-title="General",TV OTAKU SIGN
+https://stmv1.srvif.com/otaku/otaku/chunklist.m3u8?#/TV OTAKU SIGN
+
 #EXTINF:-1 tvg-id="VILATV.br" tvg-logo="https://i.imgur.com/f5S8vuA.png" group-title="General",TV VILA
 https://streamserver.streamingdevideo.com.br/8072/8072/chunklist.m3u8?#/TV VILA
 
