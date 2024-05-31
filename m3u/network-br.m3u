@@ -183,6 +183,9 @@ https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8?#/TV Jetson
 #EXTINF:-1 tvg-id="ToonGoggle.br" tvg-logo="https://i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle BR
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=274#/TV Toon Goggle BR
 
+#EXTINF:-1 tvg-id="kkids.br" tvg-logo="https://i.imgur.com/awalOyU.png" group-title="Kids",TV KURIAKOS KIDS
+https://w2.manasat.com/kkids/smil:kkids.smil/chunklist.m3u8?#/TV KURIAKOS KIDS
+
 #EXTINF:-1 tvg-id="KIDMAIS.br" tvg-logo="https://i.imgur.com/PjrLapD.png" group-title="Kids",TV KIDMAIS
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist.m3u8?#/TV KIDMAIS
 
