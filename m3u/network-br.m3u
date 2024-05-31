@@ -57,7 +57,7 @@ https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8?#/TV Record News
 #EXTINF:-1 tvg-id="awtv.br" tvg-logo="https://i.imgur.com/sVj4QYw.png" group-title="General",TV Awtv
 https://acesso.ecast.site:3070/live/awtvlive.m3u8?#/TV Awtv
 
-#EXTINF:-1 tvg-id="esflix.br" tvg-logo="https://i.imgur.com/mvatF0M.png" group-title="General",TV Esflix
+#EXTINF:-1 tvg-id="esflix.br" tvg-logo="https://i.imgur.com/dO8gmSs.png" group-title="General",TV Esflix
 https://server.hubcloud.online:3285/hybrid/play.m3u8?#/TV Esflix
 
 #EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="General",TV Rede Brasil PA
