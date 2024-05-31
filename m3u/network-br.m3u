@@ -208,7 +208,7 @@ https://video01.soultv.com.br/internacional/internacional/playlist.m3u8?#/TV Can
 #EXTINF:-1 tvg-id="PIXTV.br" tvg-logo="https://i.imgur.com/nlEBerz.png" group-title="News",TV PIXTV
 https://mpix05.tmwpix.com:6516/pix/pixtv_hi.m3u8?#/TV PIXTV
 
-#EXTINF:-1 tvg-id="TVLATINASAT.br" tvg-logo="https://i.imgur.com/CnFkywN.jpg" group-title="Movies",TV LATINASAT
+#EXTINF:-1 tvg-id="TVLATINASAT.br" tvg-logo="https://i.imgur.com/wcJMjxt.png" group-title="Movies",TV LATINASAT
 https://stream.ichibantv.com:3328/hybrid/play.m3u8?#/TV LATINASAT
 
 #EXTINF:-1 tvg-id="CARAVANAPLAY.br" tvg-logo="https://i.imgur.com/NuUSTci.png" group-title="Movies",TV CARAVANA PLAY
