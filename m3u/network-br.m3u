@@ -78,6 +78,9 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?#/TV Amazon Sat
 #EXTINF:-1 tvg-id="TVBBC.br" tvg-logo="https://i.imgur.com/bamtUe0.png" group-title="Movies",TV BBC Drama
 https://bbceu-bbcdrama-3-es.rakuten.wurl.tv/playlist.m3u8?#/TV BBC Drama
 
+#EXTINF:-1 tvg-id="cultura.br" tvg-logo="https://i.imgur.com/w5rgtjl.png" group-title="General",TV Cultura
+https://redek-dp.github.io/streaming/m3u/serv/live/cultura.m3u8?#/TV Cultura
+
 #EXTINF:-1 tvg-id="TVAratu.br" tvg-logo="https://i.ibb.co/ZW3TgHW/tvaratu.png" group-title="General",TV Aratu
 https://cdn.live.br1.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8?#/TV Aratu
 
@@ -152,20 +155,17 @@ https://fashiontv-fashiontv-5-br.samsung.wurl.tv/playlist.m3u8?#/TV Fashion
 https://nosey-4-br.samsung.wurl.tv/playlist.m3u8?#/TV Nosey alt
 
 
-#EXTINF:-1 tvg-id="cultura.br" tvg-logo="https://i.imgur.com/w5rgtjl.png" group-title="General",TV Cultura
-https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist.m3u8?#/TV Cultura
-
 #EXTINF:-1 tvg-id="redefamilia.br" tvg-logo="https://i.imgur.com/piYtcKd.png" group-title="General",TV Rede Familia
 https://tv01.zas.media:1936/rftv/rftv/chunklist.m3u8?#/TV Rede Familia
 
 #EXTINF:-1 tvg-id="canalgov.br" tvg-logo="https://i.imgur.com/VxMK0Mk.png" group-title="General",TV Canal Gov
 https://canalgov-stream.ebc.com.br/index.m3u8?#/TV Canal Gov
 
-#EXTINF:-1 tvg-id="Alfenas.br" tvg-logo="https://i.imgur.com/fJqPPHq.png" group-title="General",TV Alfenas
-https://cdn.live.br1.jmvstream.com/w/AVJ-15327/playlist/chunklist.m3u8?#/TV Alfenas
-
 #EXTINF:-1 tvg-id="PetLovers.br" tvg-logo="https://i.imgur.com/Llot9c3.png" group-title="General",TV PetLovers
 https://video04.logicahost.com.br/petloverstv/petloverstv/chunklist.m3u8?#/TV PetLovers
+
+#EXTINF:-1 tvg-id="Alfenas.br" tvg-logo="https://i.imgur.com/fJqPPHq.png" group-title="General",TV Alfenas
+https://cdn.live.br1.jmvstream.com/w/AVJ-15327/playlist/chunklist.m3u8?#/TV Alfenas
 
 
 #EXTINF:-1 tvg-id="Devseven.br" tvg-logo="https://i.imgur.com/AmewaLx.png" group-title="Kids",TV DevsevenTv
@@ -512,9 +512,6 @@ https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8?#/TV Mon
 
 #EXTINF:-1 tvg-id="TVNBN.br" tvg-logo="https://i.imgur.com/zoHBxn1.png" group-title="General",TV NBN
 https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8?#/TV NBN
-
-#EXTINF:-1 tvg-id="TVNovaPlay.br" tvg-logo="https://i.imgur.com/MhoHk6I.png" group-title="Entertainment",TV Nova Play
-https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8?#/TV Nova Play
 
 #EXTINF:-1 tvg-id="TVOmindare.br" tvg-logo="https://i.imgur.com/naZZUIT.png" group-title="Culture",TV Omindare
 https://video01.kshost.com.br/lourdes52007/lourdes52007/playlist.m3u8?#/TV Omindare

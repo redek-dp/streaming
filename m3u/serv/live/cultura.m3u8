@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=CLOSED-CAPTIONS,GROUP-ID="captions",NAME="English",DEFAULT=NO,LANGUAGE="en",INSTREAM-ID="CC1"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=220000,CLOSED-CAPTIONS="captions"
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist.m3u8
+https://video02.logicahost.com.br/tvguara23/tvguara23/chunklist.m3u8
+https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=9818453201921378000
+https://video05.logicahost.com.br/tvmais01/tvmais01/chunklist.m3u8
+https://tv02.zas.media:1936/tvfuturo/tvfuturo/chunklist.m3u8
