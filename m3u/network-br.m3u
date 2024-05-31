@@ -211,6 +211,9 @@ https://stmv6.voxtvhd.com.br/cinebrasil/cinebrasil/chunklist.m3u8?#/TV Cine Bras
 #EXTINF:-1 tvg-id="TVSBT.br" tvg-logo="https://i.imgur.com/jC388aq.png" group-title="General",TV SBT SAT
 https://redek-dp.github.io/streaming/m3u/serv/live/sbt.m3u8?#/TV SBT SAT
 
+#EXTINF:-1 tvg-id="LOADINGTV.br" tvg-logo="https://i.imgur.com/0cttH0W.png" group-title="General",TV LOADING
+https://stmv1.srvif.com/loadingtv/loadingtv/chunklist.m3u8?#/TV LOADING
+
 #EXTINF:-1 tvg-id="VILATV.br" tvg-logo="https://i.imgur.com/f5S8vuA.png" group-title="General",TV VILA
 https://streamserver.streamingdevideo.com.br/8072/8072/chunklist.m3u8?#/TV VILA
 
