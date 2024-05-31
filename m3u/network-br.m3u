@@ -223,6 +223,9 @@ https://streamserver.streamingdevideo.com.br/8072/8072/chunklist.m3u8?#/TV VILA
 #EXTINF:-1 tvg-id="SICPT.br" tvg-logo="https://i.imgur.com/jAqKbkH.png" group-title="General",TV SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8?#/TV SIC
 
+#EXTINF:-1 tvg-id="CARIOCAINTER.br" tvg-logo="https://i.imgur.com/gCIZYIT.png" group-title="General",TV CARIOCA INTER
+https://a.cdni.live/tvcarioca/tvcarioca/chunklist.m3u8?#/TV CARIOCA INTER
+
 
 #EXTINF:-1 tvg-id="TVmarketguide.br" tvg-logo="https://i.imgur.com/akDkLAk.png" group-title="General",TV Market Guide
 https://video01.soultv.com.br/tvmarketguide/tvmarketguide/playlist.m3u8?#/TV Market Guide
