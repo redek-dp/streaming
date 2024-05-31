@@ -211,23 +211,26 @@ https://stmv6.voxtvhd.com.br/cinebrasil/cinebrasil/chunklist.m3u8?#/TV Cine Bras
 #EXTINF:-1 tvg-id="TVSBT.br" tvg-logo="https://i.imgur.com/jC388aq.png" group-title="General",TV SBT SAT
 https://redek-dp.github.io/streaming/m3u/serv/live/sbt.m3u8?#/TV SBT SAT
 
-#EXTINF:-1 tvg-id="LOADINGTV.br" tvg-logo="https://i.imgur.com/0cttH0W.png" group-title="General",TV LOADING
+#EXTINF:-1 tvg-id="LOADINGTV.br" tvg-logo="https://i.imgur.com/0cttH0W.png" group-title="Animation",TV LOADING
 https://stmv1.srvif.com/loadingtv/loadingtv/chunklist.m3u8?#/TV LOADING
 
-#EXTINF:-1 tvg-id="OTAKUSIGN.br" tvg-logo="https://i.imgur.com/M4OltmW.png" group-title="General",TV OTAKU SIGN
+#EXTINF:-1 tvg-id="OTAKUSIGN.br" tvg-logo="https://i.imgur.com/M4OltmW.png" group-title="Animation",TV OTAKU SIGN
 https://stmv1.srvif.com/otaku/otaku/chunklist.m3u8?#/TV OTAKU SIGN
 
 #EXTINF:-1 tvg-id="VILATV.br" tvg-logo="https://i.imgur.com/f5S8vuA.png" group-title="General",TV VILA
 https://streamserver.streamingdevideo.com.br/8072/8072/chunklist.m3u8?#/TV VILA
 
-#EXTINF:-1 tvg-id="SICPT.br" tvg-logo="https://i.imgur.com/jAqKbkH.png" group-title="General",TV SIC
+#EXTINF:-1 tvg-id="SICPT.br" tvg-logo="https://i.imgur.com/jAqKbkH.png" group-title="News",TV SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8?#/TV SIC
 
 #EXTINF:-1 tvg-id="CARIOCAINTER.br" tvg-logo="https://i.imgur.com/gCIZYIT.png" group-title="General",TV CARIOCA INTER
 https://a.cdni.live/tvcarioca/tvcarioca/chunklist.m3u8?#/TV CARIOCA INTER
 
-#EXTINF:-1 tvg-id="NATURETIME.br" tvg-logo="https://i.imgur.com/rAcn7zc.png" group-title="General",TV NATURE TIME
+#EXTINF:-1 tvg-id="NATURETIME.br" tvg-logo="https://i.imgur.com/rAcn7zc.png" group-title="Documentary",TV NATURE TIME
 https://redek-dp.github.io/streaming/m3u/serv/live/naturetime.m3u8?#/TV NATURE TIME
+
+#EXTINF:-1 tvg-id="CANALCURTA.br" tvg-logo="https://i.imgur.com/8G9jQ7W.png" group-title="Documentary",TV CANAL CURTA!
+https://video01.logicahost.com.br/canalcurta/canalcurta/chunklist.m3u8?#/TV CANAL CURTA!
 
 
 #EXTINF:-1 tvg-id="TVmarketguide.br" tvg-logo="https://i.imgur.com/akDkLAk.png" group-title="General",TV Market Guide
