@@ -468,7 +468,7 @@ https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8?#/TV do Povo
 #EXTINF:-1 tvg-id="TVERS.br" tvg-logo="https://i.imgur.com/MQ6lJpS.png" group-title="Culture",TV TVE RS
 https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8?#/TV TVE RS
 
-#EXTINF:-1 tvg-id="TVFuturo.br" tvg-logo="https://i.imgur.com/xonrNBf.png" group-title="General",TV Futuro
+#EXTINF:-1 tvg-id="TVFuturo.br" tvg-logo="https://i.imgur.com/WolQiaQ.png" group-title="General",TV Futuro
 https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8?#/TV Futuro
 
 #EXTINF:-1 tvg-id="TVGalegaBlumenau.br" tvg-logo="https://i.imgur.com/xwfxS9N.png" group-title="General",TV Galega Blumenau
