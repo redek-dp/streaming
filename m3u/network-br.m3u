@@ -247,7 +247,7 @@ https://redek-dp.github.io/streaming/m3u/serv/live/naturetime.m3u8?#/TV NATURE T
 #EXTINF:-1 tvg-id="CANALCURTA.br" tvg-logo="https://i.imgur.com/8G9jQ7W.png" group-title="Documentary",TV CANAL CURTA!
 https://video01.logicahost.com.br/canalcurta/canalcurta/chunklist.m3u8?#/TV CANAL CURTA!
 
-#EXTINF:-1 tvg-id="GLNTV.br" tvg-logo="https://i.imgur.com/1jvg4QM.png" group-title="Documentary",TV GLNTV
+#EXTINF:-1 tvg-id="GLNTV.br" tvg-logo="https://i.imgur.com/1jvg4QM.png" group-title="Movie",TV GLNTV
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist.m3u8?#/TV GLNTV
 
 
