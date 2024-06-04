@@ -32,7 +32,7 @@ https://video07.logicahost.com.br/redebrasil/redebrasil/chunklist.m3u8?#/TV Rede
 
 
 #EXTINF:-1 tvg-id="Radio.DecomStudio.br" tvg-logo="https://i.imgur.com/w1EgMgf.png" group-title="radio",Radio DecomStudio
-https://cloud1.cdnseguro.com:2136/,.mp3?#/Radio DecomStudio
+https://redek-dp.github.io/streaming/m3u/serv/live/decomtvradio.m3u8?#/Radio DecomStudio
 
 
 #EXTINF:-1 tvg-id="TVBrasil.br" tvg-logo="https://i.imgur.com/x0Zo3Gw.png" group-title="Entertainment",TV Brasil
