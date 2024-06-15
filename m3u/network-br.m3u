@@ -275,11 +275,15 @@ https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8?#/TV Nova Ag
 
 
 
+
 #EXTINF:-1 tvg-id="SICPT.br" tvg-logo="https://i.imgur.com/jAqKbkH.png" group-title="News",TV SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8?#/TV SIC
 
 #EXTINF:-1 tvg-id="Euronews.pt" tvg-logo="https://i.imgur.com/pLaIFyB.png" group-title="News",TV Euronews PT
 https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8?#/TV Euronews PT
+
+#EXTINF:-1 tvg-id="TVBRICSPortuguese.br" tvg-logo="https://i.imgur.com/TfbokAw.png" group-title="News",TV BRICS
+https://redek-dp.github.io/streaming/m3u/serv/live/BRICS.m3u8?#/TV BRICS
 
 #EXTINF:-1 tvg-id="PIXTV.br" tvg-logo="https://i.imgur.com/nlEBerz.png" group-title="News",TV PIXTV
 https://mpix05.tmwpix.com:6516/pix/pixtv_hi.m3u8?#/TV PIXTV
@@ -455,17 +459,6 @@ https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8?#/TV Aldeia
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8?#/TV Alternativa
 
 
-#EXTINF:-1 tvg-id="TVAssembleiaCeara.br" tvg-logo="https://i.imgur.com/UPa1tjs.png" group-title="Legislative",TV Assembleia Ceara
-https://jjn5dkk9bd.zoeweb.tv/z404-live/stream/playlist.m3u8?#/TV Assembleia Ceara
-
-#EXTINF:-1 tvg-id="TVAssembleiaMatoGrosso.br" tvg-logo="https://i.imgur.com/BtkX8kg.png" group-title="Legislative",TV Assembleia Mato Grosso
-https://streaming.al.mt.gov.br/test/index.m3u8?#/TV Assembleia Mato Grosso
-
-#EXTINF:-1 tvg-id="TVBEJoinville.br" tvg-logo="https://i.imgur.com/zUpWcUN.png" group-title="Culture",TV BE Joinville
-https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8?#/TV BE Joinville
-
-#EXTINF:-1 tvg-id="TVBRICSPortuguese.br" tvg-logo="https://i.imgur.com/TfbokAw.png" group-title="General",TV BRICS
-https://redek-dp.github.io/streaming/m3u/serv/live/BRICS.m3u8?#/TV BRICS
 
 #EXTINF:-1 tvg-id="TVCamara.br" tvg-logo="https://i.imgur.com/Sdou1Ab.png" group-title="Legislative",TV Camara 1
 https://stream3.camara.gov.br/tv1/manifest.m3u8?#/TV Camara 1
@@ -475,6 +468,16 @@ https://stream3.camara.gov.br/tv2/manifest.m3u8?#/TV Camara 2
 
 #EXTINF:-1 tvg-id="TVCamaradeSaoPaulo.br" tvg-logo="https://i.imgur.com/Ubi6CPf.png" group-title="Legislative",TV Camara SP
 https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8?#/TV Camara SP
+
+#EXTINF:-1 tvg-id="TVAssembleiaCeara.br" tvg-logo="https://i.imgur.com/UPa1tjs.png" group-title="Legislative",TV Assembleia Ceara
+https://jjn5dkk9bd.zoeweb.tv/z404-live/stream/playlist.m3u8?#/TV Assembleia Ceara
+
+#EXTINF:-1 tvg-id="TVAssembleiaMatoGrosso.br" tvg-logo="https://i.imgur.com/BtkX8kg.png" group-title="Legislative",TV Assembleia Mato Grosso
+https://streaming.al.mt.gov.br/test/index.m3u8?#/TV Assembleia Mato Grosso
+
+
+#EXTINF:-1 tvg-id="TVBEJoinville.br" tvg-logo="https://i.imgur.com/zUpWcUN.png" group-title="Culture",TV BE Joinville
+https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8?#/TV BE Joinville
 
 #EXTINF:-1 tvg-id="TVCandides.br" tvg-logo="https://i.imgur.com/evKq5ze.png" group-title="General",TV Candides
 https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8?#/TV Candides
