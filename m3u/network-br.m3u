@@ -389,9 +389,6 @@ https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8?#/TV No
 #EXTINF:-1 tvg-id="NuevoTiempo.br" tvg-logo="https://i.imgur.com/ud4pLuH.png" group-title="Religious",TV Nuevo Tiempo
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8?#/TV Nuevo Tiempo
 
-#EXTINF:-1 tvg-id="PeruChannel.br" tvg-logo="https://i.imgur.com/01KEiEp.png" group-title="General",TV Peru Channel
-https://a.cdni.live/peruchanel/peruchanel/playlist.m3u8?#/TV Peru Channel
-
 #EXTINF:-1 tvg-id="band.RBATV.br" tvg-logo="https://i.imgur.com/ZWFxlU1.png" group-title="General",TV RBATV
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?#/TV RBATV
 
