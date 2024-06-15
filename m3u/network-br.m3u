@@ -141,17 +141,19 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8?#/TV MyTime Movie 
 #EXTINF:-1 tvg-id="GrjngoFilmesFaroeste.br" tvg-logo="https://i.imgur.com/0x8mThP.png" group-title="Filmes",TV Grjngo Filmes De Faroeste
 https://amogonetworx-grjngo-2-eu.plex.wurl.tv/playlist.m3u8?#/TV Grjngo Filmes De Faroeste
 
-#EXTINF:-1 tvg-id="TVComediaBrazil.br" tvg-logo="https://i.imgur.com/vfxUrI2.png" group-title="Comedy",TV Comedia Brazil
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8?#/TV Comedia Brazil
-
 #EXTINF:-1 tvg-id="WeatherSpy.br" tvg-logo="https://i.imgur.com/yHUUIIz.png" group-title="Weather",TV WeatherSpy BR
 https://jukin-weatherspy-2-br.samsung.wurl.tv/playlist.m3u8?#/TV WeatherSpy BR
+
 
 #EXTINF:-1 tvg-id="FailArmy.BR" tvg-logo="https://i.imgur.com/2Pe548t.png" group-title="Comedy",TV FailArmy BR
 https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8?#/TV FailArmy BR
 
+#EXTINF:-1 tvg-id="TVComediaBrazil.br" tvg-logo="https://i.imgur.com/vfxUrI2.png" group-title="Comedy",TV Comedia Brazil
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8?#/TV Comedia Brazil
+
 #EXTINF:-1 tvg-id="peopleareAwesome.br" tvg-logo="https://i.imgur.com/Si9Dp5k.png" group-title="Comedy",TV People Are Awesome
 https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8?#/TV People Are Awesome
+
 
 #EXTINF:-1 tvg-id="P.BR" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="General",TV The Pet Collective BR
 https://the-pet-collective-international-br.samsung.wurl.tv/playlist.m3u8?#/TV The Pet Collective BR
