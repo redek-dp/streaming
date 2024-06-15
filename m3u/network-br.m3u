@@ -224,10 +224,6 @@ https://video01.soultv.com.br/internacional/internacional/playlist.m3u8?#/TV Can
 https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8?#/TV PONTV
 
 
-#EXTINF:-1 tvg-id="RedeTVTocantins.br" tvg-logo="https://i.imgur.com/VKB6q8a.png" group-title="General",TV RedeTV! Tocantins
-https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8?#/TV RedeTV! Tocantins
-
-
 
 #EXTINF:-1 tvg-id="TVLATINASAT.br" tvg-logo="https://i.imgur.com/wcJMjxt.png" group-title="Movies",TV LATINASAT
 https://stream.ichibantv.com:3328/hybrid/play.m3u8?#/TV LATINASAT
@@ -256,6 +252,9 @@ https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8?#/TV Classique Weste
 
 #EXTINF:-1 tvg-id="TVSBT.br" tvg-logo="https://i.imgur.com/jC388aq.png" group-title="General",TV SBT SAT
 https://redek-dp.github.io/streaming/m3u/serv/live/sbt.m3u8?#/TV SBT SAT
+
+#EXTINF:-1 tvg-id="RedeTVTocantins.br" tvg-logo="https://i.imgur.com/VKB6q8a.png" group-title="General",TV RedeTV! Tocantins
+https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8?#/TV RedeTV! Tocantins
 
 #EXTINF:-1 tvg-id="VILATV.br" tvg-logo="https://i.imgur.com/f5S8vuA.png" group-title="General",TV VILA
 https://streamserver.streamingdevideo.com.br/8072/8072/chunklist.m3u8?#/TV VILA
