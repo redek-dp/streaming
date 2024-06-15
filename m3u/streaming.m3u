@@ -451,9 +451,6 @@ https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8?#/TV AMC Absolute Re
 #EXTINF:-1 tvg-id="AllWeddingsWEtv.us" tvg-logo="https://i.imgur.com/OjLCew5.png" group-title="General",TV AMC All Weddings
 https://d85lu9l3axp7b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49b4g6287mnav/playlist.m3u8?#/TV AMC All Weddings
 
-#EXTINF:-1 tvg-id="AgroTV.pe" tvg-logo="https://i.imgur.com/0rwsICg.png" group-title="General",TV Agro
-https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8?#/TV Agro
-
 #EXTINF:-1 tvg-id="1AlmereTV.nl" tvg-logo="https://i.imgur.com/XfkbTrU.png" group-title="General",TV 1Almere
 https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8?#/TV 1Almere
 
@@ -469,9 +466,6 @@ https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8?#/TV AMG
 #EXTINF:-1 tvg-id="3AW.au" tvg-logo="https://i.imgur.com/Z4MdB0S.png" group-title="General",TV 3AW Melbourne
 https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8?#/TV 3AW Melbourne
 
-#EXTINF:-1 tvg-id="3TamilTV.au" tvg-logo="https://i.imgur.com/R43HJBp.png" group-title="Entertainment",TV 3 Tamil TV
-https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8?#/TV 3 Tamil TV
-
 #EXTINF:-1 tvg-id="4UTV.tr" tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Entertainment",TV 4U TV
 https://hls.4utv.live/hls/stream.m3u8?#/TV 4U TV
 
@@ -483,9 +477,6 @@ https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8?#/TV Bizzarro 
 
 #EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-logo="https://i.imgur.com/ugPo6ca.png" group-title="Movies",TV Bollywood Classic
 https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8?#/TV Bollywood Classic
-
-#EXTINF:-1 tvg-id="BollywoodHD.ro" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="Movies",TV Bollywood HD
-https://shls-live-ak.akamaized.net/out/v1/fb7b452f58f2412a9ae26b22dd30bd6b/index.m3u8?#/TV Bollywood HD
 
 #EXTINF:-1 tvg-id="Canal7TeleValencia.es" tvg-logo="https://i.imgur.com/ILfXDRs.png" group-title="General",TV 7 TeleValencia
 https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8?#/TV 7 TeleValencia
@@ -511,21 +502,12 @@ https://lnc-cheddar.tubi.video/index.m3u8?#/TV Cheddar
 #EXTINF:-1 tvg-id="Cheddar.us" tvg-logo="https://i.imgur.com/r6J2HbL.png" group-title="General",TV Cheddar
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcheddar/CDN/playlist.m3u8?#/TV Cheddar
 
-#EXTINF:-1 tvg-id="Crime360.us" tvg-logo="https://i.imgur.com/IjtaG1m.png" group-title="Documentary",TV Crime 360
-https://c9747bb6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19DcmltZTM2MF9ITFM/playlist.m3u8?#/TV Crime 360
-
-#EXTINF:-1 tvg-id="Crime.and.Evidence" tvg-logo="https://i.imgur.com/hDWZhC4.png" group-title="Documentary",TV Crime and Evidence
-https://afxporigin.telemedia.co.za/afxp/abr_crimeandevidence/playlist.m3u8?#/TV Crime and Evidence
-
 #EXTINF:-1 tvg-id="CrimeHunters" tvg-logo="https://i.imgur.com/2iMqzKK.png" group-title="Documentary",TV Crime Hunters
 https://amg01201-cinedigmenterta-crimehunters-cineverse-cnqvb.amagi.tv/playlist/amg01201-cinedigmenterta-crimehunters-cineverse/playlist.m3u8?#/TV Crime Hunters
 
 
 #EXTINF:-1 tvg-id="TVFOX" tvg-logo="https://i.imgur.com/9uSvpL2.png" group-title="General",TV Fox HD
 https://stream01.vnet.am/Fox/mono.m3u8?#/TV Fox HD
-
-#EXTINF:-1 tvg-id="TVFOX" tvg-logo="https://i.imgur.com/9uSvpL2.png" group-title="General",TV Fox HD
-https://ucdn.beetv.kz/btv/live/hls/000004472.m3u8?#/TV Fox HD
 
 #EXTINF:-1 tvg-id="WJBKDT1.us" tvg-logo="https://i.imgur.com/9uSvpL2.png" group-title="News",TV FOX 2 Detroit
 https://lnc-wjbk.tubi.video/index.m3u8?#/TV FOX 2 Detroit
@@ -581,20 +563,11 @@ https://lnc-wofl.tubi.video/index.m3u8?#/TV FOX 35 Orlando FL
 #EXTINF:-1 tvg-id="WPMTDT1.us" tvg-logo="https://i.imgur.com/9uSvpL2.png" group-title="General",TV Fox 43 Harrisburg PA
 https://livevideo01.fox43.com/hls/live/2011656/elvs/live.m3u8?#/TV Fox 43 Harrisburg PA
 
-#EXTINF:-1 tvg-id="WZDXDT1.us" tvg-logo="https://i.imgur.com/E8nKknc.png" group-title="General",TV Fox 54.1 Huntsville
+#EXTINF:-1 tvg-id="WZDXDT1.us" tvg-logo="https://i.imgur.com/9uSvpL2.png" group-title="General",TV Fox 54.1 Huntsville
 https://livevideo01.rocketcitynow.com/hls/live/2011659/elvs/live.m3u8?#/TV Fox 54.1 Huntsville
 
 #EXTINF:-1 tvg-id="WTICDT1.us" tvg-logo="https://i.imgur.com/9uSvpL2.png" group-title="General",TV Fox 61 News Hartford CT 
 https://livevideo01.fox61.com/hls/live/2011658/elvs/live.m3u8?#/TV Fox 61 News Hartford CT 
-
-#EXTINF:-1 tvg-id="WWCPDT1.us" tvg-logo="https://i.imgur.com/9uSvpL2.png" group-title="General",TV FOX Altoona PA
-http://trn03.tulix.tv/teleup-fox-wpmt-new1/playlist.m3u8?#/TV FOX Altoona PA
-
-#EXTINF:-1 tvg-id="WAGADT1.us" tvg-logo="https://i.imgur.com/9uSvpL2.png" group-title="News",TV FOX Atlanta-GA
-https://trn10.tulix.tv/WAGA-FOX/index.m3u8?#/TV FOX Atlanta-GA
-
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://i.imgur.com/9uSvpL2.png" group-title="News",TV Fox News Channel
-http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8?#/TV Fox News Channel
 
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-logo="https://i.imgur.com/9uSvpL2.png" group-title="News",TV FOX News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8?#/TV FOX News Now
@@ -608,8 +581,6 @@ https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8?#/TV Fox Soul
 
 
 
-#EXTINF:-1 tvg-id="networkFM.us" tvg-logo="https://i.imgur.com/CQ09ak1.png" group-title="Movies",TV network Movies 1
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=138#/TV network Movies 1
 
 #EXTINF:-1 tvg-id="networkFM.us" tvg-logo="https://i.imgur.com/CQ09ak1.png" group-title="Movies",TV network Movies 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=166#/TV network Movies 2
@@ -638,11 +609,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=147#/TV network REALIT
 #EXTINF:-1 tvg-id="network.us" tvg-logo="https://i.imgur.com/xazwnkT.png" group-title="General",TV network CONSTRUT
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=151#/TV network CONSTRUT
 
-#EXTINF:-1 tvg-id="network.us" tvg-logo="https://i.imgur.com/xazwnkT.png" group-title="General",TV network ADROTOT 1
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=154#/TV network ADROTOT 1
 
-#EXTINF:-1 tvg-id="network.us" tvg-logo="https://i.imgur.com/xazwnkT.png" group-title="General",TV network ADROTOT 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=169#/TV network ADROTOT 2
 
 #EXTINF:-1 tvg-id="network.us" tvg-logo="https://i.imgur.com/xazwnkT.png" group-title="General",TV network PRANK MY PET!
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=264#/TV network PRANK MY PET!
@@ -699,9 +666,6 @@ https://lnc-wpbf.tubi.video/playlist.m3u8?#/TV ABC US West Palm Beach FL
 
 #EXTINF:-1 tvg-id="abc.US" tvg-logo="https://i.imgur.com/m4N8AhN.png" group-title="News",TV ABC US Tallahassee FL
 https://lnc-wtxl.tubi.video/playlist.m3u8?#/TV ABC US Tallahassee FL
-
-#EXTINF:-1 tvg-id="abc.US" tvg-logo="https://i.imgur.com/m4N8AhN.png" group-title="News",TV ABC US Tampa Bay FL
-https://lnc-wfts2.tubi.video/playlist.m3u8?#/TV ABC US Tampa Bay FL
 
 #EXTINF:-1 tvg-id="abc.US" tvg-logo="https://i.imgur.com/m4N8AhN.png" group-title="News",TV ABC US Pittsburg PA
 https://lnc-wtae.tubi.video/playlist.m3u8?#/TV ABC US Pittsburg PA
