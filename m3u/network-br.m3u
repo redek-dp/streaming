@@ -197,11 +197,9 @@ https://w2.manasat.com/kkids/smil:kkids.smil/chunklist.m3u8?#/TV KURIAKOS KIDS
 #EXTINF:-1 tvg-id="KIDMAIS.br" tvg-logo="https://i.imgur.com/PjrLapD.png" group-title="Kids",TV KIDMAIS
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist.m3u8?#/TV KIDMAIS
 
+
 #EXTINF:-1 tvg-id="TNTSportsBrazil.br" tvg-logo="https://i.imgur.com/88CbPLt.png" group-title="Sports",TV TNT Sports Brasil
 https://video01.soultv.com.br/popbola/popbola/playlist.m3u8?#/TV TNT Sports Brasil
-
-#EXTINF:-1 tvg-id="RedeTVTocantins.br" tvg-logo="https://i.imgur.com/VKB6q8a.png" group-title="General",TV RedeTV! Tocantins
-https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8?#/TV RedeTV! Tocantins
 
 #EXTINF:-1 tvg-id="TVPampa.br" tvg-logo="https://i.imgur.com/VKB6q8a.png" group-title="General",TV Rede TV! Pampa
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8?#/TV Rede TV! Pampa
@@ -212,9 +210,13 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8?#/TV All Sports
 #EXTINF:-1 tvg-id="CanaldoInter.br" tvg-logo="https://i.imgur.com/TQFWEIS.png" group-title="Sports",TV Canal do Inter
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8?#/TV Canal do Inter
 
+#EXTINF:-1 tvg-id="TVPONTV.br" tvg-logo="https://i.imgur.com/97arZx5.png" group-title="Sports",TV PONTV
+https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8?#/TV PONTV
 
-#EXTINF:-1 tvg-id="PIXTV.br" tvg-logo="https://i.imgur.com/nlEBerz.png" group-title="News",TV PIXTV
-https://mpix05.tmwpix.com:6516/pix/pixtv_hi.m3u8?#/TV PIXTV
+
+#EXTINF:-1 tvg-id="RedeTVTocantins.br" tvg-logo="https://i.imgur.com/VKB6q8a.png" group-title="General",TV RedeTV! Tocantins
+https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8?#/TV RedeTV! Tocantins
+
 
 #EXTINF:-1 tvg-id="TVLATINASAT.br" tvg-logo="https://i.imgur.com/wcJMjxt.png" group-title="Movies",TV LATINASAT
 https://stream.ichibantv.com:3328/hybrid/play.m3u8?#/TV LATINASAT
@@ -240,8 +242,6 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8?#/TV Anime
 #EXTINF:-1 tvg-id="VILATV.br" tvg-logo="https://i.imgur.com/f5S8vuA.png" group-title="General",TV VILA
 https://streamserver.streamingdevideo.com.br/8072/8072/chunklist.m3u8?#/TV VILA
 
-#EXTINF:-1 tvg-id="SICPT.br" tvg-logo="https://i.imgur.com/jAqKbkH.png" group-title="News",TV SIC
-https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8?#/TV SIC
 
 #EXTINF:-1 tvg-id="CARIOCAINTER.br" tvg-logo="https://i.imgur.com/gCIZYIT.png" group-title="General",TV CARIOCA INTER
 https://a.cdni.live/tvcarioca/tvcarioca/chunklist.m3u8?#/TV CARIOCA INTER
@@ -256,17 +256,41 @@ https://video01.logicahost.com.br/canalcurta/canalcurta/chunklist.m3u8?#/TV CANA
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist.m3u8?#/TV GLNTV
 
 
+
+#EXTINF:-1 tvg-id="SICPT.br" tvg-logo="https://i.imgur.com/jAqKbkH.png" group-title="News",TV SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8?#/TV SIC
+
+#EXTINF:-1 tvg-id="Euronews.pt" tvg-logo="https://i.imgur.com/pLaIFyB.png" group-title="News",TV Euronews PT
+https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8?#/TV Euronews PT
+
+#EXTINF:-1 tvg-id="PIXTV.br" tvg-logo="https://i.imgur.com/nlEBerz.png" group-title="News",TV PIXTV
+https://mpix05.tmwpix.com:6516/pix/pixtv_hi.m3u8?#/TV PIXTV
+
+#EXTINF:-1 tvg-id="TV4POR4.br" tvg-logo="https://i.imgur.com/lcbNita.png" group-title="News",TV 4POR4
+https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8?#/TV 4POR4
+
+#EXTINF:-1 tvg-id="TVAFolha.br" tvg-logo="https://i.imgur.com/I7XGMhj.png" group-title="News",TV A Folha
+https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8?#/TV A Folha
+
+#EXTINF:-1 tvg-id="TVdoPovo.br" tvg-logo="https://i.imgur.com/58EQ5qX.png" group-title="News",TV do Povo
+https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8?#/TV do Povo
+
+#EXTINF:-1 tvg-id="TVideoNews.br" tvg-logo="https://i.imgur.com/vstHOYx.png" group-title="News",TV VideoNews
+https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8?#/TV VideoNews
+
+#EXTINF:-1 tvg-id="CanalMetropolitanodeNoticias.br" tvg-logo="https://i.imgur.com/G0x4xqa.png" group-title="News",TV Metropolitano
+https://video01.logicahost.com.br/redebemtv/redebemtv/playlist.m3u8?#/TV Metropolitano
+
+#EXTINF:-1 tvg-id="Canal38.br" tvg-logo="https://i.imgur.com/co7TCWC.png" group-title="News",TV Canal 38
+https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8?#/TV Canal 38
+
+
+
 #EXTINF:-1 tvg-id="TVmarketguide.br" tvg-logo="https://i.imgur.com/akDkLAk.png" group-title="General",TV Market Guide
 https://video01.soultv.com.br/tvmarketguide/tvmarketguide/playlist.m3u8?#/TV Market Guide
 
 #EXTINF:-1 tvg-id="TVbemmelhor.br" tvg-logo="https://i.imgur.com/2rwQl7H.png" group-title="General",TV Bem Melhor
 https://video01.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8?#/TV Bem Melhor
-
-#EXTINF:-1 tvg-id="TVPONTV.br" tvg-logo="https://i.imgur.com/97arZx5.png" group-title="sport",TV PONTV
-https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8?#/TV PONTV
-
-#EXTINF:-1 tvg-id="TV4POR4.br" tvg-logo="https://i.imgur.com/lcbNita.png" group-title="News",TV 4POR4
-https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8?#/TV 4POR4
 
 #EXTINF:-1 tvg-id="TVsoulcine.br" tvg-logo="https://i.imgur.com/ilH1Owm.png" group-title="Movie",TV SoulCine
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8?#/TV SoulCine
@@ -320,14 +344,9 @@ https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8?#/TV ConecTV Brasi
 #EXTINF:-1 tvg-id="BoasNovas.br" tvg-logo="https://i.imgur.com/ZqhizdP.png" group-title="General",TV Boas Novas
 https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8?#/TV Boas Novas
 
-#EXTINF:-1 tvg-id="Canal38.br" tvg-logo="https://i.imgur.com/co7TCWC.png" group-title="News",TV Canal 38
-https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8?#/TV Canal 38
-
 #EXTINF:-1 tvg-id="CanaldoCriador.br" tvg-logo="https://i.imgur.com/k29So6X.png" group-title="Outdoor",TV Canal do Criador
 https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8?#/TV Canal do Criador
 
-#EXTINF:-1 tvg-id="CanalMetropolitanodeNoticias.br" tvg-logo="https://i.imgur.com/G0x4xqa.png" group-title="News",TV Canal Metropolitano de Noticias
-https://video01.logicahost.com.br/redebemtv/redebemtv/playlist.m3u8?#/TV Canal Metropolitano de Noticias
 
 #EXTINF:-1 tvg-id="CanalRicos.br" tvg-logo="https://i.imgur.com/hs2YVJ3.png" group-title="General",TV Canal Ricos
 https://a.cdni.live/tvcanalricos/tvcanalricos/chunklist_w1586920294.m3u8?#/TV Canal Ricos
@@ -426,9 +445,6 @@ https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8?#/TV Tela Viva
 #EXTINF:-1 tvg-id="TVAberta.br" tvg-logo="https://i.imgur.com/SCz53uO.png" group-title="General",TV Aberta
 https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8?#/TV Aberta
 
-#EXTINF:-1 tvg-id="TVAFolha.br" tvg-logo="https://i.imgur.com/I7XGMhj.png" group-title="News",TV A Folha
-https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8?#/TV A Folha
-
 #EXTINF:-1 tvg-id="TVAldeia.br" tvg-logo="https://i.imgur.com/rsfnv4Z.png" group-title="General",TV Aldeia
 https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8?#/TV Aldeia
 
@@ -481,8 +497,6 @@ https://stmv2.voxtvhd.com.br/tvcordeiro/tvcordeiro/playlist.m3u8?#/TV Cordeiro
 #EXTINF:-1 tvg-id="TVCuruca.br" tvg-logo="https://i.imgur.com/JdCKNZ4.png" group-title="Entertainment",TV Curuca
 https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8?#/TV Curuca
 
-#EXTINF:-1 tvg-id="TVdoPovo.br" tvg-logo="https://i.imgur.com/58EQ5qX.png" group-title="News",TV do Povo
-https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8?#/TV do Povo
 
 #EXTINF:-1 tvg-id="TVERS.br" tvg-logo="https://i.imgur.com/MQ6lJpS.png" group-title="Culture",TV TVE RS
 https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8?#/TV TVE RS
@@ -495,9 +509,6 @@ https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8?#/TV Galeg
 
 #EXTINF:-1 tvg-id="TVGuara.br" tvg-logo="https://i.imgur.com/8PErNBT.png" group-title="General",TV Guara
 https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8?#/TV Guara
-
-#EXTINF:-1 tvg-id="TVideoNews.br" tvg-logo="https://i.imgur.com/vstHOYx.png" group-title="News",TV VideoNews
-https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8?#/TV VideoNews
 
 #EXTINF:-1 tvg-id="TVInterlagos.br" tvg-logo="https://i.imgur.com/iuQVDpq.jpg" group-title="General",TV Interlagos
 https://v8.ciclano.io:1443/tvinterlagos/_definst_/tvinterlagos/playlist.m3u8?#/TV Interlagos
@@ -567,7 +578,4 @@ https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/playlist.m
 
 #EXTINF:-1 tvg-id="Futura.br" tvg-logo="https://i.postimg.cc/Hng0W5Cy/300px-Canal-Futura.png" group-title="Education",TV Futura
 https://tv02.zas.media:1936/tvfuturo/tvfuturo/chunklist_w1813935461.m3u8?#/TV Futura
-
-#EXTINF:-1 tvg-id="Euronews.pt" tvg-logo="https://i.imgur.com/pLaIFyB.png" group-title="News",TV Euronews PT
-https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8?#/TV Euronews PT
 
