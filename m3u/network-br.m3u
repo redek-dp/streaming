@@ -198,6 +198,16 @@ https://w2.manasat.com/kkids/smil:kkids.smil/chunklist.m3u8?#/TV KURIAKOS KIDS
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist.m3u8?#/TV KIDMAIS
 
 
+#EXTINF:-1 tvg-id="LOADINGTV.br" tvg-logo="https://i.imgur.com/0cttH0W.png" group-title="Animation",TV LOADING
+https://stmv1.srvif.com/loadingtv/loadingtv/chunklist.m3u8?#/TV LOADING
+
+#EXTINF:-1 tvg-id="OTAKUSIGN.br" tvg-logo="https://i.imgur.com/M4OltmW.png" group-title="Animation",TV OTAKU SIGN
+https://stmv1.srvif.com/otaku/otaku/chunklist.m3u8?#/TV OTAKU SIGN
+
+#EXTINF:-1 tvg-id="AnimeTV.br" tvg-logo="https://i.imgur.com/mLV98kD.png" group-title="Animation",TV Anime
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8?#/TV Anime
+
+
 #EXTINF:-1 tvg-id="TNTSportsBrazil.br" tvg-logo="https://i.imgur.com/88CbPLt.png" group-title="Sports",TV TNT Sports Brasil
 https://video01.soultv.com.br/popbola/popbola/playlist.m3u8?#/TV TNT Sports Brasil
 
@@ -218,8 +228,12 @@ https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8?#/TV PONTV
 https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8?#/TV RedeTV! Tocantins
 
 
+
 #EXTINF:-1 tvg-id="TVLATINASAT.br" tvg-logo="https://i.imgur.com/wcJMjxt.png" group-title="Movies",TV LATINASAT
 https://stream.ichibantv.com:3328/hybrid/play.m3u8?#/TV LATINASAT
+
+#EXTINF:-1 tvg-id="TVsoulcine.br" tvg-logo="https://i.imgur.com/ilH1Owm.png" group-title="Movies",TV SoulCine
+https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8?#/TV SoulCine
 
 #EXTINF:-1 tvg-id="CARAVANAPLAY.br" tvg-logo="https://i.imgur.com/NuUSTci.png" group-title="Movies",TV CARAVANA PLAY
 https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/chunklist.m3u8?#/TV CARAVANA PLAY
@@ -227,24 +241,29 @@ https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/chunklist.m3u8?#/TV CARAVANA 
 #EXTINF:-1 tvg-id="CineBrasil.br" tvg-logo="https://i.imgur.com/yWMyVhP.png" group-title="Movies",TV Cine Brasil
 https://stmv6.voxtvhd.com.br/cinebrasil/cinebrasil/chunklist.m3u8?#/TV Cine Brasil
 
+#EXTINF:-1 tvg-id="GLNTV.br" tvg-logo="https://i.imgur.com/1jvg4QM.png" group-title="Movies",TV GLNTV
+https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist.m3u8?#/TV GLNTV
+
+#EXTINF:-1 tvg-id="ClassiqueTV.br" tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="Movies",TV Classique
+https://stmv1.srvif.com/classique/classique/playlist.m3u8?#/TV Classique
+
+#EXTINF:-1 tvg-id="TelaViva.br" tvg-logo="https://i.imgur.com/vcNo9Vj.png" group-title="Movies",TV Tela Viva
+https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8?#/TV Tela Viva
+
+#EXTINF:-1 tvg-id="ClassiqueTVWestern.br" tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="Movies",TV Classique Western
+https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8?#/TV Classique Western
+
+
 #EXTINF:-1 tvg-id="TVSBT.br" tvg-logo="https://i.imgur.com/jC388aq.png" group-title="General",TV SBT SAT
 https://redek-dp.github.io/streaming/m3u/serv/live/sbt.m3u8?#/TV SBT SAT
-
-#EXTINF:-1 tvg-id="LOADINGTV.br" tvg-logo="https://i.imgur.com/0cttH0W.png" group-title="Animation",TV LOADING
-https://stmv1.srvif.com/loadingtv/loadingtv/chunklist.m3u8?#/TV LOADING
-
-#EXTINF:-1 tvg-id="OTAKUSIGN.br" tvg-logo="https://i.imgur.com/M4OltmW.png" group-title="Animation",TV OTAKU SIGN
-https://stmv1.srvif.com/otaku/otaku/chunklist.m3u8?#/TV OTAKU SIGN
-
-#EXTINF:-1 tvg-id="AnimeTV.br" tvg-logo="https://i.imgur.com/mLV98kD.png" group-title="Animation",TV Anime
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8?#/TV Anime
 
 #EXTINF:-1 tvg-id="VILATV.br" tvg-logo="https://i.imgur.com/f5S8vuA.png" group-title="General",TV VILA
 https://streamserver.streamingdevideo.com.br/8072/8072/chunklist.m3u8?#/TV VILA
 
-
 #EXTINF:-1 tvg-id="CARIOCAINTER.br" tvg-logo="https://i.imgur.com/gCIZYIT.png" group-title="General",TV CARIOCA INTER
 https://a.cdni.live/tvcarioca/tvcarioca/chunklist.m3u8?#/TV CARIOCA INTER
+
+
 
 #EXTINF:-1 tvg-id="NATURETIME.br" tvg-logo="https://i.imgur.com/rAcn7zc.png" group-title="Documentary",TV NATURE TIME
 https://redek-dp.github.io/streaming/m3u/serv/live/naturetime.m3u8?#/TV NATURE TIME
@@ -252,8 +271,8 @@ https://redek-dp.github.io/streaming/m3u/serv/live/naturetime.m3u8?#/TV NATURE T
 #EXTINF:-1 tvg-id="CANALCURTA.br" tvg-logo="https://i.imgur.com/8G9jQ7W.png" group-title="Documentary",TV CANAL CURTA!
 https://video01.logicahost.com.br/canalcurta/canalcurta/chunklist.m3u8?#/TV CANAL CURTA!
 
-#EXTINF:-1 tvg-id="GLNTV.br" tvg-logo="https://i.imgur.com/1jvg4QM.png" group-title="Movie",TV GLNTV
-https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist.m3u8?#/TV GLNTV
+#EXTINF:-1 tvg-id="NovaTVAgrotour.br" tvg-logo="https://i.imgur.com/cgN2hfm.png" group-title="Documentary",TV Nova Agrotour
+https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8?#/TV Nova Agrotour
 
 
 
@@ -291,9 +310,6 @@ https://video01.soultv.com.br/tvmarketguide/tvmarketguide/playlist.m3u8?#/TV Mar
 
 #EXTINF:-1 tvg-id="TVbemmelhor.br" tvg-logo="https://i.imgur.com/2rwQl7H.png" group-title="General",TV Bem Melhor
 https://video01.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8?#/TV Bem Melhor
-
-#EXTINF:-1 tvg-id="TVsoulcine.br" tvg-logo="https://i.imgur.com/ilH1Owm.png" group-title="Movie",TV SoulCine
-https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8?#/TV SoulCine
 
 #EXTINF:-1 tvg-id="TVR.br" tvg-logo="https://i.imgur.com/ooW7vWX.png" group-title="General",TV R
 https://video01.soultv.com.br/tvr/tvr/playlist.m3u8?#/TV R
@@ -366,12 +382,6 @@ https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e
 #EXTINF:-1 tvg-id="ChromaTV.br" tvg-logo="https://i.imgur.com/SnaIMgj.png" group-title="Entertainment",TV Chroma
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8?#/TV Chroma
 
-#EXTINF:-1 tvg-id="ClassiqueTV.br" tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="Movies",TV Classique
-https://stmv1.srvif.com/classique/classique/playlist.m3u8?#/TV Classique
-
-#EXTINF:-1 tvg-id="ClassiqueTVWestern.br" tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="Movies",TV Classique Western
-https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8?#/TV Classique Western
-
 #EXTINF:-1 tvg-id="DemaisTV.br" tvg-logo="https://i.imgur.com/Md3xibE.png" group-title="General",TV Demais
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8?#/TV Demais
 
@@ -418,9 +428,6 @@ https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8?#/TV ISTV
 #EXTINF:-1 tvg-id="MKKWebTV.br" tvg-logo="https://i.imgur.com/A8Yhtid.png" group-title="General",TV MKK Web
 https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8?#/TV MKK Web
 
-#EXTINF:-1 tvg-id="NovaTVAgrotour.br" tvg-logo="https://i.imgur.com/cgN2hfm.png" group-title="Documentary",TV Nova Agrotour
-https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8?#/TV Nova Agrotour
-
 #EXTINF:-1 tvg-id="band.RBATV.br" tvg-logo="https://i.imgur.com/ZWFxlU1.png" group-title="General",TV RBATV
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?#/TV RBATV
 
@@ -438,9 +445,6 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8?#/TV Retro Cartoon
 
 #EXTINF:-1 tvg-id="SICTV.br" tvg-logo="https://i.imgur.com/mHxQyB2.png" group-title="General",TV SIC
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8?#/TV SIC
-
-#EXTINF:-1 tvg-id="TelaViva.br" tvg-logo="https://i.imgur.com/vcNo9Vj.png" group-title="Movies",TV Tela Viva
-https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8?#/TV Tela Viva
 
 #EXTINF:-1 tvg-id="TVAberta.br" tvg-logo="https://i.imgur.com/SCz53uO.png" group-title="General",TV Aberta
 https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8?#/TV Aberta
