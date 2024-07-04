@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Devseven.Tv" tvg-logo="https://i.imgur.com/AmewaLx.png" group-title="Kids",TV DevsevenTv
+https://redek-dp.github.io/streaming/dnetwork/playlist.m3u8?#/TV DevsevenTv
+
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",TV Euronews
+https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8?#/TV Euronews
+
+#EXTINF:-1 tvg-id="WNYWDT1.us" tvg-logo="https://i.imgur.com/9uSvpL2.png" group-title="General",TV FOX 5 New York NY
+https://lnc-wnyw.tubi.video/index.m3u8?#/TV FOX 5 New York NY
+
+#EXTINF:-1 tvg-id="abc.US" tvg-logo="https://i.imgur.com/m4N8AhN.png" group-title="News",TV ABC US Las Vegas NV
+https://lnc-ktnv.tubi.video/playlist.m3u8?#/TV ABC US Las Vegas NV
+
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="News",TV TRT World
+https://tv-trtworld.live.trt.com.tr/master.m3u8?#/TV TRT World
