@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="FailArmy.CA" tvg-logo="https://i.imgur.com/2Pe548t.png" group-title="Comedy",TV FailArmy CA
-https://failarmy-international-ca.samsung.wurl.tv/playlist.m3u8?#/TV FailArmy CA
+#EXTINF:-1 tvg-id="FailArmy.BR" tvg-logo="https://i.imgur.com/2Pe548t.png" group-title="Comedy",TV FailArmy BR
+https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8?#/TV FailArmy BR
 
 #EXTINF:-1 tvg-id="FailArmy.It" tvg-logo="https://i.imgur.com/t3IjyYJ.png" group-title="Comedy",TV Failarmy IT
 https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8?#/TV Failarmy IT
@@ -14,6 +14,18 @@ https://failarmy-international-nl.samsung.wurl.tv/playlist.m3u8?#/TV FailArmy NL
 
 #EXTINF:-1 tvg-id="FailArmy.SE" tvg-logo="https://i.imgur.com/2Pe548t.png" group-title="Comedy",TV FailArmy SE
 https://failarmy-international-se.samsung.wurl.tv/playlist.m3u8?#/TV FailArmy SE
+
+#EXTINF:-1 tvg-id="FailArmy.fr" tvg-logo="https://i.imgur.com/2Pe548t.png" group-title="Comedy",TV FailArmy FR
+https://failarmy-international-fr.samsung.wurl.tv/playlist.m3u8?#/TV FailArmy FR
+
+#EXTINF:-1 tvg-id="FailArmy.es" tvg-logo="https://i.imgur.com/2Pe548t.png" group-title="Comedy",TV FailArmy ES
+https://failarmy-international-es.samsung.wurl.tv/playlist.m3u8?#/TV FailArmy ES
+
+#EXTINF:-1 tvg-id="FailArmy.no" tvg-logo="https://i.imgur.com/2Pe548t.png" group-title="Comedy",TV FailArmy NO
+https://failarmy-international-no.samsung.wurl.tv/playlist.m3u8?#/TV FailArmy NO
+
+#EXTINF:-1 tvg-id="FailArmy.mx" tvg-logo="https://i.imgur.com/2Pe548t.png" group-title="Comedy",TV FailArmy MX
+https://failarmy-international-mx.samsung.wurl.tv/playlist.m3u8?#/TV FailArmy MX
 
 #EXTINF:-1 tvg-id="FailArmy.US" tvg-logo="https://i.imgur.com/2Pe548t.png" group-title="Comedy",TV FailArmy US
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/playlist.m3u8?#/TV FailArmy US
