@@ -38,9 +38,6 @@ https://cloud.cdnseguro.com:2443/,.mp3?#/Radio DecomStudio
 #EXTINF:-1 tvg-id="TVBrasil.br" tvg-logo="https://i.imgur.com/x0Zo3Gw.png" group-title="Entertainment",TV Brasil
 https://tvbrasil-stream.ebc.com.br/chunks.m3u8?#/TV Brasil
 
-#EXTINF:-1 tvg-id="TVBrasilOeste.br" tvg-logo="https://i.imgur.com/noqGfuy.png" group-title="General",TV Brasil Oeste
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/chunklist.m3u8?#/TV Brasil Oeste
-
 #EXTINF:-1 tvg-id="TVBrusque.br" tvg-logo="https://i.imgur.com/J2EAZPS.png" group-title="News",TV Brusque
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8?#/TV Brusque
 
@@ -188,7 +185,7 @@ https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8?#/TV Tooncast
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8?#/TV Jetson
 
 #EXTINF:-1 tvg-id="ToonGoggle.br" tvg-logo="https://i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle BR
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=274#/TV Toon Goggle BR
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=291#/TV Toon Goggle BR
 
 #EXTINF:-1 tvg-id="kkids.br" tvg-logo="https://i.imgur.com/awalOyU.png" group-title="Kids",TV KURIAKOS KIDS
 https://w2.manasat.com/kkids/smil:kkids.smil/chunklist.m3u8?#/TV KURIAKOS KIDS
@@ -284,8 +281,8 @@ https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8?#/TV Euro
 #EXTINF:-1 tvg-id="TVBRICSPortuguese.br" tvg-logo="https://i.imgur.com/TfbokAw.png" group-title="News",TV BRICS
 https://redek-dp.github.io/streaming/m3u/serv/live/BRICS.m3u8?#/TV BRICS
 
-#EXTINF:-1 tvg-id="PIXTV.br" tvg-logo="https://i.imgur.com/nlEBerz.png" group-title="News",TV PIXTV
-https://mpix05.tmwpix.com:6516/pix/pixtv_hi.m3u8?#/TV PIXTV
+#EXTINF:-1 tvg-id="tvi.br" tvg-logo="https://i.imgur.com/IACdtGn.png" group-title="News",TV TVI
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8?#/TV TVI
 
 #EXTINF:-1 tvg-id="TV4POR4.br" tvg-logo="https://i.imgur.com/lcbNita.png" group-title="News",TV 4POR4
 https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8?#/TV 4POR4
@@ -327,6 +324,9 @@ https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8?#/TV Itapé
 
 #EXTINF:-1 tvg-id="TVBoqueirao.br" tvg-logo="https://i.imgur.com/1XrArrG.png" group-title="Entertainment",TV Boqueirão
 https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8?#/TV Boqueirão
+
+#EXTINF:-1 tvg-id="TVBrasilOeste.br" tvg-logo="https://i.imgur.com/noqGfuy.png" group-title="General",TV Brasil Oeste
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/chunklist.m3u8?#/TV Brasil Oeste
 
 
 #EXTINF:-1 tvg-id="TVBrasilCentral.br" tvg-logo="https://i.imgur.com/VgjVlp3.png" group-title="Entertainment",TV Brasil Central
