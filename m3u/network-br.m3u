@@ -39,7 +39,7 @@ https://cloud.cdnseguro.com:2443/,.mp3?#/Radio DecomStudio
 https://tvbrasil-stream.ebc.com.br/chunks.m3u8?#/TV Brasil
 
 #EXTINF:-1 tvg-id="TVBrasilOeste.br" tvg-logo="https://i.imgur.com/noqGfuy.png" group-title="General",TV Brasil Oeste
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8?#/TV Brasil Oeste
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/chunklist.m3u8?#/TV Brasil Oeste
 
 #EXTINF:-1 tvg-id="TVBrusque.br" tvg-logo="https://i.imgur.com/J2EAZPS.png" group-title="News",TV Brusque
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8?#/TV Brusque
@@ -64,9 +64,6 @@ https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8?#/TV Record News
 
 #EXTINF:-1 tvg-id="awtv.br" tvg-logo="https://i.imgur.com/sVj4QYw.png" group-title="General",TV Awtv
 https://acesso.ecast.site:3070/live/awtvlive.m3u8?#/TV Awtv
-
-#EXTINF:-1 tvg-id="esflix.br" tvg-logo="https://i.imgur.com/dO8gmSs.png" group-title="General",TV Esflix
-https://server.hubcloud.online:3285/hybrid/play.m3u8?#/TV Esflix
 
 #EXTINF:-1 tvg-id="Tastemade.br" tvg-logo="https://i.imgur.com/FPy4zF4.png" group-title="Cooking",TV Tastemade BR
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8?#/TV Tastemade BR
