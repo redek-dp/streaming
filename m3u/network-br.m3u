@@ -9,7 +9,7 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u
 #EXTINF:-1 tvg-id="TVcnn.br" tvg-logo="https://i.imgur.com/C3TF8bw.png" group-title="News",TV CNN Brasil
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8?#/TV CNN Brasil
 
-#EXTINF:-1 tvg-id="TV+SBT.br" tvg-logo="https://i.imgur.com/5Of9k2W.png" group-title="General",TV +SBT
+#EXTINF:-1 tvg-id="TV+SBT.br" tvg-logo="https://i.imgur.com/VLdlLVF.png" group-title="General",TV +SBT
 https://02a77e991da2431691c18a84ddc6fdfd.mediatailor.us-east-1.amazonaws.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Titan/3f134a1d-0cfe-400d-a6bb-4eafb16504da/1.m3u8?#/TV +SBT
 
 #EXTINF:-1 tvg-id="CanalRural.br" tvg-logo="https://i.imgur.com/w9R9IIX.png" group-title="Outdoor",TV Canal Rural
