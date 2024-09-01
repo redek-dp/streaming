@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=CLOSED-CAPTIONS,GROUP-ID="captions",NAME="English",DEFAULT=NO,LANGUAGE="en",INSTREAM-ID="CC1"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=220000,CLOSED-CAPTIONS="captions"
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/chunklist.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
+https://video01.soultv.com.br/soultv/smil:transcoder.smil/chunklist.m3u8
