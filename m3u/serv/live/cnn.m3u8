@@ -1,8 +1,12 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=CLOSED-CAPTIONS,GROUP-ID="captions",NAME="English",DEFAULT=NO,LANGUAGE="en",INSTREAM-ID="CC1"
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=220000,CLOSED-CAPTIONS="captions"
-https://video01.soultv.com.br/cnnbrasil/cnnbrasil/chunklist_w1442323616.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1393632,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/chunklist_w261636328.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=871507,RESOLUTION=854x480,CODECS="avc1.66.30,mp4a.40.2"
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/chunklist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=576951,RESOLUTION=640x360,CODECS="avc1.66.30,mp4a.40.2"
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=346578,RESOLUTION=426x240,CODECS="avc1.42c015,mp4a.40.2"
 https://video01.soultv.com.br/soultv/smil:transcoder.smil/chunklist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=346572,RESOLUTION=420x220,CODECS="avc1.42c015,mp4a.40.2"
+https://abrir.link/PqEQm
