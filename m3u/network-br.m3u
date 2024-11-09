@@ -202,22 +202,12 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8?#/TV Anime
 #EXTINF:-1 tvg-id="TNTSportsBrazil.br" tvg-logo="https://i.imgur.com/88CbPLt.png" group-title="Sports",TV TNT Sports Brasil
 https://video01.soultv.com.br/popbola/popbola/playlist.m3u8?#/TV TNT Sports Brasil
 
-#EXTINF:-1 tvg-id="TVPampa.br" tvg-logo="https://i.imgur.com/VKB6q8a.png" group-title="General",TV Rede TV! Pampa
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8?#/TV Rede TV! Pampa
-
-#EXTINF:-1 tvg-id="AllSports.br" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Sports",TV All Sports
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8?#/TV All Sports
-
 #EXTINF:-1 tvg-id="CanaldoInter.br" tvg-logo="https://i.imgur.com/TQFWEIS.png" group-title="Sports",TV Canal do Inter
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8?#/TV Canal do Inter
 
 #EXTINF:-1 tvg-id="TVPONTV.br" tvg-logo="https://i.imgur.com/97arZx5.png" group-title="Sports",TV PONTV
 https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8?#/TV PONTV
 
-
-
-#EXTINF:-1 tvg-id="TVLATINASAT.br" tvg-logo="https://i.imgur.com/wcJMjxt.png" group-title="Movies",TV LATINASAT
-https://stream.ichibantv.com:3328/hybrid/play.m3u8?#/TV LATINASAT
 
 #EXTINF:-1 tvg-id="TVsoulcine.br" tvg-logo="https://i.imgur.com/ilH1Owm.png" group-title="Movies",TV SoulCine
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8?#/TV SoulCine
@@ -226,7 +216,7 @@ https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8?#/TV SoulCine
 https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/chunklist.m3u8?#/TV CARAVANA PLAY
 
 #EXTINF:-1 tvg-id="CineBrasil.br" tvg-logo="https://i.imgur.com/yWMyVhP.png" group-title="Movies",TV Cine Brasil
-https://stmv6.voxtvhd.com.br/cinebrasil/cinebrasil/chunklist.m3u8?#/TV Cine Brasil
+https://cdn-1.nxplay.com.br/Cinebrasil/tracks-v1a1/mono.m3u8?#/TV Cine Brasil
 
 #EXTINF:-1 tvg-id="GLNTV.br" tvg-logo="https://i.imgur.com/1jvg4QM.png" group-title="Movies",TV GLNTV
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist.m3u8?#/TV GLNTV
