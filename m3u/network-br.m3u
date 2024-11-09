@@ -64,7 +64,7 @@ https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8?#/TV Record News
 https://acesso.ecast.site:3070/live/awtvlive.m3u8?#/TV Awtv
 
 #EXTINF:-1 tvg-id="Tastemade.br" tvg-logo="https://i.imgur.com/FPy4zF4.png" group-title="Cooking",TV Tastemade BR
-https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8?#/TV Tastemade BR
+https://redek-dp.github.io/streaming/m3u/serv/live/tastemade.m3u8?#/TV Tastemade BR
 
 #EXTINF:-1 tvg-id="MasterChef.Br" tvg-logo="https://i.imgur.com/RMQEKvB.png" group-title="Cooking",TV MasterChef Brasil
 https://redek-dp.github.io/streaming/m3u/serv/live/MasterChefBr.m3u8?#/TV MasterChef Brasil
