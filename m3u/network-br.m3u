@@ -18,9 +18,6 @@ https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8?#/T
 #EXTINF:-1 tvg-id="TVSony.br" tvg-logo="https://i.imgur.com/il5Jgei.png" group-title="Series",TV Sony Novelas
 https://spt-novelas-1-us.vizio.wurl.tv/playlist.m3u8?#/TV Sony Novelas
 
-#EXTINF:-1 tvg-id="TVPoços.br" tvg-logo="https://i.imgur.com/ra7YqWM.png" group-title="General",TV Poços
-https://live.cdn.upx.com/00084/myStream.sdp/playlist.m3u8?#/TV Poços
-
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/LdtrAp5.png" group-title="News",TV Record News
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116#/TV Record News
 
@@ -31,12 +28,13 @@ https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8?#/TV Sul
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?#/TV Band
 
 #EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/QC8SC4e.png" group-title="General",TV Rede Brasil
-https://video07.logicahost.com.br/redebrasil/redebrasil/chunklist.m3u8?#/TV Rede Brasil
-
+https://video01.logicahost.com.br/redebrasil02/redebrasil02/chunklist.m3u8?#/TV Rede Brasil
 
 #EXTINF:-1 tvg-id="Radio.DecomStudio.br" tvg-logo="https://i.imgur.com/w1EgMgf.png" group-title="radio",Radio DecomStudio
 https://cloud.cdnseguro.com:2443/,.mp3?#/Radio DecomStudio
 
+#EXTINF:-1 tvg-id="TVSoul.br" tvg-logo="https://i.imgur.com/UeRmF2P.png" group-title="General",TV Soul
+https://redek-dp.github.io/streaming/m3u/serv/live/cnn.m3u8?#/TV Soul
 
 #EXTINF:-1 tvg-id="TVBrasil.br" tvg-logo="https://i.imgur.com/x0Zo3Gw.png" group-title="Entertainment",TV Brasil
 https://tvbrasil-stream.ebc.com.br/chunks.m3u8?#/TV Brasil
