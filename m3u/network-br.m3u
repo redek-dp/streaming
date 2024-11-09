@@ -6,11 +6,11 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u
 #EXTINF:-1 tvg-id="TVRecord.br" tvg-logo="https://i.imgur.com/BXGmf7C.png" group-title="General",TV Record
 https://redek-dp.github.io/streaming/m3u/serv/live/record.m3u8?#/TV Record
 
-#EXTINF:-1 tvg-id="TVcnn.br" tvg-logo="https://i.imgur.com/C3TF8bw.png" group-title="News",TV CNN Brasil
-https://redek-dp.github.io/streaming/m3u/serv/live/cnn.m3u8?#/TV CNN Brasil
+#EXTINF:-1 tvg-id="TVcnn.br" tvg-logo="https://i.imgur.com/fUqDvD6.png" group-title="News",TV Jovem Pan News
+https://amg01391-addigital-jovempan-distrotv-tvd2e.amagi.tv/playlist/amg01391-addigital-jovempan-distrotv/playlist.m3u8?#/TV Jovem Pan News
 
 #EXTINF:-1 tvg-id="TV+SBT.br" tvg-logo="https://i.imgur.com/VLdlLVF.png" group-title="General",TV +SBT
-https://02a77e991da2431691c18a84ddc6fdfd.mediatailor.us-east-1.amazonaws.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Titan/77944add-10f3-4fbc-ac3b-307d0b77f47f/0.m3u8?#/TV +SBT
+https://cdn.live.br1.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8?#/TV +SBT
 
 #EXTINF:-1 tvg-id="CanalRural.br" tvg-logo="https://i.imgur.com/w9R9IIX.png" group-title="Outdoor",TV Canal Rural
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8?#/TV Canal Rural
