@@ -75,9 +75,6 @@ https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8?#/TV Grjngo Filmes D
 #EXTINF:-1 tvg-id="AmazonSat.br" tvg-logo="https://i.imgur.com/zHl3beY.png" group-title="General",TV Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?#/TV Amazon Sat
 
-#EXTINF:-1 tvg-id="TVBBC.br" tvg-logo="https://i.imgur.com/sGcoWo7.png" group-title="Movies",TV BBC Drama
-https://bbceu-bbcdrama-3-es.rakuten.wurl.tv/playlist.m3u8?#/TV BBC Drama
-
 #EXTINF:-1 tvg-id="cultura.br" tvg-logo="https://i.imgur.com/w5rgtjl.png" group-title="General",TV Cultura
 https://redek-dp.github.io/streaming/m3u/serv/live/cultura.m3u8?#/TV Cultura
 
