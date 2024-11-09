@@ -25,7 +25,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116#/TV Record News
 https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8?#/TV Sul
 
 #EXTINF:-1 tvg-id="TVBand.br" tvg-logo="https://i.imgur.com/ex8C4tf.png" group-title="General",TV Band
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?#/TV Band
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8?#/TV Band
 
 #EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/QC8SC4e.png" group-title="General",TV Rede Brasil
 https://video01.logicahost.com.br/redebrasil02/redebrasil02/chunklist.m3u8?#/TV Rede Brasil
