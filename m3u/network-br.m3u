@@ -6,7 +6,7 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u
 #EXTINF:-1 tvg-id="TVRecord.br" tvg-logo="https://i.imgur.com/BXGmf7C.png" group-title="General",TV Record
 https://redek-dp.github.io/streaming/m3u/serv/live/record.m3u8?#/TV Record
 
-#EXTINF:-1 tvg-id="TVcnn.br" tvg-logo="https://i.imgur.com/fUqDvD6.png" group-title="News",TV Jovem Pan News
+#EXTINF:-1 tvg-id="TVjp.br" tvg-logo="https://i.imgur.com/fUqDvD6.png" group-title="News",TV Jovem Pan News
 https://amg01391-addigital-jovempan-distrotv-tvd2e.amagi.tv/playlist/amg01391-addigital-jovempan-distrotv/playlist.m3u8?#/TV Jovem Pan News
 
 #EXTINF:-1 tvg-id="TV+SBT.br" tvg-logo="https://i.imgur.com/VLdlLVF.png" group-title="General",TV +SBT
