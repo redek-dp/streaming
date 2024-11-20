@@ -171,7 +171,7 @@ https://cdn.live.br1.jmvstream.com/w/AVJ-15327/playlist/chunklist.m3u8?#/TV Alfe
 https://redek-dp.github.io/streaming/dnetwork/playlist.m3u8?#/TV DevsevenTv
 
 #EXTINF:-1 tvg-id="THESMURFSTV.br" tvg-logo="https://i.imgur.com/apIlcVx.png" group-title="Kids",TV THE SMURFS TV
-https://d144py1prrd7ns.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-affg2ev32s0dq/610f85ce-2f69-4252-9305-046f5ab114ef/3.m3u8?#/TV THE SMURFS TV
+https://d144py1prrd7ns.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-affg2ev32s0dq/smrfe.m3u8?#/TV THE SMURFS TV
 
 #EXTINF:-1 tvg-id="Tooncast.br" tvg-logo="https://i.imgur.com/yl4LFvw.png" group-title="Kids",TV Tooncast
 https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8?#/TV Tooncast
