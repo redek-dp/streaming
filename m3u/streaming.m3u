@@ -303,6 +303,10 @@ https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="CrimeHunters" tvg-logo="https://i.imgur.com/2iMqzKK.png" group-title="Movies",TV Crime Hunters
 https://amg01201-cinedigmenterta-crimehunters-cineverse-cnqvb.amagi.tv/playlist/amg01201-cinedigmenterta-crimehunters-cineverse/playlist.m3u8?#/TV Crime Hunters
 
+#EXTINF:-1 tvg-id="PosiTv" tvg-logo="https://i.imgur.com/V4A7PkC.png" group-title="Movies",TV PosiTv
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1099#/TV PosiTv
+
+
 #EXTINF:-1 tvg-id="AMGTV.us" tvg-logo="https://i.imgur.com/m5Anun9.png" group-title="Movies",TV AMG
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8?#/TV AMG
 
