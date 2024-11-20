@@ -27,7 +27,7 @@ https://failarmy-international-no.samsung.wurl.tv/playlist.m3u8?#/TV FailArmy NO
 #EXTINF:-1 tvg-id="FailArmy.mx" tvg-logo="https://i.imgur.com/2Pe548t.png" group-title="Comedy",TV FailArmy MX
 https://failarmy-international-mx.samsung.wurl.tv/playlist.m3u8?#/TV FailArmy MX
 
-#EXTINF:-1 tvg-id="FailArmy.EU" tvg-logo="https://i.imgur.com/2Pe548t.png" group-title="intrattenimento",TV FailArmy EU
+#EXTINF:-1 tvg-id="FailArmy.EU" tvg-logo="https://i.imgur.com/2Pe548t.png" group-title="Comedy",TV FailArmy EU
 https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8?#/TV FailArmy EU
 
 
@@ -52,12 +52,21 @@ https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8?#/TV AF
 #EXTINF:-1 tvg-id="AFV.us" tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="Comedy",TV AFV Family US
 https://ec4a5bcc9d664b48985de6095931aaa7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_AmericasFunniestHomeVideos/playlist.m3u8?#/TV AFV Family US
 
-
 #EXTINF:-1 tvg-id="peopleareAwesome.br" tvg-logo="https://i.imgur.com/Si9Dp5k.png" group-title="Comedy",TV People Are Awesome
 https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8?#/TV People Are Awesome
 
 #EXTINF:-1 tvg-id="peopleare.Awesome" tvg-logo="https://i.imgur.com/Si9Dp5k.png" group-title="Comedy",TV People Are Awesome
 https://965a56fdfe3c40cd9b73c49a0cde620b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_PeopleAreAwesome-1/playlist.m3u8?#/TV People Are Awesome
+
+#EXTINF:-1 tvg-id="ComedyPlay.ro" tvg-logo="https://i.imgur.com/Pa0fDpM.png" group-title="Comedy",TV Comedy Play 
+https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8?#/TV Comedy Play 
+
+#EXTINF:-1 tvg-id="Comedy.s" tvg-logo="https://i.imgur.com/Pa0fDpM.png" group-title="Comedy",TV Comedy
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=264#/TV Comedy
+
+#EXTINF:-1 tvg-id="CanelaClasicos" tvg-logo="https://i.imgur.com/8Hllkpk.png" group-title="Comedy",TV Canela Clasicos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652#/TV Canela Clasicos
+
 
 
 #EXTINF:-1 tvg-id="TVTeleVisa.mx" tvg-logo="https://i.imgur.com/QrA2g6C.png" group-title="General",TV TeleVisa
@@ -70,6 +79,8 @@ https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/1200.m
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pyWojfO.png" tvg-name="5-Minute.Crafts" group-title="General",TV 5-Minute Crafts
 https://amg02051-soulpublishing-amg02051c7-plex-us-306.playouts.now.amagi.tv/playlist/amg02051-amg02051c7-306/cb543d197c6c6c8d84cb3960cef044a0f9a953fc087a8d6933fb4b926bc10f41f9e5af86a540ff1902cb5d81385e7d585677ab4096295dd7dd6ada146d20436bfaf9b30ac7981a08b3d80a342ab27d0020ff1705a165137edcde1f0aae34a1365040bf473d0072c59621c90b2ed99056d2247c9bda88326222434fec051fbafd0bbcf9e74345c66fa2b41556942a4df7ff1d9b8d40ee90b70ac812c42fee119e95ee88d500f7d2c67ca854b37a59167233c9c23dc49b0bb0899e6b6ad1707f124e18b7f296f8033dd1411511a9ad99ec60fa179d8b218738055061f23eecba37d8cb73c5c37ce2cb99cd435b30a8b6230b4593c4d0447fa851c70bc8adfcc97b3cb8fb116a4eca6ca25343ce564eaa66eee40097a4228bb17a143982e62d7a7c01e29dd2a06de649e7cefa992e02696616038f4ee8fd07be7a8a20f99e4166343935c64f93dd21f00b901b3526bb1ef51a3c1991faa2d20b29c3631a15db61d664356dd9386346524c93655d41863c0389393cb40d7bd002b49425fbb2c3be461abbdad54df66bafec5192c60bb168301951f3d03956494832e0df372c7e289b14b5839faf275857a2d69cb7807228173512650989c9ee64d4db937e534597136e4b5c243aba489665d60b4c4009cc1dd8a34034a60e3322eba2700b0c22c686e2d2d28f8415e02793e2f23b26375c238e3203277cdaf9d80aaa7618283a7884082b12ee561412a4c587b5ebec04a9bd6aae2a6d1d67b7914e3b4c38154405949764d22c84b412b69cc659b68aaa4214d61de16d3d91d2d560fdadb1cf400195a0354e3f8fb2c7a4b4f350ceb2f950e73caed1be85e613b539ea8d9180/78/640x360_880000/index.m3u8?#/TV 5-Minute Crafts
+
+
 
 
 
@@ -88,7 +99,6 @@ https://gustotv-gustotv-2-eu.rakuten.wurl.tv/playlist.m3u8?#/TV Gusto US
 #EXTINF:-1 tvg-id="gusto.tv.US" tvg-logo="https://i.imgur.com/swUX3hQ.png" group-title="Cooking",TV Gusto US
 https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8?#/TV Gusto US
 
-
 #EXTINF:-1 tvg-id="Cooking.Panda" tvg-logo="https://i.imgur.com/wlLaXr6.png" group-title="Cooking",TV Cooking Panda
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=165#/TV Cooking Panda
 
@@ -98,12 +108,14 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=180#/TV Cooking Panda
 #EXTINF:-1 tvg-id="Cooking.Panda" tvg-logo="https://i.imgur.com/wlLaXr6.png" group-title="Cooking",TV Cooking Panda
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=207#/TV Cooking Panda
 
-
 #EXTINF:-1 tvg-id="bonappetit" tvg-logo="https://i.imgur.com/YhFFxlE.png" group-title="Cooking",TV Bon Appetit 1
 https://bonappetit-samsung.amagi.tv/playlist.m3u8?#/TV Bon Appetit 1
 
 
-#EXTINF:-1 tvg-id="PetClubTV" tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="Comedy",TV Pet Club TV
+
+
+
+#EXTINF:-1 tvg-id="PetClubTV" tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="General",TV Pet Club TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8?#/TV Pet Club TV
 
 #EXTINF:-1 tvg-id="P.ES" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="General",TV The Pet Collective ES
@@ -135,6 +147,33 @@ https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8?#/TV WeatherSpy IN
 #EXTINF:-1 tvg-id="discovery.SA" tvg-logo="https://i.imgur.com/61siK0t.png" group-title="General",TV Discovery SA
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8?#/TV Discovery SA
 
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="CineRomantico.us" tvg-logo="https://i.imgur.com/FUrrDrb.png" group-title="Movies",TV Cine Romantico
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=656#/TV Cine Romantico
+
+#EXTINF:-1 tvg-id="BizzarroMovies.it" tvg-logo="https://i.imgur.com/kNGpFHX.png" group-title="Movies",TV Bizzarro Movies
+https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8?#/TV Bizzarro Movies
+
+#EXTINF:-1 tvg-id="Filmrise.us" tvg-logo="https://i.imgur.com/UfWI47m.png" group-title="Movies",TV Filmrise
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2162#/TV Filmrise
+
+#EXTINF:-1 tvg-id="CineLife.us" tvg-logo="https://i.imgur.com/RIUNuMQ.png" group-title="Movies",TV CineLife
+https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8?#/TV CineLife
+
+#EXTINF:-1 tvg-id="CinemaHausa" tvg-logo="https://i.imgur.com/CdpxgVw.png" group-title="Movies",TV Cinema Hausa
+https://origin3.afxp.telemedia.co.za/PremiumFree/cinemahausa/playlist.m3u8?#/TV Cinema Hausa
+
+#EXTINF:-1 tvg-id="CinemaSegreto.it" tvg-logo="https://i.imgur.com/CD0sMAa.png" group-title="Movies",TV Cinema Segreto
+https://minerva-cinemasegreto-1-it.samsung.wurl.tv/playlist.m3u8?#/TV Cinema Segreto
+
+#EXTINF:-1 tvg-id="Cine5.tr" tvg-logo="https://i.imgur.com/AmcOAIY.png" group-title="Movies",TV Cine 5
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8?#/TV Cine 5
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nfnWwgR.png" tvg-name="RakutenTV" group-title="Movies",TV Rakuten Family Movies ES
 https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8?#/TV Rakuten Family Movies ES
 
@@ -162,10 +201,25 @@ https://3fda343656db4a4e9f2891dbb516d55d.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nfnWwgR.png" tvg-name="RakutenTV" group-title="Movies",TV Rakuten VIKI
 https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8?#/TV Rakuten VIKI
 
+#EXTINF:-1 tvg-id="networkFM.us" tvg-logo="https://i.imgur.com/CQ09ak1.png" group-title="Movies",TV network Movies 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=166#/TV network Movies 2
+
+#EXTINF:-1 tvg-id="networkFM.us" tvg-logo="https://i.imgur.com/CQ09ak1.png" group-title="Movies",TV network Movies 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=181#/TV network Movies 3
+
+#EXTINF:-1 tvg-id="networkFM.us" tvg-logo="https://i.imgur.com/CQ09ak1.png" group-title="Movies",TV network Movies 4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=202#/TV network Movies 4
+
+#EXTINF:-1 tvg-id="networkFM.us" tvg-logo="https://i.imgur.com/CQ09ak1.png" group-title="Movies",TV network Movies 5
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=228#/TV network Movies 5
+
+#EXTINF:-1 tvg-id="networkFM.us" tvg-logo="https://i.imgur.com/CQ09ak1.png" group-title="Movies",TV network Movies 6
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=425#/TV network Movies 6
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WEM9B83.png" group-title="SPORT",TV Tennis Channel UK
-https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8?#/TV Tennis Channel UK
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VaDrfKr.png" group-title="Family",TV XITE
 https://xite-samsung-de.amagi.tv/playlist.m3u8?#/TV XITE
@@ -181,6 +235,9 @@ https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8?#/TV Travelxp
 
 #EXTINF:-1 tvg-id="FLORIDA.br" tvg-logo="https://i.imgur.com/klBkNoV.png" group-title="General",TV FLORIDA
 https://srv1.zcast.com.br/tvflorida/tvflorida/playlist.m3u8?#/TV FLORIDA
+
+#EXTINF:-1 tvg-id="TVion.us" tvg-logo="https://i.imgur.com/gzCTKpt.png" group-title="General",TV Ion
+https://scripps-ion-1-us.vizio.wurl.tv/playlist.m3u8?#/TV Ion
 
 
 
@@ -203,9 +260,8 @@ https://9e2ee5d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zs1pP1w.png" tvg-name="MAVTV.Motorsports.NetworkRakutenTV" group-title="sport",TV MAVTV Motorsports
 https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8?#/TV MAVTV Motorsports
 
-#EXTINF:-1 tvg-id="TVion.us" tvg-logo="https://i.imgur.com/gzCTKpt.png" group-title="General",TV Ion
-https://scripps-ion-1-us.vizio.wurl.tv/playlist.m3u8?#/TV Ion
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WEM9B83.png" group-title="sport",TV Tennis Channel UK
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8?#/TV Tennis Channel UK
 
 
 
@@ -263,31 +319,6 @@ https://tyt-samsungus.amagi.tv/playlist.m3u8?#/TV TYT
 
 
 
-#EXTINF:-1 tvg-id="CineRomantico.us" tvg-logo="https://i.imgur.com/FUrrDrb.png" group-title="Movies",TV Cine Romantico
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=656#/TV Cine Romantico
-
-#EXTINF:-1 tvg-id="Filmrise.us" tvg-logo="https://i.imgur.com/UfWI47m.png" group-title="Movies",TV Filmrise
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2162#/TV Filmrise
-
-#EXTINF:-1 tvg-id="CineLife.us" tvg-logo="https://i.imgur.com/RIUNuMQ.png" group-title="Lifestyle",TV CineLife
-https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8?#/TV CineLife
-
-#EXTINF:-1 tvg-id="CinemaHausa" tvg-logo="https://i.imgur.com/CdpxgVw.png" group-title="Movies",TV Cinema Hausa
-https://origin3.afxp.telemedia.co.za/PremiumFree/cinemahausa/playlist.m3u8?#/TV Cinema Hausa
-
-#EXTINF:-1 tvg-id="CinemaSegreto.it" tvg-logo="https://i.imgur.com/CD0sMAa.png" group-title="Movies",TV Cinema Segreto
-https://minerva-cinemasegreto-1-it.samsung.wurl.tv/playlist.m3u8?#/TV Cinema Segreto
-
-#EXTINF:-1 tvg-id="Cine5.tr" tvg-logo="https://i.imgur.com/AmcOAIY.png" group-title="Movies",TV Cine 5
-https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8?#/TV Cine 5
-
-#EXTINF:-1 tvg-id="Comedy.s" tvg-logo="https://i.imgur.com/Pa0fDpM.png" group-title="Comedy",TV Comedy
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=264#/TV Comedy
-
-#EXTINF:-1 tvg-id="ComedyPlay.ro" tvg-logo="https://i.imgur.com/Pa0fDpM.png" group-title="Comedy",TV Comedy Play 
-https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8?#/TV Comedy Play 
-
-
 #EXTINF:-1 tvg-id="TVGirlsPlanet" tvg-logo="https://i.imgur.com/CQ09ak1.png" group-title="Entertainment",TV Girls Planet
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5540#/TV Girls Planet
 
@@ -308,8 +339,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4882#/TV CanelaTV Cinema
 
 
 
-#EXTINF:-1 tvg-id="CanelaClasicos" tvg-logo="https://i.imgur.com/8Hllkpk.png" group-title="Comedy",TV Canela Clasicos
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=652#/TV Canela Clasicos
+
 
 #EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://i.imgur.com/8Hllkpk.png" group-title="General",TV CanelaTV 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=155#/TV CanelaTV 1
@@ -379,8 +409,6 @@ https://hls.4utv.live/hls/stream.m3u8?#/TV 4U TV
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",TV Bloomberg
 https://bloomberg-bloombergtv-5-eu.plex.wurl.tv/playlist.m3u8?#/TV Bloomberg
 
-#EXTINF:-1 tvg-id="BizzarroMovies.it" tvg-logo="https://i.imgur.com/kNGpFHX.png" group-title="Movies",TV Bizzarro Movies
-https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8?#/TV Bizzarro Movies
 
 #EXTINF:-1 tvg-id="Canal7TeleValencia.es" tvg-logo="https://i.imgur.com/ILfXDRs.png" group-title="General",TV 7 TeleValencia
 https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8?#/TV 7 TeleValencia
@@ -411,20 +439,7 @@ https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8?#/TV Fox Soul
 
 
 
-#EXTINF:-1 tvg-id="networkFM.us" tvg-logo="https://i.imgur.com/CQ09ak1.png" group-title="Movies",TV network Movies 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=166#/TV network Movies 2
 
-#EXTINF:-1 tvg-id="networkFM.us" tvg-logo="https://i.imgur.com/CQ09ak1.png" group-title="Movies",TV network Movies 3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=181#/TV network Movies 3
-
-#EXTINF:-1 tvg-id="networkFM.us" tvg-logo="https://i.imgur.com/CQ09ak1.png" group-title="Movies",TV network Movies 4
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=202#/TV network Movies 4
-
-#EXTINF:-1 tvg-id="networkFM.us" tvg-logo="https://i.imgur.com/CQ09ak1.png" group-title="Movies",TV network Movies 5
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=228#/TV network Movies 5
-
-#EXTINF:-1 tvg-id="networkFM.us" tvg-logo="https://i.imgur.com/CQ09ak1.png" group-title="Movies",TV network Movies 6
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=425#/TV network Movies 6
 
 #EXTINF:-1 tvg-id="network.us" tvg-logo="https://i.imgur.com/xazwnkT.png" group-title="General",TV network General
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=143#/TV network General
