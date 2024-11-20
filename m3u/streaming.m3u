@@ -167,26 +167,14 @@ https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WEM9B83.png" group-title="SPORT",TV Tennis Channel UK
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8?#/TV Tennis Channel UK
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9JTMh3F.jpg" group-title="News",TV Timeline UK
-https://timeline-samsung-uk.amagi.tv/playlist.m3u8?#/TV Timeline UK
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VaDrfKr.png" group-title="Family",TV XITE
 https://xite-samsung-de.amagi.tv/playlist.m3u8?#/TV XITE
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZqcNRbd.png" group-title="Family",TV Circle
 https://circle-samsung.amagi.tv/playlist.m3u8?#/TV Circle
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mTd5yQ0.png" group-title="News",TV TYT
-https://tyt-samsungus.amagi.tv/playlist.m3u8?#/TV TYT
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FNFFhEq.png" group-title="General",TV Horse and Country
 https://hncfree-samsung-uk.amagi.tv/playlist.m3u8?#/TV Horse and Country
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/450pJvs.png" group-title="News",TV Wonder
-https://wonder-samsung-uk.amagi.tv/playlist.m3u8?#/TV Wonder
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UXODVYB.png" group-title="News",TV xlpore
-https://xlpore-samsungus.amagi.tv/playlist.m3u8?#/TV xlpore
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8KQirah.png" tvg-id="Travelxp.in" group-title="Travel",TV Travelxp
 https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8?#/TV Travelxp
@@ -220,6 +208,13 @@ https://scripps-ion-1-us.vizio.wurl.tv/playlist.m3u8?#/TV Ion
 
 
 
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News",TV Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8?#/TV Al Jazeera English
 
@@ -231,6 +226,40 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8?#/TV TRT World
 
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",TV Euronews BE
 https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8?#/TV Euronews BE
+
+#EXTINF:-1 tvg-id="KXVADT1.us" tvg-logo="https://i.imgur.com/9uSvpL2.png" group-title="News",TV Fox 15 West Texas Abilene TX
+https://livevideo01.myfoxzone.com/hls/live/2017381/elvs/live.m3u8?#/TV Fox 15 West Texas Abilene TX
+
+#EXTINF:-1 tvg-id="WTGSDT1.us" tvg-logo="https://i.imgur.com/9uSvpL2.png" group-title="News",TV Fox 28 News Savannah GA
+https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8?#/TV Fox 28 News Savannah GA
+
+#EXTINF:-1 tvg-id="WTICDT1.us" tvg-logo="https://i.imgur.com/9uSvpL2.png" group-title="News",TV Fox 61 News Hartford CT 
+https://livevideo01.fox61.com/hls/live/2011658/elvs/live.m3u8?#/TV Fox 61 News Hartford CT 
+
+#EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-logo="https://i.imgur.com/9uSvpL2.png" group-title="News",TV FOX News Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8?#/TV FOX News Now
+
+#EXTINF:-1 tvg-id="abc.PY" tvg-logo="https://i.imgur.com/m4N8AhN.png" group-title="News",TV ABC PY
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8?#/TV ABC PY
+
+#EXTINF:-1 tvg-id="2GB.au" tvg-logo="https://i.ibb.co/jwM8DFG/2GB-1.png" group-title="News",TV 2GB Sydney
+https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8?#/TV 2GB Sydney
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/450pJvs.png" group-title="News",TV Wonder
+https://wonder-samsung-uk.amagi.tv/playlist.m3u8?#/TV Wonder
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UXODVYB.png" group-title="News",TV xlpore
+https://xlpore-samsungus.amagi.tv/playlist.m3u8?#/TV xlpore
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9JTMh3F.jpg" group-title="News",TV Timeline UK
+https://timeline-samsung-uk.amagi.tv/playlist.m3u8?#/TV Timeline UK
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mTd5yQ0.png" group-title="News",TV TYT
+https://tyt-samsungus.amagi.tv/playlist.m3u8?#/TV TYT
+
+
+
+
 
 
 
@@ -335,9 +364,6 @@ https://d85lu9l3axp7b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="1AlmereTV.nl" tvg-logo="https://i.imgur.com/XfkbTrU.png" group-title="General",TV 1Almere
 https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8?#/TV 1Almere
 
-#EXTINF:-1 tvg-id="2GB.au" tvg-logo="https://i.ibb.co/jwM8DFG/2GB-1.png" group-title="News",TV 2GB Sydney
-https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8?#/TV 2GB Sydney
-
 #EXTINF:-1 tvg-id="2MInternational.ma" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General",TV 2M Monde
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8?#/TV 2M Monde
 
@@ -377,18 +403,6 @@ https://amg01201-cinedigmenterta-crimehunters-cineverse-cnqvb.amagi.tv/playlist/
 
 #EXTINF:-1 tvg-id="TVFOX" tvg-logo="https://i.imgur.com/9uSvpL2.png" group-title="General",TV Fox HD
 https://stream01.vnet.am/Fox/mono.m3u8?#/TV Fox HD
-
-#EXTINF:-1 tvg-id="KXVADT1.us" tvg-logo="https://i.imgur.com/9uSvpL2.png" group-title="General",TV Fox 15 West Texas Abilene TX
-https://livevideo01.myfoxzone.com/hls/live/2017381/elvs/live.m3u8?#/TV Fox 15 West Texas Abilene TX
-
-#EXTINF:-1 tvg-id="WTGSDT1.us" tvg-logo="https://i.imgur.com/9uSvpL2.png" group-title="General",TV Fox 28 News Savannah GA
-https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8?#/TV Fox 28 News Savannah GA
-
-#EXTINF:-1 tvg-id="WTICDT1.us" tvg-logo="https://i.imgur.com/9uSvpL2.png" group-title="General",TV Fox 61 News Hartford CT 
-https://livevideo01.fox61.com/hls/live/2011658/elvs/live.m3u8?#/TV Fox 61 News Hartford CT 
-
-#EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-logo="https://i.imgur.com/9uSvpL2.png" group-title="News",TV FOX News Now
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8?#/TV FOX News Now
 
 #EXTINF:-1 tvg-id="FoxSoul.us" tvg-logo="https://i.imgur.com/9uSvpL2.png" group-title="Culture",TV Fox Soul
 https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8?#/TV Fox Soul
@@ -435,7 +449,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=279#/TV network Doc
 
 
 
-#EXTINF:-1 tvg-id="abc.PY" tvg-logo="https://i.imgur.com/m4N8AhN.png" group-title="News",TV ABC PY
-https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8?#/TV ABC PY
+
 
 
