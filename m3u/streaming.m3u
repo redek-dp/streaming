@@ -205,6 +205,9 @@ https://stream01.vnet.am/Fox/mono.m3u8?#/TV Fox HD
 #EXTINF:-1 tvg-id="FoxSoul.us" tvg-logo="https://i.imgur.com/9uSvpL2.png" group-title="General",TV Fox Soul
 https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8?#/TV Fox Soul
 
+#EXTINF:-1 tvg-id="barktv" tvg-logo="https://i.imgur.com/f6vPSBf.png" group-title="General",TV Barktv
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=841#/TV Barktv
+
 #EXTINF:-1 tvg-id="network.us" tvg-logo="https://i.imgur.com/xazwnkT.png" group-title="General",TV network General
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=143#/TV network General
 
