@@ -356,8 +356,11 @@ https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WEM9B83.png" group-title="sport",TV Tennis Channel UK
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8?#/TV Tennis Channel UK
 
-#EXTINF:-1 tvg-id="TVMOTORVISION" tvg-logo="https://i.imgur.com/CQ09ak1.png" group-title="sport",TV MOTORVISION
+#EXTINF:-1 tvg-id="TVMOTORVISION" tvg-logo="https://i.imgur.com/cDZN0Nd.png" group-title="sport",TV MOTORVISION
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=758#/TV MOTORVISION
+
+#EXTINF:-1 tvg-id="TVMOTORVISION" tvg-logo="https://i.imgur.com/cDZN0Nd.png" group-title="sport",TV MOTORVISION
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=757#/TV MOTORVISION
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FNFFhEq.png" group-title="sport",TV Horse and Country
 https://hncfree-samsung-uk.amagi.tv/playlist.m3u8?#/TV Horse and Country
