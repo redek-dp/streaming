@@ -136,6 +136,9 @@ https://bonappetit-samsung.amagi.tv/playlist.m3u8?#/TV Bon Appetit 1
 #EXTINF:-1 tvg-id="NewKfood" tvg-logo="https://i.imgur.com/it4zthz.png" group-title="Cooking",TV NewKfood
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=880#/TV NewKfood
 
+#EXTINF:-1 tvg-id="SoYummy" tvg-logo="https://i.imgur.com/AlZwBSn.png" group-title="Cooking",TV SoYummy
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1149#/TV SoYummy
+
 
 
 
