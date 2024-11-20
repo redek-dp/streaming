@@ -1,84 +1,106 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="FailArmy.BR" tvg-logo="https://i.imgur.com/2Pe548t.png" group-title="Comedy",TV FailArmy BR
+#EXTINF:-1 tvg-id="FailArmy.BR" tvg-logo="https://i.imgur.com/2Pe548t.png" group-title="Entertainment",TV FailArmy BR
 https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8?#/TV FailArmy BR
 
-#EXTINF:-1 tvg-id="FailArmy.It" tvg-logo="https://i.imgur.com/t3IjyYJ.png" group-title="Comedy",TV Failarmy IT
+#EXTINF:-1 tvg-id="FailArmy.It" tvg-logo="https://i.imgur.com/t3IjyYJ.png" group-title="Entertainment",TV Failarmy IT
 https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8?#/TV Failarmy IT
 
-#EXTINF:-1 tvg-id="FailArmy.IN" tvg-logo="https://i.imgur.com/2Pe548t.png" group-title="Comedy",TV FailArmy IN
+#EXTINF:-1 tvg-id="FailArmy.IN" tvg-logo="https://i.imgur.com/2Pe548t.png" group-title="Entertainment",TV FailArmy IN
 https://failarmy-international-in.samsung.wurl.tv/playlist.m3u8?#/TV FailArmy IN
 
-#EXTINF:-1 tvg-id="FailArmy.NL" tvg-logo="https://i.imgur.com/2Pe548t.png" group-title="Comedy",TV FailArmy NL
+#EXTINF:-1 tvg-id="FailArmy.NL" tvg-logo="https://i.imgur.com/2Pe548t.png" group-title="Entertainment",TV FailArmy NL
 https://failarmy-international-nl.samsung.wurl.tv/playlist.m3u8?#/TV FailArmy NL
 
-#EXTINF:-1 tvg-id="FailArmy.SE" tvg-logo="https://i.imgur.com/2Pe548t.png" group-title="Comedy",TV FailArmy SE
+#EXTINF:-1 tvg-id="FailArmy.SE" tvg-logo="https://i.imgur.com/2Pe548t.png" group-title="Entertainment",TV FailArmy SE
 https://failarmy-international-se.samsung.wurl.tv/playlist.m3u8?#/TV FailArmy SE
 
-#EXTINF:-1 tvg-id="FailArmy.fr" tvg-logo="https://i.imgur.com/2Pe548t.png" group-title="Comedy",TV FailArmy FR
+#EXTINF:-1 tvg-id="FailArmy.fr" tvg-logo="https://i.imgur.com/2Pe548t.png" group-title="Entertainment",TV FailArmy FR
 https://failarmy-international-fr.samsung.wurl.tv/playlist.m3u8?#/TV FailArmy FR
 
-#EXTINF:-1 tvg-id="FailArmy.es" tvg-logo="https://i.imgur.com/2Pe548t.png" group-title="Comedy",TV FailArmy ES
+#EXTINF:-1 tvg-id="FailArmy.es" tvg-logo="https://i.imgur.com/2Pe548t.png" group-title="Entertainmenty",TV FailArmy ES
 https://failarmy-international-es.samsung.wurl.tv/playlist.m3u8?#/TV FailArmy ES
 
-#EXTINF:-1 tvg-id="FailArmy.no" tvg-logo="https://i.imgur.com/2Pe548t.png" group-title="Comedy",TV FailArmy NO
+#EXTINF:-1 tvg-id="FailArmy.no" tvg-logo="https://i.imgur.com/2Pe548t.png" group-title="Entertainment",TV FailArmy NO
 https://failarmy-international-no.samsung.wurl.tv/playlist.m3u8?#/TV FailArmy NO
 
-#EXTINF:-1 tvg-id="FailArmy.mx" tvg-logo="https://i.imgur.com/2Pe548t.png" group-title="Comedy",TV FailArmy MX
+#EXTINF:-1 tvg-id="FailArmy.mx" tvg-logo="https://i.imgur.com/2Pe548t.png" group-title="Entertainment",TV FailArmy MX
 https://failarmy-international-mx.samsung.wurl.tv/playlist.m3u8?#/TV FailArmy MX
 
-#EXTINF:-1 tvg-id="FailArmy.EU" tvg-logo="https://i.imgur.com/2Pe548t.png" group-title="Comedy",TV FailArmy EU
+#EXTINF:-1 tvg-id="FailArmy.EU" tvg-logo="https://i.imgur.com/2Pe548t.png" group-title="Entertainment",TV FailArmy EU
 https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8?#/TV FailArmy EU
 
 
-#EXTINF:-1 tvg-id="AFV.BE" tvg-logo="https://i.imgur.com/dLSKBEn.png" group-title="Comedy",TV AFV Family BE
+#EXTINF:-1 tvg-id="AFV.BE" tvg-logo="https://i.imgur.com/dLSKBEn.png" group-title="Entertainment",TV AFV Family BE
 https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8?#/TV AFV Family BE
 
-#EXTINF:-1 tvg-id="AFV.IE" tvg-logo="https://i.imgur.com/dLSKBEn.png" group-title="Comedy",TV AFV Family IE
+#EXTINF:-1 tvg-id="AFV.IE" tvg-logo="https://i.imgur.com/dLSKBEn.png" group-title="Entertainment",TV AFV Family IE
 https://futuretoday-afv-family-2-ie.samsung.wurl.tv/playlist.m3u8?#/TV AFV Family IE
 
-#EXTINF:-1 tvg-id="AFV.US" tvg-logo="https://i.imgur.com/dLSKBEn.png" group-title="Comedy",TV AFV Family US
+#EXTINF:-1 tvg-id="AFV.US" tvg-logo="https://i.imgur.com/dLSKBEn.png" group-title="Entertainment",TV AFV Family US
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8?#/TV AFV Family US
 
-#EXTINF:-1 tvg-id="AFV.ES" tvg-logo="https://i.imgur.com/HUK4WXC.png" group-title="Comedy",TV AFV Family ES
+#EXTINF:-1 tvg-id="AFV.ES" tvg-logo="https://i.imgur.com/HUK4WXC.png" group-title="Entertainment",TV AFV Family ES
 https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8?#/TV AFV Family ES
 
-#EXTINF:-1 tvg-id="AFV.us" tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="Comedy",TV AFV Family US
+#EXTINF:-1 tvg-id="AFV.us" tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="Entertainment",TV AFV Family US
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8?#/TV AFV Family US
 
-#EXTINF:-1 tvg-id="AFVEspanol.us" tvg-logo="https://i.imgur.com/HUK4WXC.png" group-title="Comedy",TV AFV Family ES
+#EXTINF:-1 tvg-id="AFVEspanol.us" tvg-logo="https://i.imgur.com/HUK4WXC.png" group-title="Entertainment",TV AFV Family ES
 https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8?#/TV AFV Family ES
 
-#EXTINF:-1 tvg-id="AFV.us" tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="Comedy",TV AFV Family US
+#EXTINF:-1 tvg-id="AFV.us" tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="Entertainment",TV AFV Family US
 https://ec4a5bcc9d664b48985de6095931aaa7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_AmericasFunniestHomeVideos/playlist.m3u8?#/TV AFV Family US
 
-#EXTINF:-1 tvg-id="peopleareAwesome.br" tvg-logo="https://i.imgur.com/Si9Dp5k.png" group-title="Comedy",TV People Are Awesome
+#EXTINF:-1 tvg-id="peopleareAwesome.br" tvg-logo="https://i.imgur.com/Si9Dp5k.png" group-title="Entertainment",TV People Are Awesome
 https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8?#/TV People Are Awesome
 
-#EXTINF:-1 tvg-id="peopleare.Awesome" tvg-logo="https://i.imgur.com/Si9Dp5k.png" group-title="Comedy",TV People Are Awesome
+#EXTINF:-1 tvg-id="peopleare.Awesome" tvg-logo="https://i.imgur.com/Si9Dp5k.png" group-title="Entertainment",TV People Are Awesome
 https://965a56fdfe3c40cd9b73c49a0cde620b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_PeopleAreAwesome-1/playlist.m3u8?#/TV People Are Awesome
 
-#EXTINF:-1 tvg-id="ComedyPlay.ro" tvg-logo="https://i.imgur.com/Pa0fDpM.png" group-title="Comedy",TV Comedy Play 
+#EXTINF:-1 tvg-id="ComedyPlay.ro" tvg-logo="https://i.imgur.com/Pa0fDpM.png" group-title="Entertainment",TV Comedy Play 
 https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8?#/TV Comedy Play 
 
-#EXTINF:-1 tvg-id="Comedy.s" tvg-logo="https://i.imgur.com/Pa0fDpM.png" group-title="Comedy",TV Comedy
+#EXTINF:-1 tvg-id="Comedy.s" tvg-logo="https://i.imgur.com/Pa0fDpM.png" group-title="Entertainment",TV Comedy
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=264#/TV Comedy
 
-#EXTINF:-1 tvg-id="CanelaClasicos" tvg-logo="https://i.imgur.com/8Hllkpk.png" group-title="Comedy",TV Canela Clasicos
+#EXTINF:-1 tvg-id="CanelaClasicos" tvg-logo="https://i.imgur.com/8Hllkpk.png" group-title="Entertainment",TV Canela Clasicos
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652#/TV Canela Clasicos
 
-
-
-#EXTINF:-1 tvg-id="TVTeleVisa.mx" tvg-logo="https://i.imgur.com/QrA2g6C.png" group-title="General",TV TeleVisa
-https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?#/TV TeleVisa
-
-
-#EXTINF:-1 tvg-id="JustForLaughsGags" tvg-logo="https://i.imgur.com/Lc3PoTH.png" group-title="intrattenimento",TV Just For Laughs Gags
+#EXTINF:-1 tvg-id="JustForLaughsGags" tvg-logo="https://i.imgur.com/Lc3PoTH.png" group-title="Entertainment",TV Just For Laughs Gags
 https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/1200.m3u8?#/TV Just For Laughs Gags
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pyWojfO.png" tvg-name="5-Minute.Crafts" group-title="General",TV 5-Minute Crafts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pyWojfO.png" tvg-name="5-Minute.Crafts" group-title="Entertainment",TV 5-Minute Crafts
 https://amg02051-soulpublishing-amg02051c7-plex-us-306.playouts.now.amagi.tv/playlist/amg02051-amg02051c7-306/cb543d197c6c6c8d84cb3960cef044a0f9a953fc087a8d6933fb4b926bc10f41f9e5af86a540ff1902cb5d81385e7d585677ab4096295dd7dd6ada146d20436bfaf9b30ac7981a08b3d80a342ab27d0020ff1705a165137edcde1f0aae34a1365040bf473d0072c59621c90b2ed99056d2247c9bda88326222434fec051fbafd0bbcf9e74345c66fa2b41556942a4df7ff1d9b8d40ee90b70ac812c42fee119e95ee88d500f7d2c67ca854b37a59167233c9c23dc49b0bb0899e6b6ad1707f124e18b7f296f8033dd1411511a9ad99ec60fa179d8b218738055061f23eecba37d8cb73c5c37ce2cb99cd435b30a8b6230b4593c4d0447fa851c70bc8adfcc97b3cb8fb116a4eca6ca25343ce564eaa66eee40097a4228bb17a143982e62d7a7c01e29dd2a06de649e7cefa992e02696616038f4ee8fd07be7a8a20f99e4166343935c64f93dd21f00b901b3526bb1ef51a3c1991faa2d20b29c3631a15db61d664356dd9386346524c93655d41863c0389393cb40d7bd002b49425fbb2c3be461abbdad54df66bafec5192c60bb168301951f3d03956494832e0df372c7e289b14b5839faf275857a2d69cb7807228173512650989c9ee64d4db937e534597136e4b5c243aba489665d60b4c4009cc1dd8a34034a60e3322eba2700b0c22c686e2d2d28f8415e02793e2f23b26375c238e3203277cdaf9d80aaa7618283a7884082b12ee561412a4c587b5ebec04a9bd6aae2a6d1d67b7914e3b4c38154405949764d22c84b412b69cc659b68aaa4214d61de16d3d91d2d560fdadb1cf400195a0354e3f8fb2c7a4b4f350ceb2f950e73caed1be85e613b539ea8d9180/78/640x360_880000/index.m3u8?#/TV 5-Minute Crafts
+
+#EXTINF:-1 tvg-id="TVGirlsPlanet" tvg-logo="https://i.imgur.com/CQ09ak1.png" group-title="Entertainment",TV Girls Planet
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5540#/TV Girls Planet
+
+#EXTINF:-1 tvg-id="TVNatureescape" tvg-logo="https://i.imgur.com/rAcn7zc.png" group-title="Entertainment",TV Natureescape
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=570#/TV Natureescape
+
+#EXTINF:-1 tvg-id="TVClio" tvg-logo="https://i.imgur.com/CQ09ak1.png" group-title="Entertainment",TV Clio
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4870#/TV Clio
+
+#EXTINF:-1 tvg-id="TVCorazon" tvg-logo="https://i.imgur.com/VTn4zr3.png" group-title="Entertainment",TV Corazon
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4876#/TV Corazon
+
+#EXTINF:-1 tvg-id="AbsoluteRealitybyWETV.us" tvg-logo="https://i.imgur.com/Gtwk8ic.png" group-title="Entertainment",TV AMC Absolute Reality
+https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8?#/TV AMC Absolute Reality
+
+#EXTINF:-1 tvg-id="4UTV.tr" tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Entertainment",TV 4U TV
+https://hls.4utv.live/hls/stream.m3u8?#/TV 4U TV
+
+#EXTINF:-1 tvg-id="CanelaTelenovelas" tvg-logo="https://i.imgur.com/8Hllkpk.png" group-title="Entertainment",TV Canela Telenovelas 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152#/TV Canela Telenovelas 1
+#EXTINF:-1 tvg-id="CanelaTelenovelas" tvg-logo="https://i.imgur.com/8Hllkpk.png" group-title="Entertainment",TV Canela Telenovelas 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=170#/TV Canela Telenovelas 2
+#EXTINF:-1 tvg-id="CanelaTelenovelas" tvg-logo="https://i.imgur.com/8Hllkpk.png" group-title="Entertainment",TV Canela Telenovelas 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=185#/TV Canela Telenovelas 3
+#EXTINF:-1 tvg-id="CanelaTelenovelas" tvg-logo="https://i.imgur.com/8Hllkpk.png" group-title="Entertainment",TV Canela Telenovelas 4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=237#/TV Canela Telenovelas 4
+#EXTINF:-1 tvg-id="CanelaTelenovelas" tvg-logo="https://i.imgur.com/8Hllkpk.png" group-title="Entertainment",TV Canela Telenovelas 5
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=118#/TV Canela Telenovelas 5
 
 
 
@@ -114,6 +136,8 @@ https://bonappetit-samsung.amagi.tv/playlist.m3u8?#/TV Bon Appetit 1
 
 
 
+#EXTINF:-1 tvg-id="TVTeleVisa.mx" tvg-logo="https://i.imgur.com/QrA2g6C.png" group-title="General",TV TeleVisa
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?#/TV TeleVisa
 
 #EXTINF:-1 tvg-id="PetClubTV" tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="General",TV Pet Club TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8?#/TV Pet Club TV
@@ -136,6 +160,70 @@ https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8?#/TV T
 #EXTINF:-1 tvg-id="P.EU" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="General",TV The Pet Collective EU
 https://81d1c38525014f39a1705b01e04d91c2.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_ThePetCollective-1/playlist.m3u8?#/TV The Pet Collective EU
 
+#EXTINF:-1 tvg-id="discovery.SA" tvg-logo="https://i.imgur.com/61siK0t.png" group-title="General",TV Discovery SA
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8?#/TV Discovery SA
+
+#EXTINF:-1 tvg-id="FLORIDA.br" tvg-logo="https://i.imgur.com/klBkNoV.png" group-title="General",TV FLORIDA
+https://srv1.zcast.com.br/tvflorida/tvflorida/playlist.m3u8?#/TV FLORIDA
+
+#EXTINF:-1 tvg-id="AllWeddingsWEtv.us" tvg-logo="https://i.imgur.com/OjLCew5.png" group-title="General",TV AMC All Weddings
+https://d85lu9l3axp7b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49b4g6287mnav/playlist.m3u8?#/TV AMC All Weddings
+
+#EXTINF:-1 tvg-id="1AlmereTV.nl" tvg-logo="https://i.imgur.com/XfkbTrU.png" group-title="General",TV 1Almere
+https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8?#/TV 1Almere
+
+#EXTINF:-1 tvg-id="2MInternational.ma" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General",TV 2M Monde
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8?#/TV 2M Monde
+
+#EXTINF:-1 tvg-id="3AW.au" tvg-logo="https://i.imgur.com/Z4MdB0S.png" group-title="General",TV 3AW Melbourne
+https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8?#/TV 3AW Melbourne
+
+#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://i.imgur.com/8Hllkpk.png" group-title="General",TV CanelaTV 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=155#/TV CanelaTV 1
+
+#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://i.imgur.com/8Hllkpk.png" group-title="General",TV CanelaTV 2
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65#/TV CanelaTV 2
+
+#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://i.imgur.com/8Hllkpk.png" group-title="General",TV CanelaTV 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058#/TV CanelaTV 3
+
+#EXTINF:-1 tvg-id="Canal7TeleValencia.es" tvg-logo="https://i.imgur.com/ILfXDRs.png" group-title="General",TV 7 TeleValencia
+https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8?#/TV 7 TeleValencia
+
+#EXTINF:-1 tvg-id="12TVParma.it" tvg-logo="https://i.imgur.com/mBYxWOg.png" group-title="General",TV 12 TV Parma
+https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8?#/TV 12 TV Parma
+
+#EXTINF:-1 tvg-id="Channel12.ru" tvg-logo="https://i.imgur.com/OA9hm6e.png" group-title="General",TV 12 канал
+https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8?#/TV 12 канал
+
+#EXTINF:-1 tvg-id="20MinutesTV.fr" tvg-logo="https://i.imgur.com/6cfDK68.png" group-title="General",TV 20 Minutes
+https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8?#/TV 20 Minutes
+
+#EXTINF:-1 tvg-id="TVFOX" tvg-logo="https://i.imgur.com/9uSvpL2.png" group-title="General",TV Fox HD
+https://stream01.vnet.am/Fox/mono.m3u8?#/TV Fox HD
+
+#EXTINF:-1 tvg-id="FoxSoul.us" tvg-logo="https://i.imgur.com/9uSvpL2.png" group-title="General",TV Fox Soul
+https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8?#/TV Fox Soul
+
+#EXTINF:-1 tvg-id="network.us" tvg-logo="https://i.imgur.com/xazwnkT.png" group-title="General",TV network General
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=143#/TV network General
+
+#EXTINF:-1 tvg-id="network.us" tvg-logo="https://i.imgur.com/xazwnkT.png" group-title="General",TV network Game
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=144#/TV network Game
+
+#EXTINF:-1 tvg-id="network.us" tvg-logo="https://i.imgur.com/xazwnkT.png" group-title="General",TV network REALIT
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=147#/TV network REALIT
+
+#EXTINF:-1 tvg-id="network.us" tvg-logo="https://i.imgur.com/xazwnkT.png" group-title="General",TV network CONSTRUT
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=151#/TV network CONSTRUT
+
+#EXTINF:-1 tvg-id="network.us" tvg-logo="https://i.imgur.com/xazwnkT.png" group-title="General",TV network PRANK MY PET!
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=264#/TV network PRANK MY PET!
+
+#EXTINF:-1 tvg-id="network.us" tvg-logo="https://i.imgur.com/xazwnkT.png" group-title="General",TV network Doc
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=279#/TV network Doc
+
+
 
 
 #EXTINF:-1 tvg-id="AccuWeatherNOW.us" tvg-logo="https://i.imgur.com/M8wbVYK.png" group-title="Weather",TV AccuWeather Now
@@ -144,8 +232,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/
 #EXTINF:-1 tvg-id="WeatherSpy.in" tvg-logo="https://i.imgur.com/KIEKOt1.png" group-title="Weather",TV WeatherSpy IN
 https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8?#/TV WeatherSpy IN
 
-#EXTINF:-1 tvg-id="discovery.SA" tvg-logo="https://i.imgur.com/61siK0t.png" group-title="General",TV Discovery SA
-https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8?#/TV Discovery SA
+
 
 
 
@@ -155,6 +242,12 @@ https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8?#/
 
 #EXTINF:-1 tvg-id="CineRomantico.us" tvg-logo="https://i.imgur.com/FUrrDrb.png" group-title="Movies",TV Cine Romantico
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656#/TV Cine Romantico
+
+#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://i.imgur.com/8Hllkpk.png" group-title="Movies",TV CanelaTV Cinema
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4882#/TV CanelaTV Cinema
+
+#EXTINF:-1 tvg-id="TVion.us" tvg-logo="https://i.imgur.com/gzCTKpt.png" group-title="Movies",TV Ion
+https://scripps-ion-1-us.vizio.wurl.tv/playlist.m3u8?#/TV Ion
 
 #EXTINF:-1 tvg-id="BizzarroMovies.it" tvg-logo="https://i.imgur.com/kNGpFHX.png" group-title="Movies",TV Bizzarro Movies
 https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8?#/TV Bizzarro Movies
@@ -198,8 +291,23 @@ https://2bc7b486c90441a480dcab4bcdc6fbb5.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nfnWwgR.png" tvg-name="RakutenTV" group-title="Movies",TV Rakuten Serie Crime
 https://3fda343656db4a4e9f2891dbb516d55d.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-it_SerieCrime/playlist.m3u8?#/TV Rakuten Serie Crime
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nfnWwgR.png" tvg-name="RakutenTV" group-title="Movies",TV Rakuten VIKI
+#EXTINF:-1 tvg-id="RakutenTV" tvg-logo="https://i.imgur.com/nfnWwgR.png" group-title="Movies",TV Rakuten VIKI
 https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8?#/TV Rakuten VIKI
+
+#EXTINF:-1 tvg-id="CrimeHunters" tvg-logo="https://i.imgur.com/2iMqzKK.png" group-title="Movies",TV Crime Hunters
+https://amg01201-cinedigmenterta-crimehunters-cineverse-cnqvb.amagi.tv/playlist/amg01201-cinedigmenterta-crimehunters-cineverse/playlist.m3u8?#/TV Crime Hunters
+
+#EXTINF:-1 tvg-id="AMGTV.us" tvg-logo="https://i.imgur.com/m5Anun9.png" group-title="Movies",TV AMG
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8?#/TV AMG
+
+#EXTINF:-1 tvg-id="XITE" tvg-logo="https://i.imgur.com/VaDrfKr.png" group-title="Movies",TV XITE
+https://xite-samsung-de.amagi.tv/playlist.m3u8?#/TV XITE
+
+#EXTINF:-1 tvg-id="Circle" tvg-logo="https://i.imgur.com/ZqcNRbd.png" group-title="Movies",TV Circle
+https://circle-samsung.amagi.tv/playlist.m3u8?#/TV Circle
+
+#EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="https://i.imgur.com/8KQirah.png" group-title="Movies",TV Travelxp
+https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8?#/TV Travelxp
 
 #EXTINF:-1 tvg-id="networkFM.us" tvg-logo="https://i.imgur.com/CQ09ak1.png" group-title="Movies",TV network Movies 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=166#/TV network Movies 2
@@ -221,23 +329,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=425#/TV network Movies 6
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VaDrfKr.png" group-title="Family",TV XITE
-https://xite-samsung-de.amagi.tv/playlist.m3u8?#/TV XITE
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZqcNRbd.png" group-title="Family",TV Circle
-https://circle-samsung.amagi.tv/playlist.m3u8?#/TV Circle
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FNFFhEq.png" group-title="General",TV Horse and Country
-https://hncfree-samsung-uk.amagi.tv/playlist.m3u8?#/TV Horse and Country
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8KQirah.png" tvg-id="Travelxp.in" group-title="Travel",TV Travelxp
-https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8?#/TV Travelxp
-
-#EXTINF:-1 tvg-id="FLORIDA.br" tvg-logo="https://i.imgur.com/klBkNoV.png" group-title="General",TV FLORIDA
-https://srv1.zcast.com.br/tvflorida/tvflorida/playlist.m3u8?#/TV FLORIDA
-
-#EXTINF:-1 tvg-id="TVion.us" tvg-logo="https://i.imgur.com/gzCTKpt.png" group-title="General",TV Ion
-https://scripps-ion-1-us.vizio.wurl.tv/playlist.m3u8?#/TV Ion
 
 
 
@@ -263,6 +356,11 @@ https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WEM9B83.png" group-title="sport",TV Tennis Channel UK
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8?#/TV Tennis Channel UK
 
+#EXTINF:-1 tvg-id="TVMOTORVISION" tvg-logo="https://i.imgur.com/CQ09ak1.png" group-title="sport",TV MOTORVISION
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=758#/TV MOTORVISION
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FNFFhEq.png" group-title="sport",TV Horse and Country
+https://hncfree-samsung-uk.amagi.tv/playlist.m3u8?#/TV Horse and Country
 
 
 
@@ -313,42 +411,12 @@ https://timeline-samsung-uk.amagi.tv/playlist.m3u8?#/TV Timeline UK
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mTd5yQ0.png" group-title="News",TV TYT
 https://tyt-samsungus.amagi.tv/playlist.m3u8?#/TV TYT
 
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="News",TV Bloomberg
+https://bloomberg-bloombergtv-5-eu.plex.wurl.tv/playlist.m3u8?#/TV Bloomberg
 
+#EXTINF:-1 tvg-id="Cheddar.us" tvg-logo="https://i.imgur.com/r6J2HbL.png" group-title="News",TV Cheddar
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=102#/TV Cheddar
 
-
-
-
-
-#EXTINF:-1 tvg-id="TVGirlsPlanet" tvg-logo="https://i.imgur.com/CQ09ak1.png" group-title="Entertainment",TV Girls Planet
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5540#/TV Girls Planet
-
-#EXTINF:-1 tvg-id="TVNatureescape" tvg-logo="https://i.imgur.com/CQ09ak1.png" group-title="Entertainment",TV Natureescape
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=570#/TV Natureescape
-
-#EXTINF:-1 tvg-id="TVMOTORVISION" tvg-logo="https://i.imgur.com/CQ09ak1.png" group-title="Entertainment",TV MOTORVISION
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=758#/TV MOTORVISION
-
-#EXTINF:-1 tvg-id="TVClio" tvg-logo="https://i.imgur.com/CQ09ak1.png" group-title="Entertainment",TV Clio
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4870#/TV Clio
-
-#EXTINF:-1 tvg-id="TVCorazon" tvg-logo="https://i.imgur.com/VTn4zr3.png" group-title="Entertainment",TV Corazon
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4876#/TV Corazon
-
-#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://i.imgur.com/8Hllkpk.png" group-title="General",TV CanelaTV Cinema
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4882#/TV CanelaTV Cinema
-
-
-
-
-
-#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://i.imgur.com/8Hllkpk.png" group-title="General",TV CanelaTV 1
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=155#/TV CanelaTV 1
-
-#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://i.imgur.com/8Hllkpk.png" group-title="General",TV CanelaTV 2
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65#/TV CanelaTV 2
-
-#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://i.imgur.com/8Hllkpk.png" group-title="General",TV CanelaTV 3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058#/TV CanelaTV 3
 
 
 
@@ -370,96 +438,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=198#/TV Toon Goggle 6
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=221#/TV Toon Goggle 7
 #EXTINF:-1 tvg-id="Toon.Goggle" tvg-logo="https://i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=125#/TV Toon Goggle 8
-
-
-#EXTINF:-1 tvg-id="CanelaTelenovelas" tvg-logo="https://i.imgur.com/8Hllkpk.png" group-title="General",TV Canela Telenovelas 1
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152#/TV Canela Telenovelas 1
-#EXTINF:-1 tvg-id="CanelaTelenovelas" tvg-logo="https://i.imgur.com/8Hllkpk.png" group-title="General",TV Canela Telenovelas 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=170#/TV Canela Telenovelas 2
-#EXTINF:-1 tvg-id="CanelaTelenovelas" tvg-logo="https://i.imgur.com/8Hllkpk.png" group-title="General",TV Canela Telenovelas 3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=185#/TV Canela Telenovelas 3
-#EXTINF:-1 tvg-id="CanelaTelenovelas" tvg-logo="https://i.imgur.com/8Hllkpk.png" group-title="General",TV Canela Telenovelas 4
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=237#/TV Canela Telenovelas 4
-#EXTINF:-1 tvg-id="CanelaTelenovelas" tvg-logo="https://i.imgur.com/8Hllkpk.png" group-title="General",TV Canela Telenovelas 5
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=118#/TV Canela Telenovelas 5
-
-
-
-#EXTINF:-1 tvg-id="AbsoluteRealitybyWETV.us" tvg-logo="https://i.imgur.com/Gtwk8ic.png" group-title="Entertainment",TV AMC Absolute Reality
-https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8?#/TV AMC Absolute Reality
-
-#EXTINF:-1 tvg-id="AllWeddingsWEtv.us" tvg-logo="https://i.imgur.com/OjLCew5.png" group-title="General",TV AMC All Weddings
-https://d85lu9l3axp7b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49b4g6287mnav/playlist.m3u8?#/TV AMC All Weddings
-
-#EXTINF:-1 tvg-id="1AlmereTV.nl" tvg-logo="https://i.imgur.com/XfkbTrU.png" group-title="General",TV 1Almere
-https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8?#/TV 1Almere
-
-#EXTINF:-1 tvg-id="2MInternational.ma" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General",TV 2M Monde
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8?#/TV 2M Monde
-
-#EXTINF:-1 tvg-id="AMGTV.us" tvg-logo="https://i.imgur.com/m5Anun9.png" group-title="Family",TV AMG
-https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8?#/TV AMG
-
-#EXTINF:-1 tvg-id="3AW.au" tvg-logo="https://i.imgur.com/Z4MdB0S.png" group-title="General",TV 3AW Melbourne
-https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8?#/TV 3AW Melbourne
-
-#EXTINF:-1 tvg-id="4UTV.tr" tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Entertainment",TV 4U TV
-https://hls.4utv.live/hls/stream.m3u8?#/TV 4U TV
-
-#EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",TV Bloomberg
-https://bloomberg-bloombergtv-5-eu.plex.wurl.tv/playlist.m3u8?#/TV Bloomberg
-
-
-#EXTINF:-1 tvg-id="Canal7TeleValencia.es" tvg-logo="https://i.imgur.com/ILfXDRs.png" group-title="General",TV 7 TeleValencia
-https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8?#/TV 7 TeleValencia
-
-#EXTINF:-1 tvg-id="12TVParma.it" tvg-logo="https://i.imgur.com/mBYxWOg.png" group-title="General",TV 12 TV Parma
-https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8?#/TV 12 TV Parma
-
-#EXTINF:-1 tvg-id="Channel12.ru" tvg-logo="https://i.imgur.com/OA9hm6e.png" group-title="General",TV 12 канал
-https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8?#/TV 12 канал
-
-#EXTINF:-1 tvg-id="20MinutesTV.fr" tvg-logo="https://i.imgur.com/6cfDK68.png" group-title="General",TV 20 Minutes
-https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8?#/TV 20 Minutes
-
-#EXTINF:-1 tvg-id="Cheddar.us" tvg-logo="https://i.imgur.com/r6J2HbL.png" group-title="General",TV Cheddar
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=102#/TV Cheddar
-
-#EXTINF:-1 tvg-id="CrimeHunters" tvg-logo="https://i.imgur.com/2iMqzKK.png" group-title="Documentary",TV Crime Hunters
-https://amg01201-cinedigmenterta-crimehunters-cineverse-cnqvb.amagi.tv/playlist/amg01201-cinedigmenterta-crimehunters-cineverse/playlist.m3u8?#/TV Crime Hunters
-
-
-#EXTINF:-1 tvg-id="TVFOX" tvg-logo="https://i.imgur.com/9uSvpL2.png" group-title="General",TV Fox HD
-https://stream01.vnet.am/Fox/mono.m3u8?#/TV Fox HD
-
-#EXTINF:-1 tvg-id="FoxSoul.us" tvg-logo="https://i.imgur.com/9uSvpL2.png" group-title="Culture",TV Fox Soul
-https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8?#/TV Fox Soul
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="network.us" tvg-logo="https://i.imgur.com/xazwnkT.png" group-title="General",TV network General
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=143#/TV network General
-
-#EXTINF:-1 tvg-id="network.us" tvg-logo="https://i.imgur.com/xazwnkT.png" group-title="General",TV network Game
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=144#/TV network Game
-
-#EXTINF:-1 tvg-id="network.us" tvg-logo="https://i.imgur.com/xazwnkT.png" group-title="General",TV network REALIT
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=147#/TV network REALIT
-
-#EXTINF:-1 tvg-id="network.us" tvg-logo="https://i.imgur.com/xazwnkT.png" group-title="General",TV network CONSTRUT
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=151#/TV network CONSTRUT
-
-
-
-#EXTINF:-1 tvg-id="network.us" tvg-logo="https://i.imgur.com/xazwnkT.png" group-title="General",TV network PRANK MY PET!
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=264#/TV network PRANK MY PET!
-
-#EXTINF:-1 tvg-id="network.us" tvg-logo="https://i.imgur.com/xazwnkT.png" group-title="General",TV network Doc
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=279#/TV network Doc
 
 
 
