@@ -421,6 +421,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=102#/TV Cheddar
 
 
 
+#EXTINF:-1 tvg-id="CanelaKids" tvg-logo="https://i.imgur.com/KploheM.png" group-title="Kids",TV Canela Kids
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=654#/TV Canela Kids
 
 #EXTINF:-1 tvg-id="Toon.Goggle" tvg-logo="https://i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=224#/TV Toon Goggle 1
