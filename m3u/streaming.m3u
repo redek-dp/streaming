@@ -261,7 +261,7 @@ https://scripps-ion-1-us.vizio.wurl.tv/playlist.m3u8?#/TV Ion
 https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8?#/TV Bizzarro Movies
 
 #EXTINF:-1 tvg-id="Filmrise.us" tvg-logo="https://i.imgur.com/UfWI47m.png" group-title="Movies",TV Filmrise
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=426#/TV Filmrise
+https://d2gjhy8g9ziabr.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/26784555-85cc-408d-9b82-7400a97314db/4.m3u8?#/TV Filmrise
 
 #EXTINF:-1 tvg-id="CineLife.us" tvg-logo="https://i.imgur.com/RIUNuMQ.png" group-title="Movies",TV CineLife
 https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8?#/TV CineLife
