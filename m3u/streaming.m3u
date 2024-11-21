@@ -263,9 +263,6 @@ https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8?#/TV WeatherSpy IN
 
 
 
-
-
-
 #EXTINF:-1 tvg-id="CineRomantico.us" tvg-logo="https://i.imgur.com/FUrrDrb.png" group-title="Movies",TV Cine Romantico
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656#/TV Cine Romantico
 
@@ -293,7 +290,6 @@ https://minerva-cinemasegreto-1-it.samsung.wurl.tv/playlist.m3u8?#/TV Cinema Seg
 #EXTINF:-1 tvg-id="Cine5.tr" tvg-logo="https://i.imgur.com/AmcOAIY.png" group-title="Movies",TV Cine 5
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8?#/TV Cine 5
 
-
 #EXTINF:-1 tvg-id="Rakuten.TV" tvg-logo="https://i.imgur.com/nfnWwgR.png" group-title="Movies",TV Rakuten Family Movies ES
 https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8?#/TV Rakuten Family Movies ES
 
@@ -305,6 +301,9 @@ https://rakuten-family-7-fr.samsung.wurl.tv/playlist.m3u8?#/TV Rakuten Family Mo
 
 #EXTINF:-1 tvg-id="Rakuten.TV" tvg-logo="https://i.imgur.com/nfnWwgR.png" group-title="Movies",TV Rakuten Family Movies FI
 https://rakuten-family-12-fi.samsung.wurl.tv/playlist.m3u8?#/TV Rakuten Family Movies FI
+
+#EXTINF:-1 tvg-id="Rakuten.TV" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="Movies",TV Rakuten Family Movies UK
+https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8?#/TV Rakuten Family Movies UK
 
 #EXTINF:-1 tvg-id="Rakuten.TV" tvg-logo="https://i.imgur.com/nfnWwgR.png" group-title="Movies",TV Rakuten Cinema Italiano
 https://006280332e644bb9badb80cb614c00b6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_Classics/playlist.m3u8?#/TV Rakuten Cinema Italiano
@@ -446,6 +445,21 @@ https://bloomberg-bloombergtv-5-eu.plex.wurl.tv/playlist.m3u8?#/TV Bloomberg
 
 #EXTINF:-1 tvg-id="Cheddar.us" tvg-logo="https://i.imgur.com/r6J2HbL.png" group-title="News",TV Cheddar
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=102#/TV Cheddar
+
+#EXTINF:-1 tvg-id="AXSTVNOW.us" tvg-logo="https://i.imgur.com/lYa793q.png" group-title="News",TV AXS NOW
+https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8?#/TV AXS NOW
+
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="News",TV CGTN Doc
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8?#/TV CGTN Doc
+
+#EXTINF:-1 tvg-id="Dateline247.us" tvg-logo="https://i.imgur.com/8mAJuut.png" group-title="News",TV Dateline
+https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8?#/TV Dateline
+
+#EXTINF:-1 tvg-id="RTDocumentary" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="News",TV RT Documentary En
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8?#/TV RT Documentary En
+
+#EXTINF:-1 tvg-id="RTDocumentary" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="News",TV RT Documentary Ru
+https://hls.rt.com/hls/rtdru.m3u8?#/TV RT Documentary Ru
 
 
 

@@ -1,33 +1,5 @@
 #EXTM3U
 
-
-
-
-
-#EXTINF:-1 tvg-id="AXSTVNOW.us" tvg-logo="https://i.imgur.com/lYa793q.png" group-title="Documentary",TV AXS NOW
-https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8?#/TV AXS NOW
-
-#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="Documentary",TV CGTN Documentary
-https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8?#/TV CGTN Documentary
-
-#EXTINF:-1 tvg-id="Dateline247.us" tvg-logo="https://i.imgur.com/8mAJuut.png" group-title="Documentary",TV Dateline
-https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8?#/TV Dateline
-
-#EXTINF:-1 tvg-id="LEspritSorcierTV.fr" tvg-logo="https://i.imgur.com/zyh8yub.png" group-title="Documentary;Education",TV L'Esprit Sorcier 
-https://194270.global.ssl.fastly.net/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8?#/TV L'Esprit Sorcier 
-
-#EXTINF:-1 tvg-id="NovaTVAgrotour.br" tvg-logo="https://i.imgur.com/cgN2hfm.png" group-title="Documentary;Science",TV Agrotour
-https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8?#/TV Agrotour
-
-#EXTINF:-1 tvg-id="RTDocumentary" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="Documentary",TV RT Documentary English
-https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8?#/TV RT Documentary English
-
-#EXTINF:-1 tvg-id="RTDocumentary" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="Documentary",TV RT Documentary Russian
-https://hls.rt.com/hls/rtdru.m3u8?#/TV RT Documentary Russian
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M8wbVYK.png" tvg-id="AccuWeather" group-title="Weather",TV AccuWeather Now
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?#/TV AccuWeather Now
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S0ISpmU.png" tvg-id="CWBTV" group-title="General",TV CWB
 https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8?#/TV CWB
 
@@ -36,9 +8,6 @@ https://tbn-jw.cdn.vustreams.com/live/positivtv/live.isml/playlist.m3u8?#/TV Pos
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m5Anun9.png" tvg-id="AMGTV" group-title="Family",TV AMG
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8?#/TV AMG
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hboiinD.jpg" tvg-id="RakutenFamilyMoviesUK" group-title="Movies",TV Rakuten Family Movies UK
-https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8?#/TV Rakuten Family Movies UK
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XRTfoSp.png" tvg-id="AKCTV.us" group-title="Outdoor",TV AKC
 https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8?#/TV AKC
