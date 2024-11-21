@@ -307,7 +307,7 @@ https://rakuten-family-7-fr.samsung.wurl.tv/playlist.m3u8?#/TV Rakuten Family Mo
 #EXTINF:-1 tvg-id="Rakuten.TV" tvg-logo="https://i.imgur.com/nfnWwgR.png" group-title="Movies",TV Rakuten Family Movies FI
 https://rakuten-family-12-fi.samsung.wurl.tv/playlist.m3u8?#/TV Rakuten Family Movies FI
 
-#EXTINF:-1 tvg-id="Rakuten.TV" tvg-logo="https://i.imgur.com/nfnWwgR" group-title="Movies",TV Rakuten Family Movies UK
+#EXTINF:-1 tvg-id="Rakuten.TV" tvg-logo="https://i.imgur.com/nfnWwgR.png" group-title="Movies",TV Rakuten Family Movies UK
 https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8?#/TV Rakuten Family Movies UK
 
 #EXTINF:-1 tvg-id="Rakuten.TV" tvg-logo="https://i.imgur.com/nfnWwgR.png" group-title="Movies",TV Rakuten Cinema Italiano
