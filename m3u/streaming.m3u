@@ -242,6 +242,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=264#/TV network PRANK MY P
 #EXTINF:-1 tvg-id="network.us" tvg-logo="https://i.imgur.com/xazwnkT.png" group-title="General",TV network Doc
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=279#/TV network Doc
 
+#EXTINF:-1 tvg-id="HuntChannel.us" tvg-logo="https://i.imgur.com/uhEn9SF.png" group-title="General",TV Hunt Channel
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8?#/TV Hunt Channel
+
+#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="General",TV Outdoor Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8?#/TV Outdoor Channel
+
 
 
 
@@ -382,8 +388,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=758#/TV MOTORVISION
 #EXTINF:-1 tvg-id="TVMOTORVISION" tvg-logo="https://i.imgur.com/cDZN0Nd.png" group-title="sport",TV MOTORVISION
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=757#/TV MOTORVISION
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FNFFhEq.png" group-title="sport",TV Horse and Country
+#EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-logo="https://i.imgur.com/FNFFhEq.png" group-title="sport",TV Horse and Country
 https://hncfree-samsung-uk.amagi.tv/playlist.m3u8?#/TV Horse and Country
+
+#EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-logo="https://i.imgur.com/1x6zYZr.png" group-title="sport",TV Horse and Country Free
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00810-horsecountrytvl-hncfreenz-samsungnz/playlist.m3u8?#/TV Horse and Country Free
 
 
 
