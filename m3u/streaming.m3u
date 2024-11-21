@@ -398,6 +398,9 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8?#/TV FOX News Now
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News",TV Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8?#/TV Al Jazeera English
 
+#EXTINF:-1 tvg-id="RT.en.Espanol" tvg-logo="https://i.imgur.com/2g0OksY.png" group-title="News",TV RT en Es
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8?#/TV RT en Es
+
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://i.imgur.com/FChBkNY.png" group-title="News",TV DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?#/TV DW English
 
@@ -406,6 +409,9 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8?#/TV TRT World
 
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",TV Euronews BE
 https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8?#/TV Euronews BE
+
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/LdtrAp5.png" group-title="News",TV Record News
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116#/TV Record News
 
 #EXTINF:-1 tvg-id="KXVADT1.us" tvg-logo="https://i.imgur.com/9uSvpL2.png" group-title="News",TV Fox 15 West Texas Abilene TX
 https://livevideo01.myfoxzone.com/hls/live/2017381/elvs/live.m3u8?#/TV Fox 15 West Texas Abilene TX
@@ -464,6 +470,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=654#/TV Canela Kids
 
 #EXTINF:-1 tvg-id="DuckTV" tvg-logo="https://i.imgur.com/lJMSDB1.png" group-title="Kids",TV Duck TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7617#/TV Duck TV
+
+#EXTINF:-1 tvg-id="Devseven.Tv" tvg-logo="https://i.imgur.com/AmewaLx.png" group-title="Kids",TV DevsevenTv
+https://redek-dp.github.io/streaming/dnetwork/playlist.m3u8?#/TV DevsevenTv
 
 #EXTINF:-1 tvg-id="Toon.Goggle" tvg-logo="https://i.imgur.com/HiTKBKC.png" group-title="Kids",TV Toon Goggle 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=224#/TV Toon Goggle 1
