@@ -73,7 +73,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=652#/TV Canela Clasicos
 #EXTINF:-1 tvg-id="JustForLaughsGags" tvg-logo="https://i.imgur.com/Lc3PoTH.png" group-title="Entertainment",TV Just For Laughs Gags
 https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/1200.m3u8?#/TV Just For Laughs Gags
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pyWojfO.png" tvg-name="5-Minute.Crafts" group-title="Entertainment",TV 5-Minute Crafts
+#EXTINF:-1 tvg-id="5-Minute.Crafts" tvg-logo="https://i.imgur.com/pyWojfO.png" group-title="Entertainment",TV 5-Minute Crafts
 https://amg02051-soulpublishing-amg02051c7-plex-us-306.playouts.now.amagi.tv/playlist/amg02051-amg02051c7-306/cb543d197c6c6c8d84cb3960cef044a0f9a953fc087a8d6933fb4b926bc10f41f9e5af86a540ff1902cb5d81385e7d585677ab4096295dd7dd6ada146d20436bfaf9b30ac7981a08b3d80a342ab27d0020ff1705a165137edcde1f0aae34a1365040bf473d0072c59621c90b2ed99056d2247c9bda88326222434fec051fbafd0bbcf9e74345c66fa2b41556942a4df7ff1d9b8d40ee90b70ac812c42fee119e95ee88d500f7d2c67ca854b37a59167233c9c23dc49b0bb0899e6b6ad1707f124e18b7f296f8033dd1411511a9ad99ec60fa179d8b218738055061f23eecba37d8cb73c5c37ce2cb99cd435b30a8b6230b4593c4d0447fa851c70bc8adfcc97b3cb8fb116a4eca6ca25343ce564eaa66eee40097a4228bb17a143982e62d7a7c01e29dd2a06de649e7cefa992e02696616038f4ee8fd07be7a8a20f99e4166343935c64f93dd21f00b901b3526bb1ef51a3c1991faa2d20b29c3631a15db61d664356dd9386346524c93655d41863c0389393cb40d7bd002b49425fbb2c3be461abbdad54df66bafec5192c60bb168301951f3d03956494832e0df372c7e289b14b5839faf275857a2d69cb7807228173512650989c9ee64d4db937e534597136e4b5c243aba489665d60b4c4009cc1dd8a34034a60e3322eba2700b0c22c686e2d2d28f8415e02793e2f23b26375c238e3203277cdaf9d80aaa7618283a7884082b12ee561412a4c587b5ebec04a9bd6aae2a6d1d67b7914e3b4c38154405949764d22c84b412b69cc659b68aaa4214d61de16d3d91d2d560fdadb1cf400195a0354e3f8fb2c7a4b4f350ceb2f950e73caed1be85e613b539ea8d9180/78/640x360_880000/index.m3u8?#/TV 5-Minute Crafts
 
 #EXTINF:-1 tvg-id="TVGirlsPlanet" tvg-logo="https://i.imgur.com/CQ09ak1.png" group-title="Entertainment",TV Girls Planet
@@ -372,25 +372,25 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=425#/TV network Movies 6
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NmFHlyR.png" tvg-name="FuelRakutenTV" group-title="sport",TV FuelTV
+#EXTINF:-1 tvg-id="FuelRakutenTV" tvg-logo="https://i.imgur.com/NmFHlyR.png" group-title="sport",TV FuelTV
 https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8?#/TV FuelTV
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BXgQYuQ.png" tvg-name="World.Billiards.RakutenTV" group-title="sport",TV World Billiards
+#EXTINF:-1 tvg-id="World.Billiards.RakutenTV" tvg-logo="https://i.imgur.com/BXgQYuQ.png" group-title="sport",TV World Billiards
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8?#/TV World Billiards
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X4nWGli.png" tvg-name="GLORY.KickboxingRakutenTV" group-title="sport",TV GLORY Kickboxing
+#EXTINF:-1 tvg-id="GLORY.KickboxingRakutenTV" tvg-logo="https://i.imgur.com/X4nWGli.png" group-title="sport",TV GLORY Kickboxing
 https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8?#/TV GLORY Kickboxing
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4CBsU2H.png" tvg-name="Sport.Italia.RakutenTV" group-title="sport",TV Sport Italia
+#EXTINF:-1 tvg-id="Sport.Italia.RakutenTV" tvg-logo="https://i.imgur.com/4CBsU2H.png" group-title="sport",TV Sport Italia
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8?#/TV Sport Italia
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/befIEG8.png" tvg-name="Motorsport.RakutenTV" group-title="sport",TV Motorsport.tv
+#EXTINF:-1 tvg-id="Motorsport.RakutenTV" tvg-logo="https://i.imgur.com/befIEG8.png" group-title="sport",TV Motorsport.tv
 https://9e2ee5d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8?#/TV Motorsport.tv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zs1pP1w.png" tvg-name="MAVTV.Motorsports.NetworkRakutenTV" group-title="sport",TV MAVTV Motorsports
+#EXTINF:-1 tvg-id="Motorsports" tvg-logo="https://i.imgur.com/Zs1pP1w.png" group-title="sport",TV MAVTV Motorsports
 https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8?#/TV MAVTV Motorsports
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WEM9B83.png" group-title="sport",TV Tennis Channel UK
+#EXTINF:-1 tvg-id="tennischanne" tvg-logo="https://i.imgur.com/WEM9B83.png" group-title="sport",TV Tennis Channel UK
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8?#/TV Tennis Channel UK
 
 #EXTINF:-1 tvg-id="TVMOTORVISION" tvg-logo="https://i.imgur.com/cDZN0Nd.png" group-title="sport",TV MOTORVISION
@@ -404,6 +404,12 @@ https://hncfree-samsung-uk.amagi.tv/playlist.m3u8?#/TV Horse and Country
 
 #EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-logo="https://i.imgur.com/1x6zYZr.png" group-title="sport",TV Horse and Country Free
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00810-horsecountrytvl-hncfreenz-samsungnz/playlist.m3u8?#/TV Horse and Country Free
+
+#EXTINF:-1 tvg-id="OutsideTVPlus.us" tvg-logo="https://i.imgur.com/8AEfKB8.png" group-title="sport",TV Outside Plus
+https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxumo/CDN/master.m3u8?#/TV Outside Plus
+
+#EXTINF:-1 tvg-id="PursuitUP.us" tvg-logo="https://i.imgur.com/5Vzwqts.png" group-title="sport",TV Pursuit UP
+https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8?#/TV Pursuit UP
 
 
 
