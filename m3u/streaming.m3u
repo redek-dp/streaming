@@ -172,6 +172,15 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1993#/TV The Pet Collectiv
 #EXTINF:-1 tvg-id="P.EU" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="General",TV The Pet Collective EU
 https://81d1c38525014f39a1705b01e04d91c2.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_ThePetCollective-1/playlist.m3u8?#/TV The Pet Collective EU
 
+#EXTINF:-1 tvg-id="AKCTV.us" tvg-logo="https://i.imgur.com/XRTfoSp.png" group-title="General",TV AKC
+https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8?#/TV AKC
+
+#EXTINF:-1 tvg-id="AKCTV.us" tvg-logo="https://i.imgur.com/66avgdk.png" group-title="General",TV AKC Meet The Breeds
+https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8?#/TV AKC Meet The Breeds
+
+#EXTINF:-1 tvg-id="AKCTV.us" tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="General",TV AKC Puppies
+https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8?#/TV AKC Puppies
+
 #EXTINF:-1 tvg-id="discovery.SA" tvg-logo="https://i.imgur.com/61siK0t.png" group-title="General",TV Discovery SA
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8?#/TV Discovery SA
 
@@ -325,6 +334,9 @@ https://amg01201-cinedigmenterta-crimehunters-cineverse-cnqvb.amagi.tv/playlist/
 
 #EXTINF:-1 tvg-id="PosiTv" tvg-logo="https://i.imgur.com/1ZXeH8T.png" group-title="Movies",TV PosiTv
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1099#/TV PosiTv
+
+#EXTINF:-1 tvg-id="PositivTV" tvg-logo="https://i.imgur.com/MeTJggm.png" group-title="Movies",TV Positiv
+https://tbn-jw.cdn.vustreams.com/live/positivtv/live.isml/playlist.m3u8?#/TV Positiv
 
 #EXTINF:-1 tvg-id="AMGTV.us" tvg-logo="https://i.imgur.com/m5Anun9.png" group-title="Movies",TV AMG
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8?#/TV AMG

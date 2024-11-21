@@ -3,26 +3,8 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S0ISpmU.png" tvg-id="CWBTV" group-title="General",TV CWB
 https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8?#/TV CWB
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MeTJggm.png" tvg-id="PositivTV" group-title="Family",TV Positiv
-https://tbn-jw.cdn.vustreams.com/live/positivtv/live.isml/playlist.m3u8?#/TV Positiv
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m5Anun9.png" tvg-id="AMGTV" group-title="Family",TV AMG
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8?#/TV AMG
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XRTfoSp.png" tvg-id="AKCTV.us" group-title="Outdoor",TV AKC
-https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8?#/TV AKC
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/66avgdk.png" tvg-id="AKCTVMeettheBreeds.us" group-title="Outdoor",TV AKC Meet The Breeds
-https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8?#/TV AKC Meet The Breeds
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2nzRS60.png" tvg-id="AKCTVPuppies.us" group-title="Outdoor",TV AKC Puppies
-https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8?#/TV AKC Puppies
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k29So6X.png" tvg-id="CanaldoCriador.br" group-title="Outdoor",TV Canal do Criador
-https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8?#/TV Canal do Criador
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w9R9IIX.png" tvg-id="CanalRural.br" group-title="Outdoor",TV Canal Rural
-https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8?#/TV Canal Rural
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8AEfKB8.png" tvg-id="OutsideTVPlus.us" group-title="Outdoor",TV Outside Plus
 https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxumo/CDN/master.m3u8?#/TV Outside Plus
