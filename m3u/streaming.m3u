@@ -326,20 +326,20 @@ https://circle-samsung.amagi.tv/playlist.m3u8?#/TV Circle
 #EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="https://i.imgur.com/8KQirah.png" group-title="Movies",TV Travelxp
 https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8?#/TV Travelxp
 
-#EXTINF:-1 tvg-id="networkFM.us" tvg-logo="https://i.imgur.com/CQ09ak1.png" group-title="Movies",TV network Movies 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=166#/TV network Movies 2
+#EXTINF:-1 tvg-id="ElectricNow" tvg-logo="https://i.imgur.com/vTxL1pA.png" group-title="Movies",TV Electric Now 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=166#/TV Electric Now 1
 
-#EXTINF:-1 tvg-id="networkFM.us" tvg-logo="https://i.imgur.com/CQ09ak1.png" group-title="Movies",TV network Movies 3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=181#/TV network Movies 3
+#EXTINF:-1 tvg-id="ElectricNow" tvg-logo="https://i.imgur.com/vTxL1pA.png" group-title="Movies",TV Electric Now 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=181#/TV Electric Now 2
 
-#EXTINF:-1 tvg-id="networkFM.us" tvg-logo="https://i.imgur.com/CQ09ak1.png" group-title="Movies",TV network Movies 4
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=202#/TV network Movies 4
+#EXTINF:-1 tvg-id="ElectricNow" tvg-logo="https://i.imgur.com/vTxL1pA.png" group-title="Movies",TV Electric Now 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=202#/TV Electric Now 3
 
-#EXTINF:-1 tvg-id="networkFM.us" tvg-logo="https://i.imgur.com/CQ09ak1.png" group-title="Movies",TV network Movies 5
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=228#/TV network Movies 5
+#EXTINF:-1 tvg-id="ElectricNow" tvg-logo="https://i.imgur.com/vTxL1pA.png" group-title="Movies",TV Electric Now 4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=228#/TV Electric Now 4
 
-#EXTINF:-1 tvg-id="networkFM.us" tvg-logo="https://i.imgur.com/CQ09ak1.png" group-title="Movies",TV network Movies 6
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=425#/TV network Movies 6
+#EXTINF:-1 tvg-id="ElectricNow" tvg-logo="https://i.imgur.com/vTxL1pA.png" group-title="Movies",TV Electric Now 5
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=425#/TV Electric Now 5
 
 
 
