@@ -1,26 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mk28uUy.png" tvg-id="ThePetCollective" group-title="Family",TV The Pet Collective SE
-https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8?#/TV The Pet Collective SE
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w7RdSIk.png" tvg-id="ThePetCollective" group-title="Family",TV The Pet Collective IN
-https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8?#/TV The Pet Collective IN
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hboiinD.jpg" tvg-id="Rakuten.TV" group-title="Movies",TV Rakuten Family Movies ES
-https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8?#/TV Rakuten Family Movies ES
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hboiinD.jpg" tvg-id="Rakuten.TV" group-title="Movies",TV Rakuten Family Movies IT
-https://rakuten-family-6-it.samsung.wurl.tv/playlist.m3u8?#/TV Rakuten Family Movies IT
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hboiinD.jpg" tvg-id="Rakuten.TV" group-title="Movies",TV Rakuten Family Movies FR
-https://rakuten-family-7-fr.samsung.wurl.tv/playlist.m3u8?#/TV Rakuten Family Movies FR
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6vaHKgT.png" tvg-id="Rakuten.TV" group-title="Movies",TV Rakuten Family Movies FI
-https://rakuten-family-12-fi.samsung.wurl.tv/playlist.m3u8?#/TV Rakuten Family Movies FI
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KIEKOt1.png" tvg-id="WeatherSpy" group-title="Weather",TV WeatherSpy IN
-https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8?#/TV WeatherSpy IN
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9JTMh3F.jpg" tvg-id="Timeline.UK" group-title="News",TV Timeline UK
 https://timeline-samsung-uk.amagi.tv/playlist.m3u8?#/TV Timeline UK
 
@@ -29,9 +8,6 @@ https://xite-samsung-de.amagi.tv/playlist.m3u8?#/TV XITE
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZqcNRbd.png" tvg-id="TV.Circle" group-title="Family",TV Circle
 https://circle-samsung.amagi.tv/playlist.m3u8?#/TV Circle
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hc5a1YP.png" tvg-id="FOX.News.Now" group-title="News",TV FOX News Now
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8?#/TV FOX News Now
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tBvEL2d.png" tvg-id="Fox.Soul" group-title="News",TV Fox Soul
 https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8?#/TV Fox Soul
