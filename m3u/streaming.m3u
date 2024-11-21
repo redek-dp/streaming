@@ -217,6 +217,7 @@ https://stream01.vnet.am/Fox/mono.m3u8?#/TV Fox HD
 #EXTINF:-1 tvg-id="FoxSoul.us" tvg-logo="https://i.imgur.com/9uSvpL2.png" group-title="General",TV Fox Soul
 https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8?#/TV Fox Soul
 
+
 #EXTINF:-1 tvg-id="barktv" tvg-logo="https://i.imgur.com/f6vPSBf.png" group-title="General",TV Barktv
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=841#/TV Barktv
 
@@ -320,7 +321,6 @@ https://amg01201-cinedigmenterta-crimehunters-cineverse-cnqvb.amagi.tv/playlist/
 #EXTINF:-1 tvg-id="PosiTv" tvg-logo="https://i.imgur.com/1ZXeH8T.png" group-title="Movies",TV PosiTv
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1099#/TV PosiTv
 
-
 #EXTINF:-1 tvg-id="AMGTV.us" tvg-logo="https://i.imgur.com/m5Anun9.png" group-title="Movies",TV AMG
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8?#/TV AMG
 
@@ -347,10 +347,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=228#/TV network Movies 5
 
 #EXTINF:-1 tvg-id="networkFM.us" tvg-logo="https://i.imgur.com/CQ09ak1.png" group-title="Movies",TV network Movies 6
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=425#/TV network Movies 6
-
-
-
-
 
 
 

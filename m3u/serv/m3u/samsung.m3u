@@ -3,17 +3,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9JTMh3F.jpg" tvg-id="Timeline.UK" group-title="News",TV Timeline UK
 https://timeline-samsung-uk.amagi.tv/playlist.m3u8?#/TV Timeline UK
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VaDrfKr.png" tvg-id="XITE.de" group-title="Family",TV XITE
-https://xite-samsung-de.amagi.tv/playlist.m3u8?#/TV XITE
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZqcNRbd.png" tvg-id="TV.Circle" group-title="Family",TV Circle
-https://circle-samsung.amagi.tv/playlist.m3u8?#/TV Circle
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tBvEL2d.png" tvg-id="Fox.Soul" group-title="News",TV Fox Soul
-https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8?#/TV Fox Soul
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mTd5yQ0.png" tvg-id="TV.TYT" group-title="News",TV TYT
-https://tyt-samsungus.amagi.tv/playlist.m3u8?#/TV TYT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FNFFhEq.png" tvg-id="Horse.and.Country" group-title="General",TV Horse and Country
 https://hncfree-samsung-uk.amagi.tv/playlist.m3u8?#/TV Horse and Country
