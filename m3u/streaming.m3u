@@ -79,8 +79,8 @@ https://amg02051-soulpublishing-amg02051c7-plex-us-306.playouts.now.amagi.tv/pla
 #EXTINF:-1 tvg-id="TVNatureescape" tvg-logo="https://i.imgur.com/rAcn7zc.png" group-title="Entertainment",TV Natureescape
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=570#/TV Natureescape
 
-#EXTINF:-1 tvg-id="TVClio" tvg-logo="https://i.imgur.com/hEySeD5.png" group-title="Entertainment",TV Clio
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4870#/TV Clio
+#EXTINF:-1 tvg-id="TVClic" tvg-logo="https://i.imgur.com/hEySeD5.png" group-title="Entertainment",TV Clic
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4870#/TV Clic
 
 #EXTINF:-1 tvg-id="TVCorazon" tvg-logo="https://i.imgur.com/VTn4zr3.png" group-title="Entertainment",TV Corazon
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4876#/TV Corazon
