@@ -470,8 +470,8 @@
     },
     {
         "id": 69,
-        "tvtitle": "TV Aberta SP",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=cdn-canalpaulo.ciclano.io:1443\/canalpaulo\/canalpaulo\/playlist.m3u8",
+        "tvtitle": "TV Aberta",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=br5093.streamingdevideo.com.br/tvaberto/tvaberto/playlist.m3u8",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/streaming/refs/heads/gh-pages/m3u/serv/json/stv/img/abertasp.jpg",
         "tvgroup": "P\u00fablica"
     },
@@ -498,7 +498,7 @@
     },
     {
         "id": 73,
-        "tvtitle": "TV Cartoon Network 1",
+        "tvtitle": "TV Cartoon Network",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/streaming/refs/heads/gh-pages/m3u/serv/json/stv/img/cn.jpg",
         "tvgroup": "Kids"
