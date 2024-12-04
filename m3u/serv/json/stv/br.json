@@ -498,9 +498,9 @@
     },
     {
         "id": 73,
-        "tvtitle": "TV Cartoon Network",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/streaming/refs/heads/gh-pages/m3u/serv/json/stv/img/cn.jpg",
+        "tvtitle": "TV DuckTV",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=stream.ads.ottera.tv/playlist.m3u8?network_id=7617",
+        "tvlogo": "https://openimg.vercel.app/api/dopps?cll=ff5&open=https://i.imgur.com/lJMSDB1.png",
         "tvgroup": "Kids"
     },
     {
