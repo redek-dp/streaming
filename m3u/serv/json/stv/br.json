@@ -414,9 +414,9 @@
     },
     {
         "id": 61,
-        "tvtitle": "TV Cine Sureño",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/streaming/refs/heads/gh-pages/m3u/serv/json/stv/img/cinesureno.jpg",
+        "tvtitle": "TV Ion",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=scripps-ion-1-us.vizio.wurl.tv/playlist.m3u8",
+        "tvlogo": "https://openimg.vercel.app/api/dopps?cll=333&open=https://i.imgur.com/gzCTKpt.png",
         "tvgroup": "Movies"
     },
     {
