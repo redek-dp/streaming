@@ -692,140 +692,71 @@
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/streaming/refs/heads/gh-pages/m3u/serv/json/stv/img/galo.jpg",
         "tvgroup": "WebTV"
     },
-
-
-
-
-
-    
     {
-        "id": 134,
-        "tvtitle": "TV Rainbow Friends",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytrjson?vid=UCbVnZKrcrznPMI9qj0Utthg",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/streaming/refs/heads/gh-pages/m3u/serv/json/stv/img/smrf.jpg",
-        "tvgroup": "kids"
-    },
-    {
-        "id": 135,
+        "id": 101,
         "tvtitle": "TV Record",
         "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytrjson?vid=UCu_a6PAzp30Bn2mM-Ll09LA",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/streaming/refs/heads/gh-pages/m3u/serv/json/stv/img/record.jpg",
         "tvgroup": "Variedades"
     },
     {
-        "id": 136,
+        "id": 102,
         "tvtitle": "TV Japi",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=stmv1.paineltv.net/tvjapi/tvjapi/playlist.m3u8",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/streaming/refs/heads/gh-pages/m3u/serv/json/stv/img/japi.jpg",
         "tvgroup": "Variedades"
     },
     {
-        "id": 137,
-        "tvtitle": "TV Verdes Campos SAT",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytrjson?vid=UCTpTPeTa0kMgb7svGEsUQdQ",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/streaming/refs/heads/gh-pages/m3u/serv/json/stv/img/verdescsat.jpg",
-        "tvgroup": "Variedades"
-    },
-    {
-        "id": 138,
+        "id": 103,
         "tvtitle": "TV CBS News",
         "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytrjson?vid=UC8p1vwvWtl6T73JiExfWs1g",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/streaming/refs/heads/gh-pages/m3u/serv/json/stv/img/cbsn.jpg",
         "tvgroup": "Jornalismo"
     },
     {
-        "id": 139,
-        "tvtitle": "TV Record News",
-        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCuiLR4p6wQ3xLEm15pEn1Xw",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/streaming/refs/heads/gh-pages/m3u/serv/json/stv/img/rn.jpg",
-        "tvgroup": "Jornalismo"
-    },
-    {
-        "id": 140,
+        "id": 104,
         "tvtitle": "TV CBN",
         "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytrjson?vid=UCbiGwU0-W1XCDUrt3BTVrag",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/streaming/refs/heads/gh-pages/m3u/serv/json/stv/img/cbn.jpg",
         "tvgroup": "R\u00e1dio"
     },
     {
-        "id": 141,
-        "tvtitle": "TV Rede Premium",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=5c483b9d1019c.streamlock.net\/8066\/8066\/playlist.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/streaming/refs/heads/gh-pages/m3u/serv/json/stv/img/redepremium.jpg",
-        "tvgroup": "Variedades"
-    },
-    {
-        "id": 142,
-        "tvtitle": "TV Evangelizar",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=5f593df7851db.streamlock.net\/evangelizar\/tv\/playlist.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/streaming/refs/heads/gh-pages/m3u/serv/json/stv/img/evangelizar.jpg",
-        "tvgroup": "Religioso"
-    },
-    {
-        "id": 143,
-        "tvtitle": "TV Bon Appetit 1",
+        "id": 105,
+        "tvtitle": "TV Bon Appetit",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=bonappetit-samsung.amagi.tv/playlist.m3u8",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/streaming/refs/heads/gh-pages/m3u/serv/json/stv/img/bonappetit.jpg",
         "tvgroup": "Cooking"
     },
     {
-        "id": 144,
-        "tvtitle": "TV Bon Appetit 2",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbonappetit/CDN/playlist.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/streaming/refs/heads/gh-pages/m3u/serv/json/stv/img/bonappetit.jpg",
-        "tvgroup": "Cooking"
-    },
-    {
-        "id": 145,
-        "tvtitle": "TV The Pet Collective 1",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=the-pet-collective-international-ca.samsung.wurl.tv/playlist.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/streaming/refs/heads/gh-pages/m3u/serv/json/stv/img/thepetcollective.jpg",
-        "tvgroup": "Variedades"
-    },
-    {
-        "id": 145,
+        "id": 106,
         "tvtitle": "TV The Pet Collective 2",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=the-pet-collective-international-nl.samsung.wurl.tv/playlist.m3u8",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/streaming/refs/heads/gh-pages/m3u/serv/json/stv/img/thepetcollective.jpg",
         "tvgroup": "Variedades"
     },
     {
-        "id": 146,
-        "tvtitle": "TV The Pet Collective 3",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/playlist.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/streaming/refs/heads/gh-pages/m3u/serv/json/stv/img/thepetcollective.jpg",
-        "tvgroup": "Variedades"
-    },
-    {
-        "id": 147,
-        "tvtitle": "TV Crime 360",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=c9747bb6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19DcmltZTM2MF9ITFM/playlist.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/streaming/refs/heads/gh-pages/m3u/serv/json/stv/img/crime360.jpg",
-        "tvgroup": "Documentario"
-    },
-    {
-        "id": 148,
+        "id": 107,
         "tvtitle": "TV Crime Hunters",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=amg01201-cinedigmenterta-crimehunters-cineverse-cnqvb.amagi.tv/playlist/amg01201-cinedigmenterta-crimehunters-cineverse/playlist.m3u8",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/streaming/refs/heads/gh-pages/m3u/serv/json/stv/img/crimehunters.jpg",
         "tvgroup": "Documentario"
     },
     {
-        "id": 149,
+        "id": 108,
         "tvtitle": "TV Euronews",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/streaming/refs/heads/gh-pages/m3u/serv/json/stv/img/euronews.jpg",
         "tvgroup": "Jornalismo"
     },
     {
-        "id": 150,
+        "id": 109,
         "tvtitle": "TV ISTV",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/streaming/refs/heads/gh-pages/m3u/serv/json/stv/img/istv.jpg",
         "tvgroup": "Variedades"
     },
     {
-        "id": 160,
+        "id": 110,
         "tvtitle": "TV Monster Jam",
         "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytrjson?vid=UCngNXEVdMZge3OpnD8Ca0Lw",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/streaming/refs/heads/gh-pages/m3u/serv/json/stv/img/monsterjam.jpg",
