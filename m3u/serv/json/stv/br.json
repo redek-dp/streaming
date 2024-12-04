@@ -729,7 +729,7 @@
     },
     {
         "id": 106,
-        "tvtitle": "TV The Pet Collective 2",
+        "tvtitle": "TV The Pet Collective",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=the-pet-collective-international-nl.samsung.wurl.tv/playlist.m3u8",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/streaming/refs/heads/gh-pages/m3u/serv/json/stv/img/thepetcollective.jpg",
         "tvgroup": "Variedades"
