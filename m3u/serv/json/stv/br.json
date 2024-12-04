@@ -219,7 +219,7 @@
     {
         "id": 32,
         "tvtitle": "TV FailArmy",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=failarmy-international-ca.samsung.wurl.tv/playlist.m3u8",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=failarmy-international-br.samsung.wurl.tv/playlist.m3u8",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/streaming/refs/heads/gh-pages/m3u/serv/json/stv/img/failarmy.jpg",
         "tvgroup": "comedia"
     },
@@ -323,10 +323,10 @@
     },
     {
         "id": 48,
-        "tvtitle": "TV Pai Eterno",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=59f1cbe63db89.streamlock.net:1443\/teste01\/_definst_\/teste01\/playlist.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/streaming/refs/heads/gh-pages/m3u/serv/json/stv/img/paieterno.jpg",
-        "tvgroup": "Religioso"
+        "tvtitle": "TV Rede Familia",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=tv01.zas.media:1936/rftv/rftv/chunklist.m3u8",
+        "tvlogo": "https://openimg.vercel.app/api/dopps?cll=aaa&open=https://i.imgur.com/piYtcKd.png",
+        "tvgroup": "Variedades"
     },
     {
         "id": 49,
