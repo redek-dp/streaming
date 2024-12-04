@@ -442,9 +442,9 @@
     },
     {
         "id": 65,
-        "tvtitle": "TV ALERJ",
-        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCH1a8t5cikU9cYa69BLVfbQ",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/streaming/refs/heads/gh-pages/m3u/serv/json/stv/img/alerj.jpg",
+        "tvtitle": "TV BandNews",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytk/?vid=UCWijW6tW0iI5ghsAbWDFtTg",
+        "tvlogo": "https://openimg.vercel.app/api/dopps?cll=aaa&open=https://i.imgur.com/vAwAK4Z.png",
         "tvgroup": "Variedades"
     },
     {
