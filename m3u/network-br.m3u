@@ -159,11 +159,14 @@ https://cdn.live.br1.jmvstream.com/w/AVJ-15327/playlist/chunklist.m3u8?#/TV Alfe
 #EXTINF:-1 tvg-id="Devseven.br" tvg-logo="https://i.imgur.com/AmewaLx.png" group-title="Kids",TV DevsevenTv
 https://redek-dp.github.io/streaming/dnetwork/playlist.m3u8?#/TV DevsevenTv
 
+#EXTINF:-1 tvg-id="CanelaKids" tvg-logo="https://i.imgur.com/KploheM.png" group-title="Kids",TV Canela Kids
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=654#/TV Canela Kids
+
+#EXTINF:-1 tvg-id="DuckTV" tvg-logo="https://i.imgur.com/lJMSDB1.png" group-title="Kids",TV Duck TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7617#/TV Duck TV
+
 #EXTINF:-1 tvg-id="THESMURFSTV.br" tvg-logo="https://i.imgur.com/apIlcVx.png" group-title="Kids",TV THE SMURFS TV
 https://d144py1prrd7ns.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-affg2ev32s0dq/smrfe.m3u8?#/TV THE SMURFS TV
-
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-logo="https://i.imgur.com/yl4LFvw.png" group-title="Kids",TV Tooncast
-https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8?#/TV Tooncast
 
 #EXTINF:-1 tvg-id="TV.Jetson.br" tvg-logo="https://i.imgur.com/sMpSDCs.png" group-title="Kids",TV Jetson
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8?#/TV Jetson
@@ -176,6 +179,9 @@ https://w2.manasat.com/kkids/smil:kkids.smil/chunklist.m3u8?#/TV KURIAKOS KIDS
 
 #EXTINF:-1 tvg-id="KIDMAIS.br" tvg-logo="https://i.imgur.com/PjrLapD.png" group-title="Kids",TV KIDMAIS
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist.m3u8?#/TV KIDMAIS
+
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-logo="https://i.imgur.com/yl4LFvw.png" group-title="Kids",TV Tooncast
+https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8?#/TV Tooncast
 
 
 #EXTINF:-1 tvg-id="LOADINGTV.br" tvg-logo="https://i.imgur.com/0cttH0W.png" group-title="Animation",TV LOADING
