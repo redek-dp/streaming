@@ -594,6 +594,15 @@
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/streaming/refs/heads/gh-pages/m3u/serv/json/stv/img/maisb.jpg",
         "tvgroup": "radios"
     },
+
+    {
+        "id": 88,
+        "tvtitle": "TV LiveTV",
+        "tvmedia": "https://aptv.pages.dev/htv/d-framework/play/live/",
+        "tvlogo": "https://aptv.pages.dev/htv/d-framework/play/live/img/144.png",
+        "tvgroup": "Variedades"
+    },
+
     {
         "id": 85,
         "tvtitle": "TV SBT - RS",
