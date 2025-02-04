@@ -6,8 +6,8 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u
 #EXTINF:-1 tvg-id="TVRecord.br" tvg-logo="https://i.imgur.com/BXGmf7C.png" group-title="General",TV Record
 https://redek-dp.github.io/streaming/m3u/serv/live/record.m3u8?#/TV Record
 
-#EXTINF:-1 tvg-id="TVjp.br" tvg-logo="https://i.imgur.com/fUqDvD6.png" group-title="News",TV Jovem Pan News
-https://redek-dp.github.io/streaming/m3u/serv/live/jovempan.m3u8?#/TV Jovem Pan News
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/LdtrAp5.png" group-title="News",TV Record News
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116#/TV Record News
 
 #EXTINF:-1 tvg-id="TV+SBT.br" tvg-logo="https://i.imgur.com/VLdlLVF.png" group-title="General",TV +SBT
 https://cdn.live.br1.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8?#/TV +SBT
@@ -18,9 +18,6 @@ https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8?#/T
 #EXTINF:-1 tvg-id="TVSony.br" tvg-logo="https://i.imgur.com/il5Jgei.png" group-title="Series",TV Sony Novelas
 https://spt-novelas-1-us.vizio.wurl.tv/playlist.m3u8?#/TV Sony Novelas
 
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/LdtrAp5.png" group-title="News",TV Record News
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116#/TV Record News
-
 #EXTINF:-1 tvg-id="TVSul.br" tvg-logo="https://i.imgur.com/BeuiUtr.png" group-title="General",TV Sul
 https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8?#/TV Sul
 
@@ -28,7 +25,7 @@ https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8?#/TV Sul
 https://redek-dp.github.io/streaming/m3u/serv/live/band.m3u8?#/TV Band
 
 #EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/QC8SC4e.png" group-title="General",TV Rede Brasil
-https://video01.logicahost.com.br/redebrasil02/redebrasil02/chunklist.m3u8?#/TV Rede Brasil
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist.m3u8?#/TV Rede Brasil
 
 #EXTINF:-1 tvg-id="Radio.DecomStudio.br" tvg-logo="https://i.imgur.com/w1EgMgf.png" group-title="radio",Radio DecomStudio
 https://cloud.cdnseguro.com:2443/,.mp3?#/Radio DecomStudio
@@ -107,8 +104,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431#/TV RunTime News
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7326#/TV RunTime MotorVision
 
 
-#EXTINF:-1 tvg-id="tvzyn.br" tvg-logo="https://i.imgur.com/qmqxby4.png" group-title="Entertainment",TV ZYN
-https://redek-dp.github.io/streaming/m3u/serv/live/tvzyn.m3u8?#/TV ZYN
+#EXTINF:-1 tvg-id="TVSony.br" tvg-logo="https://i.imgur.com/il5Jgei.png" group-title="Entertainment",TV Sony Novelas
+https://redek-dp.github.io/streaming/m3u/serv/live/sony.m3u8?#/TV Sony Novelas 2
 
 #EXTINF:-1 tvg-id="playtv.br" tvg-logo="https://i.imgur.com/gQtxI5O.png" group-title="Entertainment",TV playtv
 https://isaocorp.cloudecast.com/playtv/tracks-v1/index.fmp4.m3u8?#/TV playtv
