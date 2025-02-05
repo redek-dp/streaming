@@ -110,6 +110,9 @@ https://redek-dp.github.io/streaming/m3u/serv/live/sony.m3u8?#/TV Sony Novelas 2
 #EXTINF:-1 tvg-id="playtv.br" tvg-logo="https://i.imgur.com/gQtxI5O.png" group-title="Entertainment",TV playtv
 https://isaocorp.cloudecast.com/playtv/tracks-v1/index.fmp4.m3u8?#/TV playtv
 
+#EXTINF:-1 tvg-id="TELABRASIL.br" tvg-logo="https://i.imgur.com/VZf4qCD.png" group-title="Entertainment",TV TELA BRASIL
+https://redek-dp.github.io/streaming/m3u/serv/live/telabr.m3u8?#/TV TELA BRASIL
+
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.br" tvg-logo="https://i.imgur.com/aiGQtzI.png" group-title="Movies",TV MyTime Movie Network BR
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8?#/TV MyTime Movie Network BR
 
