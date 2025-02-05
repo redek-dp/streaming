@@ -107,7 +107,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=7326#/TV RunTime MotorVisi
 #EXTINF:-1 tvg-id="SPARK.br" tvg-logo="https://i.imgur.com/3OKZbSx.png" group-title="Entertainment",TV SPARK
 https://candlelightmedia-sparklightlove-3-br.plex.wurl.tv/2000.m3u8?#/TV SPARK
 
-#EXTINF:-1 tvg-id="TVSony.br" tvg-logo="https://i.imgur.com/il5Jgei.png" group-title="Entertainment",TV Sony Novelas
+#EXTINF:-1 tvg-id="TVSony.br" tvg-logo="https://i.imgur.com/il5Jgei.png" group-title="Entertainment",TV Sony Novelas 2
 https://redek-dp.github.io/streaming/m3u/serv/live/sony.m3u8?#/TV Sony Novelas 2
 
 #EXTINF:-1 tvg-id="playtv.br" tvg-logo="https://i.imgur.com/gQtxI5O.png" group-title="Entertainment",TV playtv
