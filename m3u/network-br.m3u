@@ -82,25 +82,25 @@ https://redek-dp.github.io/streaming/m3u/serv/live/gazeta.m3u8?#/TV Gazeta
 
 #EXTINF:-1 tvg-id="TVRunTime.br" tvg-logo="https://i.imgur.com/htpUKDX.png" group-title="Series",TV RunTime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153#/TV RunTime
-#EXTINF:-1 tvg-id="TVRunTime.br" tvg-logo="https://i.imgur.com/htpUKDX.png" group-title="Series",TV RunTime Ação
+#EXTINF:-1 tvg-id="TVRunTime.br" tvg-logo="https://i.imgur.com/wotjgJn.png" group-title="Series",TV RunTime Ação
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552#/TV RunTime Ação
-#EXTINF:-1 tvg-id="TVRunTime.br" tvg-logo="https://i.imgur.com/htpUKDX.png" group-title="Series",TV RunTime Comédia
+#EXTINF:-1 tvg-id="TVRunTime.br" tvg-logo="https://i.imgur.com/wotjgJn.png" group-title="Series",TV RunTime Comédia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553#/TV RunTime Comédia
-#EXTINF:-1 tvg-id="TVRunTime.br" tvg-logo="https://i.imgur.com/htpUKDX.png" group-title="Series",TV RunTime Romance
+#EXTINF:-1 tvg-id="TVRunTime.br" tvg-logo="https://i.imgur.com/wotjgJn.png" group-title="Series",TV RunTime Romance
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866#/TV RunTime Romance
-#EXTINF:-1 tvg-id="TVRunTime.br" tvg-logo="https://i.imgur.com/htpUKDX.png" group-title="Series",TV RunTime CinEspanto
+#EXTINF:-1 tvg-id="TVRunTime.br" tvg-logo="https://i.imgur.com/wotjgJn.png" group-title="Series",TV RunTime CinEspanto
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865#/TV RunTime CinEspanto
-#EXTINF:-1 tvg-id="TVRunTime.br" tvg-logo="https://i.imgur.com/htpUKDX.png" group-title="Series",TV RunTime Crime
+#EXTINF:-1 tvg-id="TVRunTime.br" tvg-logo="https://i.imgur.com/wotjgJn.png" group-title="Series",TV RunTime Crime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864#/TV RunTime Crime
-#EXTINF:-1 tvg-id="TVRunTime.br" tvg-logo="https://i.imgur.com/htpUKDX.png" group-title="Series",TV RunTime TG
+#EXTINF:-1 tvg-id="TVRunTime.br" tvg-logo="https://i.imgur.com/yJkR6VX.png" group-title="Series",TV RunTime TG
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5442#/TV RunTime TG
-#EXTINF:-1 tvg-id="TVRunTime.br" tvg-logo="https://i.imgur.com/htpUKDX.png" group-title="Series",TV RunTime Familia
+#EXTINF:-1 tvg-id="TVRunTime.br" tvg-logo="https://i.imgur.com/wotjgJn.png" group-title="Series",TV RunTime Familia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589#/TV RunTime Familia
-#EXTINF:-1 tvg-id="TVRunTime.br" tvg-logo="https://i.imgur.com/htpUKDX.png" group-title="Series",TV RunTime MovieSphere
+#EXTINF:-1 tvg-id="TVRunTime.br" tvg-logo="https://i.imgur.com/yJkR6VX.png" group-title="Series",TV RunTime MovieSphere
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178#/TV RunTime MovieSphere
-#EXTINF:-1 tvg-id="TVRunTime.br" tvg-logo="https://i.imgur.com/htpUKDX.png" group-title="News",TV RunTime News
+#EXTINF:-1 tvg-id="TVRunTime.br" tvg-logo="https://i.imgur.com/yJkR6VX.png" group-title="News",TV RunTime News
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431#/TV RunTime News
-#EXTINF:-1 tvg-id="TVRunTime.br" tvg-logo="https://i.imgur.com/htpUKDX.png" group-title="Series",TV RunTime MotorVision
+#EXTINF:-1 tvg-id="TVRunTime.br" tvg-logo="https://i.imgur.com/yJkR6VX.png" group-title="Series",TV RunTime MotorVision
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7326#/TV RunTime MotorVision
 
 
