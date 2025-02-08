@@ -96,9 +96,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864#/TV RunTime Crime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5442#/TV RunTime TG
 #EXTINF:-1 tvg-id="TVRunTime.br" tvg-logo="https://i.imgur.com/wotjgJn.png" group-title="Series",TV RunTime Familia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589#/TV RunTime Familia
-#EXTINF:-1 tvg-id="TVRunTime.br" tvg-logo="https://i.imgur.com/yJkR6VX.png" group-title="Series",TV RunTime MovieSphere
+#EXTINF:-1 tvg-id="TVRunTime.br" tvg-logo="https://i.imgur.com/wotjgJn.png" group-title="Series",TV RunTime MovieSphere
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178#/TV RunTime MovieSphere
-#EXTINF:-1 tvg-id="TVRunTime.br" tvg-logo="https://i.imgur.com/yJkR6VX.png" group-title="News",TV RunTime News
+#EXTINF:-1 tvg-id="TVRunTime.br" tvg-logo="https://i.imgur.com/pTx6zvH.png" group-title="News",TV RunTime News
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431#/TV RunTime News
 #EXTINF:-1 tvg-id="TVRunTime.br" tvg-logo="https://i.imgur.com/yJkR6VX.png" group-title="Series",TV RunTime MotorVision
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7326#/TV RunTime MotorVision
