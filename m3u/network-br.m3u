@@ -303,7 +303,7 @@ https://live.cdn.upx.com/723b/myStream.sdp/chunklist_w1271257940.m3u8?867be4bf04
 #EXTINF:-1 tvg-id="TVCapitalTR.br" tvg-logo="https://i.imgur.com/2P3S0yl.png" group-title="General",TV Capital TR
 https://stmv2.samcast.com.br/tvcapitalteresina/tvcapitalteresina/chunklist.m3u8?#/TV Capital TR
 
-#EXTINF:-1 tvg-id="TVitape.br" tvg-logo="https://i.imgur.com/zMRUwFl.png" group-title="General",TV Itapé
+#EXTINF:-1 tvg-id="TVitape.br" tvg-logo="https://i.imgur.com/73XODo1.png" group-title="General",TV Itapé
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8?#/TV Itapé
 
 #EXTINF:-1 tvg-id="TVBrasilOeste.br" tvg-logo="https://i.imgur.com/noqGfuy.png" group-title="General",TV Brasil Oeste
