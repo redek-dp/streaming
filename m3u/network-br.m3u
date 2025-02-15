@@ -111,7 +111,7 @@ https://candlelightmedia-sparklightlove-3-br.plex.wurl.tv/2000.m3u8?#/TV SPARK
 https://redek-dp.github.io/streaming/m3u/serv/live/sony.m3u8?#/TV Sony Novelas 2
 
 #EXTINF:-1 tvg-id="Filmrise.br" tvg-logo="https://i.imgur.com/p787uYM.png" group-title="Entertainment",TV Filmrise
-https://redek-dp.github.io/streaming/m3u/serv/live/filmrise.m3u8?#/TV Filmrise
+https://redek-dp.github.io/streaming/m3u/serv/live/filrise.m3u8?#/TV Filmrise
 
 #EXTINF:-1 tvg-id="playtv.br" tvg-logo="https://i.imgur.com/gQtxI5O.png" group-title="Entertainment",TV playtv
 https://isaocorp.cloudecast.com/playtv/tracks-v1/index.fmp4.m3u8?#/TV playtv
