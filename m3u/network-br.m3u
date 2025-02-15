@@ -332,7 +332,7 @@ https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8?#/TV Re
 #EXTINF:-1 tvg-id="COMBrasil.br" tvg-logo="https://i.imgur.com/GrjGwKM.png" group-title="General",TV COM Brasil
 https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8?#/TV COM Brasil
 
-#EXTINF:-1 tvg-id="ConecTVBrasil.br" tvg-logo="https://i.imgur.com/XN6jjMR.png" group-title="General",TV ConecTV Brasil
+#EXTINF:-1 tvg-id="ConecTVBrasil.br" tvg-logo="https://i.imgur.com/vjGEDqg.png" group-title="General",TV ConecTV Brasil
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8?#/TV ConecTV Brasil
 
 #EXTINF:-1 tvg-id="CanaldoCriador.br" tvg-logo="https://i.imgur.com/aU6v1Ga.png" group-title="Outdoor",TV Canal do Criador
