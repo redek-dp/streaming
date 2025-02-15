@@ -306,9 +306,6 @@ https://stmv2.samcast.com.br/tvcapitalteresina/tvcapitalteresina/chunklist.m3u8?
 #EXTINF:-1 tvg-id="TVitape.br" tvg-logo="https://i.imgur.com/XeqcwKe.png" group-title="General",TV Itapé
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8?#/TV Itapé
 
-#EXTINF:-1 tvg-id="TVBoqueirao.br" tvg-logo="https://i.imgur.com/1XrArrG.png" group-title="Entertainment",TV Boqueirão
-https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8?#/TV Boqueirão
-
 #EXTINF:-1 tvg-id="TVBrasilOeste.br" tvg-logo="https://i.imgur.com/noqGfuy.png" group-title="General",TV Brasil Oeste
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/chunklist.m3u8?#/TV Brasil Oeste
 
