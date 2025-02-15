@@ -310,8 +310,9 @@ https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8?#/TV Itapé
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/chunklist.m3u8?#/TV Brasil Oeste
 
 
-#EXTINF:-1 tvg-id="TVBrasilCentral.br" tvg-logo="https://i.imgur.com/VgjVlp3.png" group-title="Entertainment",TV Brasil Central
+#EXTINF:-1 tvg-id="TVBrasilCentral.br" tvg-logo="https://i.imgur.com/Bx9SZ1x.png" group-title="Entertainment",TV Brasil Central
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist.m3u8?#/TV Brasil Central
+
 
 #EXTINF:-1 tvg-id="RedeMais.br" tvg-logo="https://i.imgur.com/JSiZG2B.png" group-title="General",TV Rede Mais
 https://5a0c3936c25c8.streamlock.net/8010/8010/playlist.m3u8?#/TV Rede Mais
