@@ -452,6 +452,24 @@ https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8?#/TV AXS NOW
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="News",TV CGTN Doc
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8?#/TV CGTN Doc
 
+#EXTINF:-1 tvg-id="CGTN" tvg-logo="https://i.imgur.com/rcGN4Hv.png" group-title="News",TV CGTN
+https://0472.org/hls/cgtn.m3u8?#/TV CGTN
+
+#EXTINF:-1 tvg-id="CGTN" tvg-logo="https://i.imgur.com/dB76aOR.png" group-title="News",TV CGTN Records
+https://0472.org/hls/cgtnd.m3u8?#/TV CGTN Records
+
+#EXTINF:-1 tvg-id="CGTN" tvg-logo="https://i.imgur.com/rcGN4Hv.png" group-title="News",TV CGTN PYC
+https://0472.org/hls/cgtne.m3u8?#/TV CGTN PYC
+
+#EXTINF:-1 tvg-id="CGTN" tvg-logo="https://i.imgur.com/rcGN4Hv.png" group-title="News",TV CGTN FR
+https://0472.org/hls/cgtnf.m3u8?#/TV CGTN FR
+
+#EXTINF:-1 tvg-id="CGTN" tvg-logo="https://i.imgur.com/rcGN4Hv.png" group-title="News",TV CGTN ES
+https://0472.org/hls/cgtnx.m3u8?#/TV CGTN ES
+
+#EXTINF:-1 tvg-id="CGTN" tvg-logo="https://i.imgur.com/rcGN4Hv.png" group-title="News",TV CGTN AB
+https://0472.org/hls/cgtna.m3u8?#/TV CGTN AB
+
 #EXTINF:-1 tvg-id="Dateline247.us" tvg-logo="https://i.imgur.com/8mAJuut.png" group-title="News",TV Dateline
 https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8?#/TV Dateline
 
