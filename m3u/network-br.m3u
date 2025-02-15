@@ -320,7 +320,7 @@ https://5a0c3936c25c8.streamlock.net/8010/8010/playlist.m3u8?#/TV Rede Mais
 #EXTINF:-1 tvg-id="RedeNGT.br" tvg-logo="https://i.imgur.com/0tNqVau.png" group-title="Entertainment",TV Rede NGT
 https://isaocorp.cloudecast.com/ngt/index.m3u8?#/TV Rede NGT
 
-#EXTINF:-1 tvg-id="RedeSPTV.br" tvg-logo="https://i.imgur.com/kh3LGAP.png" group-title="General",TV Rede SPTV
+#EXTINF:-1 tvg-id="RedeSPTV.br" tvg-logo="https://i.imgur.com/9HzOleb.png" group-title="General",TV Rede SPTV
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8?#/TV Rede SPTV
 
 #EXTINF:-1 tvg-id="RedeSul.br" tvg-logo="https://i.imgur.com/eUM67rj.png" group-title="General",TV Rede Sul
