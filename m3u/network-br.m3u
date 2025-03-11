@@ -200,6 +200,9 @@ https://canalgov-stream.ebc.com.br/index.m3u8?#/TV Canal Gov
 #EXTINF:-1 tvg-id="PetLovers.br" tvg-logo="https://i.imgur.com/Llot9c3.png" group-title="General",TV PetLovers
 https://video04.logicahost.com.br/petloverstv/petloverstv/chunklist.m3u8?#/TV PetLovers
 
+#EXTINF:-1 tvg-id="AKCTV.us" tvg-logo="https://i.imgur.com/XRTfoSp.png" group-title="General",TV AKC
+https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8?#/TV AKC
+
 #EXTINF:-1 tvg-id="Alfenas.br" tvg-logo="https://i.imgur.com/fJqPPHq.png" group-title="General",TV Alfenas
 https://cdn.live.br1.jmvstream.com/w/AVJ-15327/playlist/chunklist.m3u8?#/TV Alfenas
 
@@ -327,6 +330,9 @@ https://video01.logicahost.com.br/redebemtv/redebemtv/playlist.m3u8?#/TV Metropo
 
 #EXTINF:-1 tvg-id="Canal38.br" tvg-logo="https://i.imgur.com/co7TCWC.png" group-title="News",TV Canal 38
 https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8?#/TV Canal 38
+
+#EXTINF:-1 tvg-id="asharqd" tvg-logo="https://i.imgur.com/rAGDv4h.png" group-title="News",TV Asharqd
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8?#/TV Asharqd
 
 
 

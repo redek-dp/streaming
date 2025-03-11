@@ -185,8 +185,8 @@ https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8?#/TV 
 #EXTINF:-1 tvg-id="AKCTV.us" tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="General",TV AKC Puppies
 https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8?#/TV AKC Puppies
 
-#EXTINF:-1 tvg-id="discovery.SA" tvg-logo="https://i.imgur.com/61siK0t.png" group-title="General",TV Discovery SA
-https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8?#/TV Discovery SA
+#EXTINF:-1 tvg-id="asharqd" tvg-logo="https://i.imgur.com/rAGDv4h.png" group-title="General",TV Asharqd
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8?#/TV Asharqd
 
 #EXTINF:-1 tvg-id="FLORIDA.br" tvg-logo="https://i.imgur.com/klBkNoV.png" group-title="General",TV FLORIDA
 https://srv1.zcast.com.br/tvflorida/tvflorida/playlist.m3u8?#/TV FLORIDA
