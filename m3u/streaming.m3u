@@ -134,8 +134,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=180#/TV Cooking Panda
 #EXTINF:-1 tvg-id="Cooking.Panda" tvg-logo="https://i.imgur.com/wlLaXr6.png" group-title="Cooking",TV Cooking Panda
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=207#/TV Cooking Panda
 
-#EXTINF:-1 tvg-id="bonappetit" tvg-logo="https://i.imgur.com/YhFFxlE.png" group-title="Cooking",TV Bon Appetit 1
-https://bonappetit-samsung.amagi.tv/playlist.m3u8?#/TV Bon Appetit 1
+#EXTINF:-1 tvg-id="bonappetit" tvg-logo="https://i.imgur.com/YhFFxlE.png" group-title="Cooking",TV Bon Appetit
+https://bonappetit-samsung.amagi.tv/playlist.m3u8?#/TV Bon Appetit
 
 #EXTINF:-1 tvg-id="NewKfood" tvg-logo="https://i.imgur.com/it4zthz.png" group-title="Cooking",TV NewKfood
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=880#/TV NewKfood
