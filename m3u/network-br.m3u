@@ -44,7 +44,7 @@ https://redek-dp.github.io/streaming/m3u/serv/live/RedeMinas.m3u8?#/TV Rede Mina
 
 
 #EXTINF:-1 tvg-id="redefamilia.br" tvg-logo="https://i.imgur.com/piYtcKd.png" group-title="General",TV Rede Familia
-https://tv01.zas.media:1936/rftv/rftv/chunklist.m3u8?#/TV Rede Familia
+https://tv03.zas.media:1936/rftv/rftv/playlist.m3u8?#/TV Rede Familia
 
 #EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/QC8SC4e.png" group-title="General",TV Rede Brasil PA
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/chunklist.m3u8?#/TV Rede Brasil PA
@@ -63,6 +63,9 @@ https://redek-dp.github.io/streaming/m3u/serv/live/tastemade.m3u8?#/TV Tastemade
 
 #EXTINF:-1 tvg-id="MasterChef.Br" tvg-logo="https://i.imgur.com/RMQEKvB.png" group-title="Cooking",TV MasterChef Brasil
 https://redek-dp.github.io/streaming/m3u/serv/live/MasterChefBr.m3u8?#/TV MasterChef Brasil
+
+#EXTINF:-1 tvg-id="gusto.tv" tvg-logo="https://i.imgur.com/swUX3hQ.png" group-title="Cooking",TV Gusto
+https://redek-dp.github.io/streaming/m3u/serv/live/gustotv.m3u8?#/TV Gusto
 
 #EXTINF:-1 tvg-id="GrjngoFilmesFaroeste.br" tvg-logo="https://i.imgur.com/0x8mThP.png" group-title="Filmes",TV Grjngo Filmes De Faroeste
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8?#/TV Grjngo Filmes De Faroeste
@@ -148,9 +151,8 @@ https://fashiontv-fashiontv-5-br.samsung.wurl.tv/playlist.m3u8?#/TV Fashion
 #EXTINF:-1 tvg-id="meio.br" tvg-logo="https://i.imgur.com/K93ditw.png" group-title="General",TV Meio
 https://redek-dp.github.io/streaming/m3u/serv/live/meio.m3u8?#/TV Meio
 
-
-#EXTINF:-1 tvg-id="redefamilia.br" tvg-logo="https://i.imgur.com/piYtcKd.png" group-title="General",TV Rede Familia
-https://tv01.zas.media:1936/rftv/rftv/chunklist.m3u8?#/TV Rede Familia
+#EXTINF:-1 tvg-id="redemaisfamilia.br" tvg-logo="https://i.imgur.com/UNYsbxs.png" group-title="General",TV Rede Mais Familia
+https://video09.logicahost.com.br/redefamilia/redefamilia/playlist.m3u8?#/TV Rede Mais Familia
 
 #EXTINF:-1 tvg-id="canalgov.br" tvg-logo="https://i.imgur.com/VxMK0Mk.png" group-title="General",TV Canal Gov
 https://canalgov-stream.ebc.com.br/index.m3u8?#/TV Canal Gov
