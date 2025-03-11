@@ -27,12 +27,6 @@ https://redek-dp.github.io/streaming/m3u/serv/live/band.m3u8?#/TV Band
 #EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/QC8SC4e.png" group-title="General",TV Rede Brasil
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist.m3u8?#/TV Rede Brasil
 
-#EXTINF:-1 tvg-id="Radio.DecomStudio.br" tvg-logo="https://i.imgur.com/w1EgMgf.png" group-title="radio",Radio DecomStudio
-https://cloud.cdnseguro.com:2443/,.mp3?#/Radio DecomStudio
-
-#EXTINF:-1 tvg-id="TVSoul.br" tvg-logo="https://i.imgur.com/UeRmF2P.png" group-title="General",TV Soul
-https://redek-dp.github.io/streaming/m3u/serv/live/cnn.m3u8?#/TV Soul
-
 #EXTINF:-1 tvg-id="TVBrasil.br" tvg-logo="https://i.imgur.com/x0Zo3Gw.png" group-title="Entertainment",TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8?#/TV Brasil
 
@@ -51,6 +45,12 @@ https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/chunklist.m3u8?#/TV Rede Bra
 
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="https://i.imgur.com/VKB6q8a.png" group-title="General",TV RedeTV!
 https://cdn.live.br1.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8?#/TV RedeTV!
+
+#EXTINF:-1 tvg-id="Radio.DecomStudio.br" tvg-logo="https://i.imgur.com/w1EgMgf.png" group-title="radio",Radio DecomStudio
+https://cloud.cdnseguro.com:2443/,.mp3?#/Radio DecomStudio
+
+#EXTINF:-1 tvg-id="TVSoul.br" tvg-logo="https://i.imgur.com/UeRmF2P.png" group-title="General",TV Soul
+https://redek-dp.github.io/streaming/m3u/serv/live/cnn.m3u8?#/TV Soul
 
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/LdtrAp5.png" group-title="News",TV Record News
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8?#/TV Record News
