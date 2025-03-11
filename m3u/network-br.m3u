@@ -113,6 +113,46 @@ https://candlelightmedia-sparklightlove-3-br.plex.wurl.tv/2000.m3u8?#/TV SPARK
 #EXTINF:-1 tvg-id="TVSony.br" tvg-logo="https://i.imgur.com/il5Jgei.png" group-title="Entertainment",TV Sony Novelas 2
 https://redek-dp.github.io/streaming/m3u/serv/live/sony.m3u8?#/TV Sony Novelas 2
 
+#EXTINF:-1 tvg-id="JustForLaughsGags" tvg-logo="https://i.imgur.com/Lc3PoTH.png" group-title="Entertainment",TV Just For Laughs Gags
+https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/1200.m3u8?#/TV Just For Laughs Gags
+
+#EXTINF:-1 tvg-id="5-Minute.Crafts" tvg-logo="https://i.imgur.com/pyWojfO.png" group-title="Entertainment",TV 5-Minute Crafts
+https://redek-dp.github.io/streaming/m3u/serv/live/MinuteCrafts.m3u8?#/TV 5-Minute Crafts
+
+#EXTINF:-1 tvg-id="CanelaTelenovelas" tvg-logo="https://i.imgur.com/8Hllkpk.png" group-title="Entertainment",TV Canela Telenovelas
+https://redek-dp.github.io/streaming/m3u/serv/live/CanelaTelenovelas.m3u8?#/TV Canela Telenovelas
+
+#EXTINF:-1 tvg-id="TVClic" tvg-logo="https://i.imgur.com/hEySeD5.png" group-title="Entertainment",TV Clic
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4870#/TV Clic
+
+#EXTINF:-1 tvg-id="TVCorazon" tvg-logo="https://i.imgur.com/VTn4zr3.png" group-title="Entertainment",TV Corazon
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4876#/TV Corazon
+
+#EXTINF:-1 tvg-id="CanelaClasicos" tvg-logo="https://i.imgur.com/8Hllkpk.png" group-title="Entertainment",TV Canela Clasicos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652#/TV Canela Clasicos
+
+#EXTINF:-1 tvg-id="TVTeleVisa.mx" tvg-logo="https://i.imgur.com/QrA2g6C.png" group-title="General",TV TeleVisa
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?#/TV TeleVisa
+
+#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://i.imgur.com/8Hllkpk.png" group-title="General",TV CanelaTV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=155#/TV CanelaTV
+
+
+#EXTINF:-1 tvg-id="Cooking.Panda" tvg-logo="https://i.imgur.com/wlLaXr6.png" group-title="Cooking",TV Cooking Panda
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=207#/TV Cooking Panda
+
+#EXTINF:-1 tvg-id="bonappetit" tvg-logo="https://i.imgur.com/YhFFxlE.png" group-title="Cooking",TV Bon Appetit
+https://bonappetit-samsung.amagi.tv/playlist.m3u8?#/TV Bon Appetit
+
+#EXTINF:-1 tvg-id="NewKfood" tvg-logo="https://i.imgur.com/it4zthz.png" group-title="Cooking",TV NewKfood
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=880#/TV NewKfood
+
+#EXTINF:-1 tvg-id="SoYummy" tvg-logo="https://i.imgur.com/AlZwBSn.png" group-title="Cooking",TV SoYummy
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1149#/TV SoYummy
+
+
+
+
 #EXTINF:-1 tvg-id="Filmrise.br" tvg-logo="https://i.imgur.com/p787uYM.png" group-title="Entertainment",TV Filmrise
 https://redek-dp.github.io/streaming/m3u/serv/live/filrise.m3u8?#/TV Filmrise
 

@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=CLOSED-CAPTIONS,GROUP-ID="captions",NAME="English",DEFAULT=NO,LANGUAGE="en",INSTREAM-ID="CC1"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=220000,CLOSED-CAPTIONS="captions"
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=170
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=185
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=237
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=118
