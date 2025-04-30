@@ -37,6 +37,10 @@ https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8
 https://redek-dp.github.io/streaming/m3u/serv/live/RedeMinas.m3u8?#/TV Rede Minas
 
 
+#EXTINF:-1 tvg-id="VGSTV.br" tvg-logo="https://i.imgur.com/CEYxr3S.png" group-title="Entretenimento",TV VGS
+https://isaocorp.cloudecast.com/vgstv/index.m3u8?#/TV VGS
+
+
 #EXTINF:-1 tvg-id="redefamilia.br" tvg-logo="https://i.imgur.com/piYtcKd.png" group-title="General",TV Rede Familia
 https://tv03.zas.media:1936/rftv/rftv/playlist.m3u8?#/TV Rede Familia
 
