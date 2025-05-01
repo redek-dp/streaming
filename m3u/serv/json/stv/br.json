@@ -160,24 +160,41 @@
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/streaming/refs/heads/gh-pages/m3u/serv/json/stv/img/amg.jpg",
         "tvgroup": "Publica"
     },
-
     {
-        "id": 230,
+        "id": 2300,
         "tvtitle": "TV GloboPlay",
         "tvmedia": "https://aptv.pages.dev/htv/d-framework/play/web/?url=https://globoplay.globo.com/tv-globo/ao-vivo/",
         "tvlogo": "https://s2.googleusercontent.com/s2/favicons?domain=https://globoplay.globo.com/tv-globo/ao-vivo/&amp;sz=50",
         "tvgroup": "Publica"
     },
-
     {
-        "id": 231,
+        "id": 2301,
         "tvtitle": "TV band",
         "tvmedia": "https://aptv.pages.dev/htv/d-framework/play/web/?url=https://www.band.com.br/ao-vivo",
         "tvlogo": "https://s2.googleusercontent.com/s2/favicons?domain=https://www.band.com.br/ao-vivo&amp;sz=50",
         "tvgroup": "Publica"
     },
-
-
+    {
+        "id": 2302,
+        "tvtitle": "TV redetv",
+        "tvmedia": "https://aptv.pages.dev/htv/d-framework/play/web/?url=https://www.redetv.uol.com.br/aovivo",
+        "tvlogo": "https://s2.googleusercontent.com/s2/favicons?domain=https://www.redetv.uol.com.br/aovivo&amp;sz=50",
+        "tvgroup": "Publica"
+    },
+    {
+        "id": 2303,
+        "tvtitle": "TV mais sbt",
+        "tvmedia": "https://aptv.pages.dev/htv/d-framework/play/web/?url=https://mais.sbt.com.br",
+        "tvlogo": "https://s2.googleusercontent.com/s2/favicons?domain=https://mais.sbt.com.br&amp;sz=50",
+        "tvgroup": "Publica"
+    },
+    {
+        "id": 2304,
+        "tvtitle": "TV Record play",
+        "tvmedia": "https://aptv.pages.dev/htv/d-framework/play/web/?url=https://www.playplus.com/live/",
+        "tvlogo": "https://s2.googleusercontent.com/s2/favicons?domain=https://www.playplus.com/live/&amp;sz=50",
+        "tvgroup": "Publica"
+    },
     {
         "id": 24,
         "tvtitle": "TV Metropole",
@@ -612,7 +629,6 @@
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/streaming/refs/heads/gh-pages/m3u/serv/json/stv/img/maisb.jpg",
         "tvgroup": "radios"
     },
-
     {
         "id": 88,
         "tvtitle": "TV LiveTV",
@@ -620,7 +636,6 @@
         "tvlogo": "https://aptv.pages.dev/htv/d-framework/play/live/img/144.png",
         "tvgroup": "Variedades"
     },
-
     {
         "id": 85,
         "tvtitle": "TV SBT - RS",
