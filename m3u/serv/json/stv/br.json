@@ -160,6 +160,24 @@
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/streaming/refs/heads/gh-pages/m3u/serv/json/stv/img/amg.jpg",
         "tvgroup": "Publica"
     },
+
+    {
+        "id": 230,
+        "tvtitle": "TV GloboPlay",
+        "tvmedia": "https://aptv.pages.dev/htv/d-framework/play/web/?url=https://globoplay.globo.com/tv-globo/ao-vivo/",
+        "tvlogo": "https://s2.googleusercontent.com/s2/favicons?domain=https://globoplay.globo.com/tv-globo/ao-vivo/&amp;sz=50",
+        "tvgroup": "Publica"
+    },
+
+    {
+        "id": 231,
+        "tvtitle": "TV band",
+        "tvmedia": "https://aptv.pages.dev/htv/d-framework/play/web/?url=https://www.band.com.br/ao-vivo",
+        "tvlogo": "https://s2.googleusercontent.com/s2/favicons?domain=https://www.band.com.br/ao-vivo&amp;sz=50",
+        "tvgroup": "Publica"
+    },
+
+
     {
         "id": 24,
         "tvtitle": "TV Metropole",
