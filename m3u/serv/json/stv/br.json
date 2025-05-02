@@ -310,7 +310,7 @@
     {
         "id": 3901,
         "tvtitle": "TV TimesBrasil",
-        "tvmedia": "https://aptv.pages.dev/htv/d-framework/play/web/?url=https://timesbrasil.com.br/videos/times-brasil-ao-vivo/",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytrjson?vid=UCY-FPXguTtLHSTK5YpQ-sgQ",
         "tvlogo": "https://s2.googleusercontent.com/s2/favicons?domain=https://timesbrasil.com.br/videos/times-brasil-ao-vivo/&amp;sz=50",
         "tvgroup": "News"
     },
