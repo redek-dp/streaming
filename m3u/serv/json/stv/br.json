@@ -308,6 +308,13 @@
         "tvgroup": "News"
     },
     {
+        "id": 3901,
+        "tvtitle": "TV TimesBrasil",
+        "tvmedia": "https://aptv.pages.dev/htv/d-framework/play/web/?url=https://timesbrasil.com.br/videos/times-brasil-ao-vivo/",
+        "tvlogo": "https://s2.googleusercontent.com/s2/favicons?domain=https://timesbrasil.com.br/videos/times-brasil-ao-vivo/&amp;sz=50",
+        "tvgroup": "News"
+    },
+    {
         "id": 40,
         "tvtitle": "TV DevsevenTv",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=redek-dp.github.io/streaming/dnetwork/playlist.m3u8",
