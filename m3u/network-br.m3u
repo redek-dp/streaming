@@ -305,8 +305,8 @@ https://apollo.production-public.tubi.io/live/ac-filmrise-true-crime.m3u8?#/TV F
 #EXTINF:-1 tvg-id="SICPT.br" tvg-logo="https://i.imgur.com/jAqKbkH.png" group-title="News",TV SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8?#/TV SIC
 
-#EXTINF:-1 tvg-id="Euronews.pt" tvg-logo="https://i.imgur.com/pLaIFyB.png" group-title="News",TV Euronews PT
-https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8?#/TV Euronews PT
+#EXTINF:-1 tvg-id="euronews.pt" tvg-logo="https://i.imgur.com/pLaIFyB.png" group-title="News",TV Euronews PT
+https://redek-dp.github.io/streaming/m3u/serv/live/euronews.m3u8?#/TV Euronews PT
 
 #EXTINF:-1 tvg-id="TVBRICSPortuguese.br" tvg-logo="https://i.imgur.com/TfbokAw.png" group-title="News",TV BRICS
 https://redek-dp.github.io/streaming/m3u/serv/live/BRICS.m3u8?#/TV BRICS
