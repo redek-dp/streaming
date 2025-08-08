@@ -2,6 +2,5 @@
 #EXT-X-VERSION:3
 #EXT-X-MEDIA:TYPE=CLOSED-CAPTIONS,GROUP-ID="captions",NAME="English",DEFAULT=NO,LANGUAGE="en",INSTREAM-ID="CC1"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=220000,CLOSED-CAPTIONS="captions"
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-65e9d0ad8fe4ef7053c3c86c/variant.m3u8?x-plex-token=v2GqUsmUk74tzxNHLvyS&x-plex-advertising-identifier=&x-plex-client-identifier=9c9083b4-41d0-4ead-a48b-ea51806551e9&x-plex-playback-id=p_d06ddc57-1d28-404a-990c-0e4175912ff2&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Android&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Edge&x-plex-platform-version=134.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1741727422&url=48a32a62f583a46f0a254d88ecf2b159-b886af4307bce9c96d344d458442581b17d7c36b2085b4856ad055cbe698331602dcf9360dcc960e56f6a22d9af2ab33655faeae613dbc61fecb651e2846b6d711858c5e688abfb1ba964173dd0e051f7cc1b9677b7ea6e31779c048507d4287ab23f2e3630545fda0c8a1184d26e3ef07d322af5e903f1b691906ccef8b8e870802a1d8ce0aa75cd8d3e390e973560fe32a7b445e50152a2c2017fd876b31b8
 https://apollo.production-public.tubi.io/live/ac-forensic-files.m3u8
 https://apollo.production-public.tubi.io/live/ac-filmrise-true-crime.m3u8
