@@ -511,6 +511,13 @@
         "tvgroup": "comedia"
     },
     {
+        "id": 6401,
+        "tvtitle": "TV Mr.Bean",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytk/?vid=UCkAGrHCLFmlK3H2kd6isipg",
+        "tvlogo": "https://openimg.vercel.app/api/dopps?cll=72b340&open=https://i.imgur.com/BZoOrJR.png",
+        "tvgroup": "comedia"
+    },
+    {
         "id": 64,
         "tvtitle": "TV Mr. Bean",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=redek-dp.github.io/streaming/m3u/serv/live/mrbean.m3u8",
