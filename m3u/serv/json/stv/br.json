@@ -224,6 +224,13 @@
         "tvgroup": "Cooking"
     },
     {
+        "id": 2282,
+        "tvtitle": "TV SBT News",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytk/?vid=UC376n347Ob5Lwzq2WGzF1AA",
+        "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/sbtw.jpg",
+        "tvgroup": "News"
+    },
+    {
         "id": 28,
         "tvtitle": "TV CNN",
         "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytk/?vid=UCvdwhh_fDyWccR42-rReZLw",
@@ -305,6 +312,13 @@
         "tvtitle": "TV Record News",
         "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytk/?vid=UCuiLR4p6wQ3xLEm15pEn1Xw",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/rn.jpg",
+        "tvgroup": "News"
+    },
+    {
+        "id": 2285,
+        "tvtitle": "TV 247",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytk/?vid=UCRuy5PigeeBuecKnwqhM4yg",
+        "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/tv247.jpg",
         "tvgroup": "News"
     },
     {
