@@ -378,6 +378,13 @@
         "tvgroup": "Documentario"
     },
     {
+        "id": 48250,
+        "tvtitle": "TV Discovery Vivo",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytk/?vid=UCt6iLNEJT6v9VHm9hQ04W6g",
+        "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/discovery.jpg",
+        "tvgroup": "Documentario"
+    },
+    {
         "id": 48,
         "tvtitle": "TV Discovery",
         "tvmedia": "https://www.youtube.com/embed/?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&list=UUt6iLNEJT6v9VHm9hQ04W6g",
