@@ -9,8 +9,8 @@ https://redek-dp.github.io/streaming/m3u/serv/live/record.m3u8?#/TV Record
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/LdtrAp5.png" group-title="News",TV Record News
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116#/TV Record News
 
-#EXTINF:-1 tvg-id="TV+SBT.br" tvg-logo="https://i.imgur.com/VLdlLVF.png" group-title="General",TV +SBT
-https://redek-dp.github.io/streaming/m3u/serv/live/sbt.m3u8?#/TV +SBT
+#EXTINF:-1 tvg-id="TV+SBTNews.br" tvg-logo="https://i.imgur.com/mUnSZ1b.png" group-title="General",TV SBT News
+https://redek-dp.github.io/streaming/m3u/serv/live/sbtnw.m3u8?#/TV SBT News
 
 #EXTINF:-1 tvg-id="CanalRural.br" tvg-logo="https://i.imgur.com/w9R9IIX.png" group-title="Outdoor",TV Canal Rural
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8?#/TV Canal Rural
