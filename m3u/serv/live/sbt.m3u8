@@ -2,6 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-MEDIA:TYPE=CLOSED-CAPTIONS,GROUP-ID="captions",NAME="English",DEFAULT=NO,LANGUAGE="en",INSTREAM-ID="CC1"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=220000,CLOSED-CAPTIONS="captions"
+https://aovivo.maissbt.com/indexMobile.m3u8
 https://aovivo.maissbt.com/channel.m3u8
 https://sbtnews.maissbt.com/channel.m3u8
 https://copanordeste2025.brasilstream.com.br/hls/copanordeste2025/index.m3u8

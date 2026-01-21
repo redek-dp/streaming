@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=346578,RESOLUTION=426x240,CODECS="avc1.42c015,mp4a.40.2"
-https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
+https://fast-channels-t.b-cdn.net/cnn/aovivo_abr/playlist.m3u8?zoneid=24425&token=da7d2787a41b4b115c9d4d772cf03259586e472d-f9fd4cb10514a90e004bb28f82fee986-1768813025-1768769825&bpkio_sessionid=10d1e34d127-c7fab3a0-f6b4-4d71-a00a-f7d94b673699&bpkio_serviceid=9978b7063e297d844e4cfae48f53628a&category=all
