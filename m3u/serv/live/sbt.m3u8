@@ -2,6 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-MEDIA:TYPE=CLOSED-CAPTIONS,GROUP-ID="captions",NAME="English",DEFAULT=NO,LANGUAGE="en",INSTREAM-ID="CC1"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=220000,CLOSED-CAPTIONS="captions"
+https://aovivo.maissbt.com/channel.m3u8
 https://copanordeste2025.brasilstream.com.br/hls/copanordeste2025/index.m3u8
 https://stream.amsolution.net.br:8443/live/66db1cf131d45/index.m3u8
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/chunklist_w268418685.m3u8
