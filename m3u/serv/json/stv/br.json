@@ -420,13 +420,6 @@
         "tvgroup": "Movies"
     },
     {
-        "id": 7212,
-        "tvtitle": "TV PuraTV",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytk/?vid=UCWFovw8iyHBezTmaEWEV0RA",
-        "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/apur.jpg",
-        "tvgroup": "Movies"
-    },
-    {
         "id": 50,
         "tvtitle": "TV NetMovies",
         "tvmedia": "https://www.youtube.com/embed/?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&start=60&list=UUK5RRQ3TdwAbbCWrtnXsN3Q",
