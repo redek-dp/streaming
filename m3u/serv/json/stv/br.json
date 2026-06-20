@@ -210,6 +210,13 @@
         "tvgroup": "Publica"
     },
     {
+        "id": 2314,
+        "tvtitle": "TV Record",
+        "tvmedia": "https://sinalpublicoetv.vercel.app/?id=record",
+        "tvlogo": "https://s2.googleusercontent.com/s2/favicons?domain=https://www.playplus.com/live/&amp;sz=50",
+        "tvgroup": "Publica"
+    },
+    {
         "id": 24,
         "tvtitle": "TV Metropole",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=cdn-fundacao-2110.ciclano.io:1443\/fundacao-2110\/fundacao-2110\/playlist.m3u8",
