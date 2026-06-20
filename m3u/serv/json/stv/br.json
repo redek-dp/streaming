@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
-        "tvtitle": "TV SBT",
-        "tvmedia": "https://www.youtube.com/embed/ABVQXgr2LW4?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1",
+        "tvtitle": "TV +SBT",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=redek-dp.github.io/streaming/m3u/serv/live/sbt.m3u8",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/sbt.jpg",
         "tvgroup": "Publica"
     },
@@ -56,9 +56,9 @@
         "tvgroup": "Publica"
     },
     {
-        "id": 9,
-        "tvtitle": "TV +SBT",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=redek-dp.github.io/streaming/m3u/serv/live/sbt.m3u8",
+        "id": 1,
+        "tvtitle": "TV SBT",
+        "tvmedia": "https://www.youtube.com/embed/ABVQXgr2LW4?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/sbt.jpg",
         "tvgroup": "Publica"
     },
@@ -431,6 +431,13 @@
         "tvtitle": "TV NetMovies",
         "tvmedia": "https://www.youtube.com/embed/?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&start=60&list=UUK5RRQ3TdwAbbCWrtnXsN3Q",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/netmovies.jpg",
+        "tvgroup": "Movies"
+    },
+    {
+        "id": 2587,
+        "tvtitle": "TV Grjngo",
+        "tvmedia": "https://aptv.pages.dev/htv/d-framework/play/web/?url=https://www.youtube.com/@GrjngoFilmesDeFaroeste/videos",
+        "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/grj.jpg",
         "tvgroup": "Movies"
     },
     {
