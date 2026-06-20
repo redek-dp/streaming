@@ -525,6 +525,13 @@
         "tvgroup": "comedia"
     },
     {
+        "id": 5785,
+        "tvtitle": "TV CazeTV",
+        "tvmedia": "https://aptv.pages.dev/htv/d-framework/play/web/?url=https://www.youtube.com/@CazeTV/live",
+        "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/cze.jpg",
+        "tvgroup": "Esportes"
+    },
+    {
         "id": 65,
         "tvtitle": "TV TNT Sports",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=video01.soultv.com.br/popbola/popbola/playlist.m3u8",
