@@ -413,6 +413,13 @@
         "tvgroup": "Documentario"
     },
     {
+        "id": 7258,
+        "tvtitle": "TV PuraTV",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytk/?vid=UCWFovw8iyHBezTmaEWEV0RA",
+        "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/apur.jpg",
+        "tvgroup": "Movies"
+    },
+    {
         "id": 50,
         "tvtitle": "TV NetMovies",
         "tvmedia": "https://www.youtube.com/embed/?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&start=60&list=UUK5RRQ3TdwAbbCWrtnXsN3Q",
@@ -529,6 +536,13 @@
         "tvtitle": "TV CazeTV",
         "tvmedia": "https://aptv.pages.dev/htv/d-framework/play/web/?url=https://www.youtube.com/@CazeTV/live",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/cze.jpg",
+        "tvgroup": "Esportes"
+    },
+    {
+        "id": 5787,
+        "tvtitle": "TV getv",
+        "tvmedia": "https://aptv.pages.dev/htv/d-framework/play/web/?url=https://www.youtube.com/@getv/live",
+        "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/gee.jpg",
         "tvgroup": "Esportes"
     },
     {
@@ -679,9 +693,23 @@
         "tvgroup": "Variedades"
     },
     {
+        "id": 84588,
+        "tvtitle": "TV SBT - SCC",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytk/?vid=UCEzVIIPtAIfsRCEHwn4AOzw",
+        "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/sbt.jpg",
+        "tvgroup": "Variedades"
+    },
+    {
         "id": 85,
         "tvtitle": "TV SBT - RS",
         "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytk/?vid=UCHDfPYXReWt5EVIzBA6TzOQ",
+        "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/sbt.jpg",
+        "tvgroup": "Variedades"
+    },
+    {
+        "id": 87854,
+        "tvtitle": "TV SBT - ON",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytk/?vid=UCR3TOnFWDeAlT-Ho6LueDmg",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/sbt.jpg",
         "tvgroup": "Variedades"
     },
