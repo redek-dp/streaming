@@ -175,6 +175,13 @@
         "tvgroup": "Publica"
     },
     {
+        "id": 2377,
+        "tvtitle": "TV Globo",
+        "tvmedia": "https://sinalpublicoetv.vercel.app/?id=globosp",
+        "tvlogo": "https://s2.googleusercontent.com/s2/favicons?domain=https://globo.com/&amp;sz=50",
+        "tvgroup": "Publica"
+    },
+    {
         "id": 2301,
         "tvtitle": "TV band",
         "tvmedia": "https://aptv.pages.dev/htv/d-framework/play/web/?url=https://www.band.com.br/ao-vivo",
