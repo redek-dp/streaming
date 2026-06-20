@@ -182,6 +182,13 @@
         "tvgroup": "Publica"
     },
     {
+        "id": 2287,
+        "tvtitle": "TV BAND",
+        "tvmedia": "https://sinalpublicoetv.vercel.app/?id=band",
+        "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/band.jpg",
+        "tvgroup": "Publica"
+    },
+    {
         "id": 2302,
         "tvtitle": "TV redetv",
         "tvmedia": "https://aptv.pages.dev/htv/d-framework/play/web/?url=https://www.redetv.uol.com.br/aovivo",
