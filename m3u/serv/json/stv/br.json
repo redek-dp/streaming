@@ -252,6 +252,13 @@
         "tvgroup": "Cooking"
     },
     {
+        "id": 9241,
+        "tvtitle": "TV DAV7 PODCAST",
+        "tvmedia": "https://www.youtube.com/embed/?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&list=PL9tjqljCWvB3HktZK8x0RnLk9FSPM-mv6",
+        "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/dre.jpg",
+        "tvgroup": "Cooking"
+    },
+    {
         "id": 2282,
         "tvtitle": "TV SBT News",
         "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytk/?vid=UC376n347Ob5Lwzq2WGzF1AA",
@@ -728,16 +735,9 @@
         "tvgroup": "Variedades"
     },
     {
-        "id": 84588,
+        "id": 85,
         "tvtitle": "TV SBT - SCC",
         "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytk/?vid=UCEzVIIPtAIfsRCEHwn4AOzw",
-        "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/sbt.jpg",
-        "tvgroup": "Variedades"
-    },
-    {
-        "id": 85,
-        "tvtitle": "TV SBT - RS",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytk/?vid=UCHDfPYXReWt5EVIzBA6TzOQ",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/sbt.jpg",
         "tvgroup": "Variedades"
     },
@@ -792,9 +792,9 @@
     },
     {
         "id": 92,
-        "tvtitle": "TV Adesso",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=cdn.jmvstream.com\/w\/LVW-9715\/LVW9715_12B26T62tm\/chunklist.m3u8",
-        "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/adesso.jpg",
+        "tvtitle": "TV DAV7 PODCAST",
+        "tvmedia": "https://www.youtube.com/embed/?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&list=PL9tjqljCWvB0zTe_O8yT375HPfYVisZMa",
+        "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/dv7.jpg",
         "tvgroup": "Variedades"
     },
     {
