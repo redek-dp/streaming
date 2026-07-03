@@ -1,20 +1,20 @@
 [
     {
-        "id": "a1",
+        "id": "P1",
         "tvtitle": "TV SBT",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=aovivo.maissbt.com/indexMobile.m3u8",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/sbt.jpg",
         "tvgroup": "Publica"
     },
     {
-        "id": 2,
+        "id": "P2",
         "tvtitle": "TV BAND",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=redek-dp.github.io/streaming/m3u/serv/live/band.m3u8",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/band.jpg",
         "tvgroup": "Publica"
     },
     {
-        "id": 3,
+        "id": "P3",
         "tvtitle": "TV Rede Brasil",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=redek-dp.github.io/streaming/m3u/serv/live/redebrasil.m3u8",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/rbtv.jpg",
