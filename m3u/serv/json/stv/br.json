@@ -161,45 +161,45 @@
         "tvgroup": "Publica"
     },
     {
-        "id": "A24",
+        "id": "P24",
+        "tvtitle": "TV Metropole",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=cdn-fundacao-2110.ciclano.io:1443\/fundacao-2110\/fundacao-2110\/playlist.m3u8",
+        "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/metropole.jpg",
+        "tvgroup": "Publica"
+    },
+    {
+        "id": "A01",
         "tvtitle": "TV GloboPlay",
         "tvmedia": "https://aptv.pages.dev/htv/d-framework/play/web/?url=https://globoplay.globo.com/tv-globo/ao-vivo/",
         "tvlogo": "https://s2.googleusercontent.com/s2/favicons?domain=https://globoplay.globo.com/tv-globo/ao-vivo/&amp;sz=50",
         "tvgroup": "Publica"
     },
     {
-        "id": "A25",
+        "id": "A02",
         "tvtitle": "TV band",
         "tvmedia": "https://aptv.pages.dev/htv/d-framework/play/web/?url=https://www.band.com.br/ao-vivo",
         "tvlogo": "https://s2.googleusercontent.com/s2/favicons?domain=https://www.band.com.br/ao-vivo&amp;sz=50",
         "tvgroup": "Publica"
     },
     {
-        "id": "A26",
+        "id": "A03",
         "tvtitle": "TV redetv",
         "tvmedia": "https://aptv.pages.dev/htv/d-framework/play/web/?url=https://www.redetv.uol.com.br/aovivo",
         "tvlogo": "https://s2.googleusercontent.com/s2/favicons?domain=https://www.redetv.uol.com.br/aovivo&amp;sz=50",
         "tvgroup": "Publica"
     },
     {
-        "id": "A27",
+        "id": "A04",
         "tvtitle": "TV mais sbt",
         "tvmedia": "https://aptv.pages.dev/htv/d-framework/play/web/?url=https://mais.sbt.com.br",
         "tvlogo": "https://s2.googleusercontent.com/s2/favicons?domain=https://mais.sbt.com.br&amp;sz=50",
         "tvgroup": "Publica"
     },
     {
-        "id": "A28",
+        "id": "A05",
         "tvtitle": "TV Record play",
         "tvmedia": "https://aptv.pages.dev/htv/d-framework/play/web/?url=https://www.playplus.com/live/",
         "tvlogo": "https://s2.googleusercontent.com/s2/favicons?domain=https://www.playplus.com/live/&amp;sz=50",
-        "tvgroup": "Publica"
-    },
-    {
-        "id": 24,
-        "tvtitle": "TV Metropole",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=cdn-fundacao-2110.ciclano.io:1443\/fundacao-2110\/fundacao-2110\/playlist.m3u8",
-        "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/metropole.jpg",
         "tvgroup": "Publica"
     },
     {
