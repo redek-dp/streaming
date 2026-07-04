@@ -553,305 +553,259 @@
         "tvgroup": "Esportes"
     },
     {
-        "id": 70,
+        "id": "R01",
         "tvtitle": "TV Gospel Movie",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=stmv1.srvif.com/gospelf/gospelf/playlist.m3u8",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/gospelmovie.jpg",
         "tvgroup": "Religioso"
     },
     {
-        "id": 71,
+        "id": "R02",
         "tvtitle": "TV Ccb list",
         "tvmedia": "https://www.youtube.com/embed?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&start=540&list=UU4cfCNEpwLIuYnxdDKUMPYg",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/ccb.jpg",
         "tvgroup": "Religioso"
     },
     {
-        "id": 72,
+        "id": "R03",
         "tvtitle": "TV Ccb Culto a Deus",
         "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytrjson?vid=UC4cfCNEpwLIuYnxdDKUMPYg",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/ccb.jpg",
         "tvgroup": "Religioso"
     },
     {
-        "id": 73,
+        "id": "R03",
         "tvtitle": "TV Rede Vida",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=cvd1.cds.ebtcvd.net\/live-redevida\/smil:redevida.smil\/playlist.m3u8",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/redevida.jpg",
         "tvgroup": "Religioso"
     },
     {
-        "id": 74,
+        "id": "R04",
         "tvtitle": "TV Aparecida",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=cdn.jmvstream.com\/w\/LVW-9716\/LVW9716_HbtQtezcaw\/playlist.m3u8",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=cdn.live.br1.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/aparecida.jpg",
         "tvgroup": "Religioso"
     },
     {
-        "id": 75,
+        "id": "R05",
         "tvtitle": "TV Novo Tempo",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=stream.live.novotempo.com\/tv\/smil:tvnovotempo.smil\/playlist.m3u8",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/novotempo.jpg",
         "tvgroup": "Religioso"
     },
     {
-        "id": 76,
+        "id": "R06",
         "tvtitle": "TV Igreja Universal",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=644398c.ha.azioncdn.net\/primary\/tvuniversal_480p.sdp\/playlist.m3u8",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/igrejauniversal.jpg",
         "tvgroup": "Religioso"
     },
     {
-        "id": 77,
+        "id": "R07",
         "tvtitle": "TV Rede Gospel",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=cdn.jmvstream.com\/w\/LVW-8719\/LVW8719_AcLVAxWy5J\/playlist.m3u8",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/redegospel.jpg",
         "tvgroup": "Religioso"
     },
     {
-        "id": 78,
+        "id": "R08",
         "tvtitle": "TV Aparecida Channel",
         "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCfYrK5JU5EznsnK3wQE7iIg",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/aparecida.jpg",
         "tvgroup": "Religioso"
     },
     {
-        "id": 79,
+        "id": "R09",
         "tvtitle": "TV Rede Novo Tempo",
         "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UC_OaSsAydgSIjUtjYn9qLog",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/novotempo.jpg",
         "tvgroup": "Religioso"
     },
     {
-        "id": 80,
-        "tvtitle": "TV Boas Novas",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=cdn.jmvstream.com\/w\/LVW-9375\/LVW9375_6i0wPBCHYc\/playlist.m3u8",
-        "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/boasnovas.jpg",
-        "tvgroup": "Religioso"
-    },
-    {
-        "id": 81,
+        "id": "V01",
         "tvtitle": "TV JoiasVip",
         "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCNCSZVTzpLwqyl5V2BL8sHg",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/joiasvip.jpg",
         "tvgroup": "vendas"
     },
     {
-        "id": 82,
+        "id": "I01",
         "tvtitle": "TV CBN",
         "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytrjson?vid=UCbiGwU0-W1XCDUrt3BTVrag",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/cbn.jpg",
         "tvgroup": "radios"
     },
     {
-        "id": 83,
+        "id": "I02",
         "tvtitle": "TV KroneHIT",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=bitcdn-kronehit.bitmovin.com\/v2\/hls\/playlist.m3u8",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/kronehit.jpg",
         "tvgroup": "radios"
     },
     {
-        "id": 84,
+        "id": "I03",
         "tvtitle": "TV MAIS BRASIL",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/maisb.jpg",
         "tvgroup": "radios"
     },
     {
-        "id": 88,
+        "id": "L01",
         "tvtitle": "TV LiveTV",
         "tvmedia": "https://aptv.pages.dev/htv/d-framework/play/live/",
         "tvlogo": "https://aptv.pages.dev/htv/d-framework/play/live/img/144.png",
         "tvgroup": "Variedades"
     },
     {
-        "id": 85,
-        "tvtitle": "TV SBT - SCC",
+        "id": "L02",
+        "tvtitle": "TV SBT SCC",
         "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytk/?vid=UCEzVIIPtAIfsRCEHwn4AOzw",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/sbt.jpg",
         "tvgroup": "Variedades"
     },
     {
-        "id": 87854,
-        "tvtitle": "TV SBT - ON",
+        "id": "L03",
+        "tvtitle": "TV SBT ON",
         "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytk/?vid=UCR3TOnFWDeAlT-Ho6LueDmg",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/sbt.jpg",
         "tvgroup": "Variedades"
     },
     {
-        "id": 86,
+        "id": "L04",
         "tvtitle": "TV The Pet Collective",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=the-pet-collective-international-nl.samsung.wurl.tv/playlist.m3u8",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/thepetcollective.jpg",
         "tvgroup": "Variedades"
     },
     {
-        "id": 87,
+        "id": "L05",
         "tvtitle": "TV Brasil Central",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=tbc.zoeweb.tv/tbc/tbc/playlist.m3u8",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/tbc.jpg",
         "tvgroup": "Variedades"
     },
     {
-        "id": 88,
+        "id": "L06",
         "tvtitle": "TV Brusque",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist-380p.m3u8",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/tvbrusque.jpg",
         "tvgroup": "Variedades"
     },
     {
-        "id": 89,
+        "id": "L07",
         "tvtitle": "TV Mon",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=srv1.zcast.com.br\/tvmon\/tvmon\/playlist.m3u8",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=video10.logicahost.com.br/tvmon/tvmon/chunklist.m3u8",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/mon.jpg",
         "tvgroup": "Variedades"
     },
     {
-        "id": 90,
-        "tvtitle": "TV Rede Familia",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=tv03.zas.media:1936/rftv/rftv/chunklist.m3u8",
-        "tvlogo": "https://openimg.vercel.app/api/dopps?cll=aaa&open=https://i.imgur.com/piYtcKd.png",
-        "tvgroup": "Variedades"
-    },
-
-
-
-
-    {
-        "id": 91,
+        "id": "L08",
         "tvtitle": "TV DecomTV Channel",
         "tvmedia": "https://www.youtube.com/embed/?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&list=UUHqvw9v2Fp6o006lUskoigg",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/decomtv.jpg",
         "tvgroup": "Variedades"
     },
     {
-        "id": 92,
+        "id": "L09",
         "tvtitle": "TV DAV7 PODCAST",
         "tvmedia": "https://www.youtube.com/embed/?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&list=PL9tjqljCWvB0zTe_O8yT375HPfYVisZMa",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/dv7.jpg",
         "tvgroup": "Variedades"
     },
     {
-        "id": 93,
+        "id": "L10",
         "tvtitle": "TV Rede TVSul",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=novo.bitstreaming.info:1936\/8032\/8032\/playlist.m3u8",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=5a57bda70564a.streamlock.net/tvrsul/tvrsul.sdp/chunklist.m3u8",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/redetvsul.jpg",
         "tvgroup": "Variedades"
     },
     {
-        "id": 94,
+        "id": "L11",
         "tvtitle": "TV MAX",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=59f1cbe63db89.streamlock.net:1443\/tvmax\/_definst_\/tvmax\/playlist.m3u8",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=video09.logicahost.com.br/tvmax/tvmax/chunklist.m3u8",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/tvmax.jpg",
         "tvgroup": "Variedades"
     },
     {
-        "id": 95,
+        "id": "L12",
         "tvtitle": "TV Canela Telenovelas",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=stream.ads.ottera.tv/playlist.m3u8?network_id=1152",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=stream.ads.ottera.tv/playlist.m3u8?network_id=1165",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/canelatv.jpg",
         "tvgroup": "Variedades"
     },
     {
-        "id": 96,
+        "id": "L13",
         "tvtitle": "TV Amazon Sat",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/amsat.jpg",
         "tvgroup": "Variedades"
     },
     {
-        "id": 97,
+        "id": "L14",
         "tvtitle": "TV Nordestina",
         "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytk/?vid=UC1pXFbM6hPRkUUTeO3txrtw",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/nordestina.jpg",
         "tvgroup": "Variedades"
     },
     {
-        "id": 98,
+        "id": "L15",
         "tvtitle": "TV Maceio",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=srv5.zcast.com.br\/paulo4100\/paulo4100\/playlist.m3u8",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/tvmaceio.jpg",
         "tvgroup": "Variedades"
     },
     {
-        "id": 99,
-        "tvtitle": "TV VTV-SBT",
-        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UC40TUSUx490U5uR1lZt3Ajg",
-        "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/sbttvt.jpg",
-        "tvgroup": "Variedades"
-    },
-    {
-        "id": 100,
-        "tvtitle": "TV SBT RS",
-        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCHDfPYXReWt5EVIzBA6TzOQ",
+        "id": "L16",
+        "tvtitle": "TV SBT Pa",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=video05.logicahost.com.br/tvguajara/tvguajara/chunklist.m3u8",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/sbt.jpg",
         "tvgroup": "Variedades"
     },
     {
-        "id": 101,
-        "tvtitle": "TV SBT Rio",
-        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCsRfBAspa72ExrsN347W2xg",
-        "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/sbt.jpg",
-        "tvgroup": "Variedades"
-    },
-    {
-        "id": 102,
-        "tvtitle": "TV SBT Pará",
-        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCcDerngKTEU5ryjMS-ThLbg",
-        "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/sbt.jpg",
-        "tvgroup": "Variedades"
-    },
-    {
-        "id": 103,
+        "id": "L17",
         "tvtitle": "TV Lifetime Brasil",
         "tvmedia": "https://www.youtube.com/embed/?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&list=UUAomvoiooTUciF6Z7p0h8qg",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/lifetime.jpg",
         "tvgroup": "Variedades"
     },
     {
-        "id": 104,
+        "id": "L18",
         "tvtitle": "TV YouTube Ao vivo",
         "tvmedia": "https://www.youtube.com/embed/videoseries?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&list=PLU12uITxBEPEVyQILLNHbmgJiE-sQXOcU",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/youtubelive.jpg",
         "tvgroup": "Variedades"
     },
     {
-        "id": 105,
+        "id": "L19",
         "tvtitle": "TV restore",
         "tvmedia": "https://dev7tv-online.vercel.app/play/dooble",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/outlinerestore.jpg",
         "tvgroup": "Variedades"
     },
     {
-        "id": 106,
+        "id": "L20",
         "tvtitle": "TV Gallo",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=5c483b9d1019c.streamlock.net\/8202\/8202\/playlist.m3u8",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/galo.jpg",
         "tvgroup": "Variedades"
     },
     {
-        "id": 107,
+        "id": "L21",
         "tvtitle": "TV Record",
         "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytrjson?vid=UCu_a6PAzp30Bn2mM-Ll09LA",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/record.jpg",
         "tvgroup": "Variedades"
     },
     {
-        "id": 108,
-        "tvtitle": "TV Japi",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=stmv1.paineltv.net/tvjapi/tvjapi/playlist.m3u8",
-        "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/japi.jpg",
-        "tvgroup": "Variedades"
-    },
-    {
-        "id": 109,
+        "id": "L22",
         "tvtitle": "TV ISTV",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/istv.jpg",
         "tvgroup": "Variedades"
     },
     {
-        "id": 120,
+        "id": "L23",
         "tvtitle": "TV Monster Jam",
         "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytrjson?vid=UCngNXEVdMZge3OpnD8Ca0Lw",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/monsterjam.jpg",
