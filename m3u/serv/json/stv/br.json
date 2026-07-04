@@ -57,7 +57,7 @@
     },
     {
         "id": "P9",
-        "tvtitle": "TV +SBT",
+        "tvtitle": "TV MAIS SBT",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=redek-dp.github.io/streaming/m3u/serv/live/sbt.m3u8",
         "tvlogo": "https://streami.pages.dev/m3u/serv/json/stv/img/sbt.jpg",
         "tvgroup": "Publica"
