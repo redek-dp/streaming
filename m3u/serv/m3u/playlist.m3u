@@ -4,10 +4,10 @@
 https://redek-dp.github.io/streaming/dnetwork/playlist.m3u8?#/TV DevsevenTv
 
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/LdtrAp5.png" group-title="News",TV Record News
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116#/TV Record News
+https://rnw-rn-tcl-roku-syndication.otteravision.com/rnw/rn/rnw_rn.m3u8#/TV Record News
 
-#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",TV Euronews
-https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8?#/TV Euronews
+#EXTINF:-1 tvg-id="TVBRICSPortuguese.br" tvg-logo="https://i.imgur.com/TfbokAw.png" group-title="News",TV BRICS
+https://redek-dp.github.io/streaming/m3u/serv/live/BRICS.m3u8?#/TV BRICS
 
 #EXTINF:-1 tvg-id="TheWeatherChannel" tvg-logo="https://i.imgur.com/qBEH4Yj.png" group-title="General",TV The Weather Channel
 https://db691j6te7mt4.cloudfront.net/out/v1/f65bdb9d5ac1498ba700027b5ca8a383/index_4.m3u8?#/TV The Weather Channel
@@ -15,8 +15,8 @@ https://db691j6te7mt4.cloudfront.net/out/v1/f65bdb9d5ac1498ba700027b5ca8a383/ind
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://i.imgur.com/FChBkNY.png" group-title="News",TV DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?#/TV DW English
 
-#EXTINF:-1 tvg-id="Bloomberg" tvg-logo="https://i.imgur.com/AaRX0JB.png" group-title="News",TV Bloomberg
-https://bloomberg-bloombergtv-5-eu.plex.wurl.tv/playlist.m3u8?#/TV Bloomberg
+#EXTINF:-1 tvg-id="CatveFM.br" tvg-logo="https://i.imgur.com/w89yw36.png" group-title="General",TV Catve FM
+https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8?#/TV Catve FM
 
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="News",TV TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8?#/TV TRT World
@@ -24,8 +24,8 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8?#/TV TRT World
 #EXTINF:-1 tvg-id="AccuWeatherNOW.us" tvg-logo="https://i.imgur.com/M8wbVYK.png" group-title="Weather",TV AccuWeather Now
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?#/TV AccuWeather Now
 
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News",TV Al Jazeera English
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8?#/TV Al Jazeera English
+#EXTINF:-1 tvg-id="20MinutesTV.fr" tvg-logo="https://i.imgur.com/6cfDK68.png" group-title="General",TV 20 Minutes
+https://live-20minutestv.digiteka.com/1961167769/tracks-v3a1/mono.m3u8?#/TV 20 Minutes
 
 #EXTINF:-1 tvg-id="RT.en.Espanol" tvg-logo="https://i.imgur.com/2g0OksY.png" group-title="News",TV RT en Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8?#/TV RT en Español
