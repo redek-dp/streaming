@@ -193,15 +193,12 @@ https://video04.logicahost.com.br/petloverstv/petloverstv/chunklist.m3u8?#/TV Pe
 #EXTINF:-1 tvg-id="AKCTV.us" tvg-logo="https://i.imgur.com/XRTfoSp.png" group-title="General",TV AKC
 https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8?#/TV AKC
 
-#EXTINF:-1 tvg-id="Alfenas.br" tvg-logo="https://i.imgur.com/fJqPPHq.png" group-title="General",TV Alfenas
-https://cdn.live.br1.jmvstream.com/w/AVJ-15327/playlist/chunklist.m3u8?#/TV Alfenas
-
 
 #EXTINF:-1 tvg-id="Devseven.br" tvg-logo="https://i.imgur.com/AmewaLx.png" group-title="Kids",TV DevsevenTv
 https://redek-dp.github.io/streaming/dnetwork/playlist.m3u8?#/TV DevsevenTv
 
 #EXTINF:-1 tvg-id="CanelaKids" tvg-logo="https://i.imgur.com/KploheM.png" group-title="Kids",TV Canela Kids
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=654#/TV Canela Kids
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=658#/TV Canela Kids
 
 #EXTINF:-1 tvg-id="DuckTV" tvg-logo="https://i.imgur.com/lJMSDB1.png" group-title="Kids",TV Duck TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7617#/TV Duck TV
