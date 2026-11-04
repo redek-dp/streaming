@@ -18,8 +18,8 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?#/T
 #EXTINF:-1 tvg-id="CatveFM.br" tvg-logo="https://i.imgur.com/w89yw36.png" group-title="General",TV Catve FM
 https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8?#/TV Catve FM
 
-#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="News",TV TRT World
-https://tv-trtworld.medya.trt.com.tr/master.m3u8?#/TV TRT World
+#EXTINF:-1 tvg-id="DuckTV" tvg-logo="https://i.imgur.com/lJMSDB1.png" group-title="Kids",TV Duck TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7617#/TV Duck TV
 
 #EXTINF:-1 tvg-id="AccuWeatherNOW.us" tvg-logo="https://i.imgur.com/M8wbVYK.png" group-title="Weather",TV AccuWeather Now
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?#/TV AccuWeather Now
