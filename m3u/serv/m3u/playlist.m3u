@@ -4,7 +4,7 @@
 https://redek-dp.github.io/streaming/dnetwork/playlist.m3u8?#/TV DevsevenTv
 
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/LdtrAp5.png" group-title="News",TV Record News
-https://rnw-rn-tcl-roku-syndication.otteravision.com/rnw/rn/rnw_rn.m3u8#/TV Record News
+https://rnw-rn-tcl-roku-syndication.otteravision.com/rnw/rn/rnw_rn.m3u8?#/TV Record News
 
 #EXTINF:-1 tvg-id="TVBRICSPortuguese.br" tvg-logo="https://i.imgur.com/TfbokAw.png" group-title="News",TV BRICS
 https://redek-dp.github.io/streaming/m3u/serv/live/BRICS.m3u8?#/TV BRICS
