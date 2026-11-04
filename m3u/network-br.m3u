@@ -299,7 +299,7 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8?#/TV Gospel Ca
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8?#/TV Gospel Movie
 
 #EXTINF:-1 tvg-id="NovoTempo.br" tvg-logo="https://i.imgur.com/ud4pLuH.png" group-title="Religious",TV Novo Tempo
-https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8?#/TV Novo Tempo
+https://streamtv.novotempo.com/CDN-TV-PT/smil:tvnovotempo.smil/chunklist.m3u8?#/TV Novo Tempo
 
 #EXTINF:-1 tvg-id="TVUniversal.br" tvg-logo="https://i.imgur.com/TIsk5zN.png" group-title="Religious",TV Universal
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8?#/TV Universal
