@@ -2,7 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-MEDIA:TYPE=CLOSED-CAPTIONS,GROUP-ID="captions",NAME="English",DEFAULT=NO,LANGUAGE="en",INSTREAM-ID="CC1"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=220000,CLOSED-CAPTIONS="captions"
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 https://spt-novelas-1-us.vizio.wurl.tv/playlist.m3u8
 http://170.83.16.50/SONY_CHANNEL/index.m3u8

@@ -13,10 +13,10 @@ https://rnw-rn-tcl-roku-syndication.otteravision.com/rnw/rn/rnw_rn.m3u8?#/TV Rec
 https://redek-dp.github.io/streaming/m3u/serv/live/sbtnw.m3u8?#/TV SBT News
 
 #EXTINF:-1 tvg-id="CanalRural.br" tvg-logo="https://i.imgur.com/w9R9IIX.png" group-title="Outdoor",TV Canal Rural
-https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8?#/TV Canal Rural
+https://isaocorp.cloudecast.com/canalrural/tracks-v1a1/mono.m3u8?#/TV Canal Rural
 
 #EXTINF:-1 tvg-id="TVSony.br" tvg-logo="https://i.imgur.com/il5Jgei.png" group-title="Series",TV Sony Novelas
-https://spt-novelas-1-us.vizio.wurl.tv/playlist.m3u8?#/TV Sony Novelas
+https://redek-dp.github.io/streaming/m3u/serv/live/sony.m3u8?#/TV Sony Novelas
 
 #EXTINF:-1 tvg-id="TVSul.br" tvg-logo="https://i.imgur.com/BeuiUtr.png" group-title="General",TV Sul
 https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8?#/TV Sul
@@ -25,7 +25,7 @@ https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8?#/TV Sul
 https://redek-dp.github.io/streaming/m3u/serv/live/band.m3u8?#/TV Band
 
 #EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/QC8SC4e.png" group-title="General",TV Rede Brasil
-https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist.m3u8?#/TV Rede Brasil
+https://redek-dp.github.io/streaming/m3u/serv/live/redebrasil.m3u8?#/TV Rede Brasil
 
 #EXTINF:-1 tvg-id="TVBrasil.br" tvg-logo="https://i.imgur.com/x0Zo3Gw.png" group-title="Entertainment",TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8?#/TV Brasil
@@ -60,7 +60,7 @@ https://redek-dp.github.io/streaming/m3u/serv/live/cnn.m3u8?#/TV Soul
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8?#/TV Record News
 
 #EXTINF:-1 tvg-id="awtv.br" tvg-logo="https://i.imgur.com/sVj4QYw.png" group-title="General",TV Awtv
-https://acesso.ecast.site:3070/live/awtvlive.m3u8?#/TV Awtv
+https://awtv.nuvemplay.live/hls/stream.m3u8?#/TV Awtv
 
 #EXTINF:-1 tvg-id="Tastemade.br" tvg-logo="https://i.imgur.com/FPy4zF4.png" group-title="Cooking",TV Tastemade BR
 https://redek-dp.github.io/streaming/m3u/serv/live/tastemade.m3u8?#/TV Tastemade BR
@@ -81,7 +81,7 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?#/TV Amazon Sat
 https://redek-dp.github.io/streaming/m3u/serv/live/cultura.m3u8?#/TV Cultura
 
 #EXTINF:-1 tvg-id="TVAratu.br" tvg-logo="https://i.imgur.com/CmjWjZ1.png" group-title="General",TV Aratu
-https://cdn.live.br1.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8?#/TV Aratu
+https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/chunklist.m3u8?#/TV Aratu
 
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-logo="https://i.imgur.com/ThjPIVW.png" group-title="General",TV Gazeta
 https://redek-dp.github.io/streaming/m3u/serv/live/gazeta.m3u8?#/TV Gazeta
@@ -123,8 +123,8 @@ https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/1200.m
 #EXTINF:-1 tvg-id="5-Minute.Crafts" tvg-logo="https://i.imgur.com/pyWojfO.png" group-title="Entertainment",TV 5-Minute Crafts
 https://redek-dp.github.io/streaming/m3u/serv/live/MinuteCrafts.m3u8?#/TV 5-Minute Crafts
 
-#EXTINF:-1 tvg-id="CanelaTelenovelas" tvg-logo="https://i.imgur.com/8Hllkpk.png" group-title="Entertainment",TV Canela Telenovelas
-https://redek-dp.github.io/streaming/m3u/serv/live/CanelaTelenovelas.m3u8?#/TV Canela Telenovelas
+#EXTINF:-1 tvg-id="CanelaTelenovelas" tvg-logo="https://i.imgur.com/8Hllkpk.png" group-title="Entertainment",TV Canela
+https://redek-dp.github.io/streaming/m3u/serv/live/CanelaTelenovelas.m3u8?#/TV Canela
 
 #EXTINF:-1 tvg-id="TVClic" tvg-logo="https://i.imgur.com/hEySeD5.png" group-title="Entertainment",TV Clic
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4870#/TV Clic
@@ -132,15 +132,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4870#/TV Clic
 #EXTINF:-1 tvg-id="TVCorazon" tvg-logo="https://i.imgur.com/VTn4zr3.png" group-title="Entertainment",TV Corazon
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4876#/TV Corazon
 
-#EXTINF:-1 tvg-id="CanelaClasicos" tvg-logo="https://i.imgur.com/8Hllkpk.png" group-title="Entertainment",TV Canela Clasicos
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=652#/TV Canela Clasicos
-
 #EXTINF:-1 tvg-id="TVTeleVisa.mx" tvg-logo="https://i.imgur.com/QrA2g6C.png" group-title="General",TV TeleVisa
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?#/TV TeleVisa
-
-#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://i.imgur.com/8Hllkpk.png" group-title="General",TV CanelaTV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=155#/TV CanelaTV
-
 
 #EXTINF:-1 tvg-id="Cooking.Panda" tvg-logo="https://i.imgur.com/wlLaXr6.png" group-title="Cooking",TV Cooking Panda
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=207#/TV Cooking Panda
@@ -155,10 +148,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=880#/TV NewKfood
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1149#/TV SoYummy
 
 
-
-
-#EXTINF:-1 tvg-id="Filmrise.br" tvg-logo="https://i.imgur.com/p787uYM.png" group-title="Entertainment",TV Filmrise
-https://redek-dp.github.io/streaming/m3u/serv/live/filrise.m3u8?#/TV Filmrise
 
 #EXTINF:-1 tvg-id="playtv.br" tvg-logo="https://i.imgur.com/gQtxI5O.png" group-title="Entertainment",TV playtv
 https://isaocorp.cloudecast.com/playtv/tracks-v1/index.fmp4.m3u8?#/TV playtv
@@ -188,9 +177,6 @@ https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8?#/TV People Ar
 
 #EXTINF:-1 tvg-id="P.BR" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="General",TV The Pet Collective BR
 https://the-pet-collective-international-br.samsung.wurl.tv/playlist.m3u8?#/TV The Pet Collective BR
-
-#EXTINF:-1 tvg-id="Fashion.br" tvg-logo="https://i.imgur.com/LpvKg4w.png" group-title="General",TV Fashion
-https://fashiontv-fashiontv-5-br.samsung.wurl.tv/playlist.m3u8?#/TV Fashion
 
 #EXTINF:-1 tvg-id="meio.br" tvg-logo="https://i.imgur.com/K93ditw.png" group-title="General",TV Meio
 https://redek-dp.github.io/streaming/m3u/serv/live/meio.m3u8?#/TV Meio
