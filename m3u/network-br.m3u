@@ -264,7 +264,6 @@ https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8?#/TV ConecTV Brasi
 https://redek-dp.github.io/streaming/m3u/serv/live/canaldocriador.m3u8?#/TV Canal do Criador
 
 
-
 #EXTINF:-1 tvg-id="CanalRicos.br" tvg-logo="https://i.imgur.com/hs2YVJ3.png" group-title="General",TV Canal Ricos
 https://a.cdni.live/tvcanalricos/tvcanalricos/chunklist_w1586920294.m3u8?#/TV Canal Ricos
 
@@ -289,10 +288,6 @@ https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8?#/TV Demais
 #EXTINF:-1 tvg-id="ElyTV.br" tvg-logo="https://i.imgur.com/1eHNe91.png" group-title="Entertainment",TV ElyTV
 https://stmv1.srvsite.com/ely/ely/playlist.m3u8?#/TV ElyTV
 
-#EXTINF:-1 tvg-id="EUTV.br" tvg-logo="https://i.imgur.com/8PxpamC.png" group-title="General",TV EUTV
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8?#/TV EUTV
-
-
 
 #EXTINF:-1 tvg-id="TVAparecida.br" tvg-logo="https://i.imgur.com/kxrja0X.png" group-title="Religious",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?#/TV Aparecida
@@ -312,37 +307,21 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8?#/TV 
 #EXTINF:-1 tvg-id="TVPadreCicero.br" tvg-logo="https://i.imgur.com/Y7b29VG.png" group-title="Religious",TV Padre Cicero
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8?#/TV Padre Cicero
 
-#EXTINF:-1 tvg-id="NuevoTiempo.br" tvg-logo="https://i.imgur.com/ud4pLuH.png" group-title="Religious",TV Nuevo Tiempo
-https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8?#/TV Nuevo Tiempo
-
 #EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-logo="https://i.imgur.com/HZayWGn.png" group-title="Religious",TV Rede Século 21
-https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8?#/TV Rede Século 21
+https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/chunklist.m3u8?#/TV Rede Século 21
 
 #EXTINF:-1 tvg-id="RedeVida.br" tvg-logo="https://i.imgur.com/mP1qfp2.png" group-title="Religious",TV Rede Vida
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?#/TV Rede Vida
-
+https://live.eu-north-1b.cf.dmcdn.net/sec2(apgTW6XqZi4oTWOtWMpcymRe1F1ixrFhNbkZhwP-6VHYkzErCr5Y5P7TZbjJVZWJgro2dbw-d637at8Q7ejWYCXKZEJOKBoQOugIgkH-afXsoQvf-DnQcj0ZkHY-Rv3M)/dm/3/xb1dec2/s/live-380.m3u8?#/TV Rede Vida
 
 
 #EXTINF:-1 tvg-id="ISTV.br" tvg-logo="https://i.imgur.com/RUKVrOH.png" group-title="General",TV ISTV
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8?#/TV ISTV
-
-#EXTINF:-1 tvg-id="MKKWebTV.br" tvg-logo="https://i.imgur.com/A8Yhtid.png" group-title="General",TV MKK Web
-https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8?#/TV MKK Web
 
 #EXTINF:-1 tvg-id="band.RBATV.br" tvg-logo="https://i.imgur.com/ZWFxlU1.png" group-title="General",TV RBATV
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8?#/TV RBATV
 
 #EXTINF:-1 tvg-id="band.TVArapuan.br" tvg-logo="https://i.imgur.com/3395A2h.png" group-title="General",TV Arapuan
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8?#/TV Arapuan
-
-#EXTINF:-1 tvg-id="RedeMassa.br" tvg-logo="https://i.imgur.com/yFRqXIx.png" group-title="General",TV Rede Massa
-https://watchbrdlv.s.llnwi.net/live/tviguacu/index_0.m3u8?#/TV Rede Massa
-
-#EXTINF:-1 tvg-id="RetroCartoon.br" tvg-logo="https://i.imgur.com/hIlEfhl.png" group-title="Classic",TV Retro Cartoon
-https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8?#/TV Retro Cartoon
-
-#EXTINF:-1 tvg-id="SICTV.br" tvg-logo="https://i.imgur.com/mHxQyB2.png" group-title="General",TV SIC
-https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8?#/TV SIC
 
 #EXTINF:-1 tvg-id="TVAberta.br" tvg-logo="https://i.imgur.com/SCz53uO.png" group-title="General",TV Aberta
 https://br5093.streamingdevideo.com.br/tvaberto/tvaberto/playlist.m3u8?#/TV Aberta
@@ -358,58 +337,17 @@ https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8?#/TV Alternativ
 #EXTINF:-1 tvg-id="TVCamara.br" tvg-logo="https://i.imgur.com/Sdou1Ab.png" group-title="Legislative",TV Camara 1
 https://stream3.camara.gov.br/tv1/manifest.m3u8?#/TV Camara 1
 
-#EXTINF:-1 tvg-id="TVCamara2.br" tvg-logo="https://i.imgur.com/dHrUG1R.png" group-title="Legislative",TV Camara 2
-https://stream3.camara.gov.br/tv2/manifest.m3u8?#/TV Camara 2
-
-#EXTINF:-1 tvg-id="TVCamaradeSaoPaulo.br" tvg-logo="https://i.imgur.com/Ubi6CPf.png" group-title="Legislative",TV Camara SP
-https://cloudflare.cdn.spalla.io/live/018b731f-baa9-7c1d-a060-30477bccb488/s1/playlist-1080p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJiZXkiOnRydWUsImV4cCI6MTczMTIyMjc0MiwiaWF0IjoxNzMxMTc5NTQyLCJpZCI6IjAxOTMxMjU3LTc0MWMtNzQ1Ny1hMDNiLTJjNmQyNzUzMjViMiIsIm5iZiI6MTczMTE3Nzc0MiwicmF1IjpbXSwidWlkIjoiMDE5MzEyNTctNzQxYy03NDU3LWEwM2ItMmM2ZDI3NTMyNWIyIiwidXJpX3N1YiI6Ii8wMThiNzMxZi1iYWE5LTdjMWQtYTA2MC0zMDQ3N2JjY2I0ODgvIn0.AmqAwYbd_uQSJxsTKTYYUCMFCa7pPaqZaaTLu6MdWJo&uid=01931257-741c-7457-a03b-2c6d275325b2&?#/TV Camara SP
-
-#EXTINF:-1 tvg-id="TVAssembleiaCeara.br" tvg-logo="https://i.imgur.com/UPa1tjs.png" group-title="Legislative",TV Assembleia Ceara
-https://jjn5dkk9bd.zoeweb.tv/z404-live/stream/playlist.m3u8?#/TV Assembleia Ceara
-
-#EXTINF:-1 tvg-id="TVAssembleiaMatoGrosso.br" tvg-logo="https://i.imgur.com/BtkX8kg.png" group-title="Legislative",TV Assembleia Mato Grosso
-https://streaming.al.mt.gov.br/test/index.m3u8?#/TV Assembleia Mato Grosso
-
-
-#EXTINF:-1 tvg-id="TVBEJoinville.br" tvg-logo="https://i.imgur.com/zUpWcUN.png" group-title="Culture",TV BE Joinville
-https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8?#/TV BE Joinville
-
-#EXTINF:-1 tvg-id="TVCaravelas.br" tvg-logo="https://i.imgur.com/naVyW1Z.png" group-title="General",TV Caravelas
-https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8?#/TV Caravelas
-
-#EXTINF:-1 tvg-id="TVCidadeCanal9.br" tvg-logo="https://i.imgur.com/3AyMeWx.png" group-title="General",TV Cidade Canal 9
-https://59f1cbe63db89.streamlock.net:1443/tvcidade/tvcidade/playlist.m3u8?#/TV Cidade Canal 9
-
-#EXTINF:-1 tvg-id="TVCNAgitos.br" tvg-logo="https://i.imgur.com/5gvGC0P.png" group-title="Entertainment",TV CN Agitos
-https://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8?#/TV CN Agitos
-
 #EXTINF:-1 tvg-id="TVCOMMaceio.br" tvg-logo="https://i.imgur.com/IE7IZzi.png" group-title="General",TV COM Maceio
 https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8?#/TV COM Maceio
-
-#EXTINF:-1 tvg-id="TVCOMSantos.br" tvg-logo="https://i.imgur.com/KX3fner.png" group-title="General",TV COM Santos
-https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/playlist.m3u8?#/TV COM Santos
-
-#EXTINF:-1 tvg-id="TVCordeiro.br" tvg-logo="https://i.imgur.com/wNULjux.png" group-title="Entertainment",TV Cordeiro
-https://stmv2.voxtvhd.com.br/tvcordeiro/tvcordeiro/playlist.m3u8?#/TV Cordeiro
 
 #EXTINF:-1 tvg-id="TVCuruca.br" tvg-logo="https://i.imgur.com/JdCKNZ4.png" group-title="Entertainment",TV Curuca
 https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8?#/TV Curuca
 
-
 #EXTINF:-1 tvg-id="TVERS.br" tvg-logo="https://i.imgur.com/MQ6lJpS.png" group-title="Culture",TV TVE RS
 https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8?#/TV TVE RS
 
-#EXTINF:-1 tvg-id="TVFuturo.br" tvg-logo="https://i.imgur.com/WolQiaQ.png" group-title="General",TV Futuro
-https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8?#/TV Futuro
-
-#EXTINF:-1 tvg-id="TVGalegaBlumenau.br" tvg-logo="https://i.imgur.com/xwfxS9N.png" group-title="General",TV Galega Blumenau
-https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8?#/TV Galega Blumenau
-
 #EXTINF:-1 tvg-id="TVGuara.br" tvg-logo="https://i.imgur.com/8PErNBT.png" group-title="General",TV Guara
 https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8?#/TV Guara
-
-#EXTINF:-1 tvg-id="TVJapi.br" tvg-logo="https://i.imgur.com/dnmzIhF.png" group-title="General",TV Japi
-https://stmv1.paineltv.net/tvjapi/tvjapi/playlist.m3u8?#/TV Japi
 
 #EXTINF:-1 tvg-id="TVMaceio.br" tvg-logo="https://i.imgur.com/zZ9LEOZ.png" group-title="General",TV Maceio
 https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8?#/TV Maceio
@@ -420,20 +358,8 @@ https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8?#/T
 #EXTINF:-1 tvg-id="TVMarajoara.br" tvg-logo="https://i.imgur.com/9d9vBN7.png" group-title="General",TV Marajoara
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8?#/TV Marajoara
 
-#EXTINF:-1 tvg-id="TVMAX.br" tvg-logo="https://i.imgur.com/2Pg0baJ.png" group-title="General",TV MAX
-https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8?#/TV MAX
-
 #EXTINF:-1 tvg-id="TVMetropole.br" tvg-logo="https://i.imgur.com/bJyjLpg.png" group-title="General",TV Metropole
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8?#/TV Metropole
-
-#EXTINF:-1 tvg-id="TVMon.br" tvg-logo="https://i.imgur.com/Gjan8rl.png" group-title="General",TV Mon
-https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8?#/TV Mon
-
-#EXTINF:-1 tvg-id="TVNBN.br" tvg-logo="https://i.imgur.com/zoHBxn1.png" group-title="General",TV NBN
-https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8?#/TV NBN
-
-#EXTINF:-1 tvg-id="TVOmindare.br" tvg-logo="https://i.imgur.com/naZZUIT.png" group-title="Culture",TV Omindare
-https://video01.kshost.com.br/lourdes52007/lourdes52007/playlist.m3u8?#/TV Omindare
 
 #EXTINF:-1 tvg-id="TVPantanalMS.br" tvg-logo="https://i.imgur.com/0FOmktl.png" group-title="General",TV Pantanal MS
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8?#/TV Pantanal MS
@@ -444,9 +370,6 @@ https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8?#/TV Pass
 #EXTINF:-1 tvg-id="TVPlan.br" tvg-logo="https://i.imgur.com/U1cYYuy.png" group-title="General",TV Plan
 https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8?#/TV Plan
 
-#EXTINF:-1 tvg-id="TVRioGrande.br" tvg-logo="https://i.imgur.com/nlDNDu3.png" group-title="Entertainment",TV Rio Grande
-https://stmv1.srvif.com/tvriogrande/tvriogrande/playlist.m3u8?#/TV Rio Grande
-
 #EXTINF:-1 tvg-id="TVRioPreto.br" tvg-logo="https://i.imgur.com/9EqSKLc.png" group-title="General",TV Rio Preto
 https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8?#/TV Rio Preto
 
@@ -456,14 +379,5 @@ https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8?#/TV Series
 #EXTINF:-1 tvg-id="TVTudoBH.br" tvg-logo="https://i.imgur.com/5SKSkUQ.png" group-title="Shop",TV Tudo BH
 https://tv02.zas.media:1936/tvtudo/tvtudo/playlist.m3u8?#/TV Tudo BH
 
-#EXTINF:-1 tvg-id="TVZoom.br" tvg-logo="https://i.imgur.com/jCGrjf5.png" group-title="Entertainment",TV Zoom
-https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8?#/TV Zoom
-
 #EXTINF:-1 tvg-id="UnisulTV.br" tvg-logo="https://i.imgur.com/N0TvAFz.png" group-title="Culture",TV Unisul
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?#/TV Unisul
-
-#EXTINF:-1 tvg-id="VirtualTV.br" tvg-logo="https://i.imgur.com/e1b0TTP.png" group-title="Music",TV Virtual
-https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/playlist.m3u8?#/TV Virtual
-
-#EXTINF:-1 tvg-id="Futura.br" tvg-logo="https://i.postimg.cc/Hng0W5Cy/300px-Canal-Futura.png" group-title="Education",TV Futura
-https://cdn.mycloudstream.io/hls/live/broadcast/pxf9amx8/index.m3u8?#/TV Futura
